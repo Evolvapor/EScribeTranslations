@@ -10,6 +10,6 @@ If it does not find this either, it will default to the English text.
 
 If you have any questions, feel free to contact me at <james@dimensionengineering.com>.
 
-Thank you for your help!
+Thank you!
 
 James

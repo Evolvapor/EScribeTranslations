@@ -1,0 +1,5 @@
+msgid "English text"
+msgstr "translated text"
+
+msgid "more English text"
+msgstr "more translated text"

@@ -1,0 +1,1274 @@
+#. standard
+msgid  "OK"
+msgstr "确认"
+
+msgid  "Cancel"
+msgstr "取消"
+
+#. menus
+msgid  "&File"
+msgstr "文件"
+
+msgid  "&New (Reset to Evolv Standard)"
+msgstr "新建(重置到Evolv默认设置)"
+
+msgid  "&Open..."
+msgstr "打开..."
+
+msgid  "&Save"
+msgstr "保存"
+
+msgid  "Save &As..."
+msgstr "另存为"
+
+msgid  "E&xit"
+msgstr "退出"
+
+msgid  "&Edit"
+msgstr "编辑"
+
+msgid  "&Undo"
+msgstr "撤销"
+
+msgid  "&Redo"
+msgstr "重做"
+
+msgid  "&Internet"
+msgstr "联网"
+
+msgid  "&Log in..."
+msgstr "登录..."
+
+msgid  "E-mail:"
+msgstr "邮箱:"
+
+msgid  "Password:"
+msgstr "密码:"
+
+msgid  "My Account"
+msgstr "我的帐号"
+
+msgid  "Register"
+msgstr "注册"
+
+msgid  "Login"
+msgstr "登录"
+
+msgid  "Log &out"
+msgstr "注销"
+
+msgid  "&Options"
+msgstr "选项"
+
+msgid  "Automatically Check for &Updates"
+msgstr "自动检查更新"
+
+msgid  "Clear Recent Files List"
+msgstr "清除最近的文件列表"
+
+msgid  "&Connect..."
+msgstr "连接..."
+
+msgid  "Dis&connect"
+msgstr "断开连接"
+
+msgid  "&Tools"
+msgstr "工具箱"
+
+msgid  "&Calculator"
+msgstr "计算器"
+
+msgid  "Calculator"
+msgstr "计算器"
+
+msgid  "Results"
+msgstr "结果"
+
+msgid  "Equation"
+msgstr "公式"
+
+msgid  "Calculate"
+msgstr "计算"
+
+msgid  "&Production Utility"
+msgstr "制作工具"
+
+msgid  "Serial &Terminal"
+msgstr "串行终端"
+
+msgid  "Serial Terminal"
+msgstr "串行终端"
+
+msgid  "Data"
+msgstr "数据"
+
+msgid  "Command"
+msgstr "指令"
+
+msgid  "System &Information"
+msgstr "系统信息"
+
+msgid  "&Reboot Device"
+msgstr "重启设备"
+
+msgid  "&Soft Reboot..."
+msgstr "软重启..."
+
+msgid  "&Hard Reboot..."
+msgstr "硬重启..."
+
+msgid  "Show Serial &Number..."
+msgstr "显示序列号..."
+
+msgid  "Update &Firmware..."
+msgstr "固件更新..."
+
+msgid  "&Help"
+msgstr "帮助"
+
+msgid  "&Website"
+msgstr "官方网站"
+
+msgid  "&Help Desk"
+msgstr "咨询服务"
+
+msgid  "Report a &Bug"
+msgstr "报告错误"
+
+msgid  "Bug Report"
+msgstr "报告错误"
+
+msgid  "E-mail Address (optional):"
+msgstr "邮件地址(可选):"
+
+msgid  "&Send"
+msgstr "发送"
+
+msgid  "Send &Feedback"
+msgstr "发送反馈意见"
+
+msgid  "Feedback Form"
+msgstr "反馈表单"
+
+msgid  "U.S. &Patents"
+msgstr "美国发明专利"
+
+msgid  "&About {0}"
+msgstr "关于{0}"
+
+msgid  "About {0}"
+msgstr "关于{0}"
+
+#. Connect dialog
+msgid  "Connect"
+msgstr "连接"
+
+msgid  "Device:"
+msgstr "设备:"
+
+msgid  "Rename..."
+msgstr "重命名..."
+
+#. Connect dialog Rename Device
+msgid  "Rename Device"
+msgstr "重命名设备"
+
+msgid  "New Name:"
+msgstr "新建名称:"
+
+#. toolbar
+msgid  "Connect and &Download Settings"
+msgstr "连接和下载设置"
+
+msgid  "&Upload Settings to Device"
+msgstr "上传设置到设备"
+
+msgid  "Device &Monitor"
+msgstr "设备监控"
+
+msgid  "{0} connected on USB."
+msgstr "{0} 通过USB连接."
+
+msgid  "Downloading Settings"
+msgstr "正在下载设置"
+
+msgid  "Uploading Settings"
+msgstr "正在上传设置"
+
+msgid  "Verifying Settings"
+msgstr "正在验证设置"
+
+#. General tab
+msgid  "General"
+msgstr "通用设置"
+
+msgid  "My DNA"
+msgstr "我的芯片"
+
+msgid  "Manufacturer:"
+msgstr "制造商:"
+
+msgid  "Model:"
+msgstr "模型:"
+
+msgid  "History:"
+msgstr "出厂:"
+
+msgid  "Get Information"
+msgstr "获取信息"
+
+msgid  "{0} can get information online about your mod."
+msgstr "{0}可以在线获取你的方案的相关信息."
+
+msgid  "Restore Defaults"
+msgstr "还原默认设置"
+
+msgid  "Profile {0}"
+msgstr "配置 {0}"
+
+msgid  "Name:"
+msgstr "名称:"
+
+msgid  "Custom Screen:"
+msgstr "自定义屏幕:"
+
+msgid  "Settings"
+msgstr "设置"
+
+msgid  "Power:"
+msgstr "功率:"
+
+msgid  "Temperature:"
+msgstr "温度:"
+
+msgid  "Off"
+msgstr "关闭"
+
+msgid  "Ohms Locked"
+msgstr "电阻锁定"
+
+msgid  "If you connect a temperature-sensing coil..."
+msgstr "如果你连接了一个支持温度感应的线圈..."
+
+msgid  "Coil Material:"
+msgstr "线圈材料:"
+
+msgid  "Nickel 200"
+msgstr "镍 200"
+
+msgid  "Custom"
+msgstr "自定义"
+
+msgid  "Material Profile:"
+msgstr "材料概况:"
+
+msgid  "Move/Resize"
+msgstr "移动/调整"
+
+msgid  "Split"
+msgstr "拆分"
+
+msgid  "Delete"
+msgstr "删除"
+
+msgid  "Set X"
+msgstr "设置x"
+
+msgid  "X value:"
+msgstr "x值:"
+
+msgid  "Set Y"
+msgstr "设置y"
+
+msgid  "Y value:"
+msgstr "y值:"
+
+msgid  "Custom Materials"
+msgstr "自定义材料"
+
+msgid  "Load CSV..."
+msgstr "载入csv..."
+
+msgid  "Save CSV..."
+msgstr "保存csv..."
+
+msgid  "Label..."
+msgstr "标签..."
+
+msgid  "Special"
+msgstr "特殊"
+
+msgid  "Reduce Number of Points..."
+msgstr "减少点数..."
+
+msgid  "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "电阻温度系数(近似值)..."
+
+msgid  "Preheat Power:"
+msgstr "预热功率:"
+
+msgid  "Preheat Punch:"
+msgstr "预热冲力:"
+
+msgid  "Soft"
+msgstr "弱"
+
+msgid  "Hard"
+msgstr "强"
+
+msgid  "Preheat Time Limit:"
+msgstr "预热时间限制:"
+
+msgid  "Atomizer Analyzer"
+msgstr "雾化器分析器"
+
+msgid  "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "{0}可以用来分析你的雾化器电阻稳定性."
+
+#. Theme tab
+msgid "Theme"
+msgstr "主题"
+
+msgid  "Load Theme..."
+msgstr "载入主题..."
+
+msgid  "Save Theme..."
+msgstr "保存主题..."
+
+msgid  "Default Theme"
+msgstr "默认主题"
+
+msgid  "Custom Screens"
+msgstr "自定义屏幕"
+
+msgid  "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "屏幕有{0}像素宽和{1}像素高."
+
+msgid  "Capture..."
+msgstr "捕获..."
+
+msgid  "Load..."
+msgstr "载入..."
+
+msgid  "Save..."
+msgstr "保存..."
+
+msgid  "Default"
+msgstr "默认"
+
+msgid  "Welcome (Primary):"
+msgstr "欢迎(首屏):"
+
+msgid  "Welcome (Secondary):"
+msgstr "欢迎(二屏):"
+
+msgid  "Normal Mode:"
+msgstr "普通模式:"
+
+msgid  "Stealth Mode:"
+msgstr "隐藏模式:"
+
+msgid  "New Coil Yes/No:"
+msgstr "新雾化器按+同一个雾化器按-:"
+
+msgid  "Hold To Lock Ohms:"
+msgstr "按住锁定电阻:"
+
+msgid  "Hold To Unlock Ohms:"
+msgstr "按住解锁电阻:"
+
+msgid  "Power Locked Hold Up Down:"
+msgstr "按住+-解锁功率:"
+
+msgid  "Locked Click 5X:"
+msgstr "按5次解锁:"
+
+msgid  "Hold To Change Temp:"
+msgstr "按住改变温度:"
+
+msgid  "Kanthal Max Power:"
+msgstr "康丝最大功率:"
+
+msgid  "Show Message"
+msgstr "显示信息"
+
+msgid  "Don't Show"
+msgstr "不显示"
+
+msgid  "Temperature Protected:"
+msgstr "温度保护:"
+
+msgid  "Show Temperature"
+msgstr "显示温度"
+
+msgid  "Too Hot:"
+msgstr "过热:"
+
+msgid  "Shorted:"
+msgstr "短路:"
+
+msgid  "Check Atomizer:"
+msgstr "检查雾化器:"
+
+msgid  "Ohms Too Low:"
+msgstr "电阻过低:"
+
+msgid  "Ohms Too High:"
+msgstr "电阻过高:"
+
+msgid  "Check Battery:"
+msgstr "检查电池:"
+
+msgid  "Weak Battery:"
+msgstr "电池弱电:"
+
+msgid  "Imbalanced Battery:"
+msgstr "电池失衡:"
+
+#. Screen tab
+msgid  "Screen"
+msgstr "屏幕"
+
+msgid  "Display"
+msgstr "显示"
+
+msgid  "Orientation:"
+msgstr "方向:"
+
+msgid  "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid  "Battery Meter:"
+msgstr "电量标志:"
+
+msgid  "On Default Screens"
+msgstr "默认屏幕"
+
+msgid  "On Main Screen Only"
+msgstr "仅主屏幕"
+
+msgid  "On All Screens"
+msgstr "所有屏幕"
+
+msgid  "Error Flashes:"
+msgstr "报错屏闪:"
+
+msgid  "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0}秒错误, {1:0.0}秒状态"
+
+msgid  "Show error only."
+msgstr "仅显示错误."
+
+msgid  "Fields"
+msgstr "区域"
+
+msgid  "Default Field {0}:"
+msgstr "默认区域{0}:"
+
+msgid  "Ohms"
+msgstr "电阻"
+
+msgid  "Ohms (Standard)"
+msgstr "电阻(默认)"
+
+msgid  "Voltage"
+msgstr "电压"
+
+msgid  "Voltage (Standard)"
+msgstr "电压(默认)"
+
+msgid  "Temperature"
+msgstr "温度"
+
+msgid  "Temperature (Standard)"
+msgstr "温度(默认)"
+
+msgid  "Battery Charge %"
+msgstr "电池电量%"
+
+msgid  "Battery Charge Wh"
+msgstr "电池电量wh"
+
+msgid  "USB Power"
+msgstr "usb功率"
+
+msgid  "USB Current"
+msgstr "usb电流"
+
+msgid  "USB Current (Standard)"
+msgstr "usb电流(默认)"
+
+msgid  "USB Voltage"
+msgstr "usb电压"
+
+msgid  "Battery Pack"
+msgstr "电池组"
+
+msgid  "Battery Cell {0}"
+msgstr "电池单元{0}"
+
+msgid  "Current"
+msgstr "电流"
+
+msgid  "Board Temperature"
+msgstr "板温"
+
+msgid  "Room Temperature"
+msgstr "室温"
+
+msgid  "Puff Count"
+msgstr "喷烟计数"
+
+msgid  "Last Energy"
+msgstr "最后的能量平均统计值"
+
+msgid  "Last Power"
+msgstr "最后的功率平均统计值"
+
+msgid  "Last Temperature"
+msgstr "最后的温度平均统计值"
+
+msgid  "Last Time"
+msgstr "最后的时间平均统计值"
+
+msgid  "Charging Field {0}:"
+msgstr "充电区域{0}:"
+
+msgid  "Brightness"
+msgstr "亮度"
+
+msgid  "Firing Brightness:"
+msgstr "点火亮度:"
+
+msgid  "Fade to..."
+msgstr "淡出为..."
+
+msgid  "Set to..."
+msgstr "设置为..."
+
+msgid  "Temporarily set to..."
+msgstr "暂时设为..."
+
+msgid  "Do not change."
+msgstr "不进行更改."
+
+msgid  "Screen active after puff."
+msgstr "喷烟后屏幕激活."
+
+msgid  "Screen off after puff."
+msgstr "喷烟后屏幕关闭."
+
+msgid  "No effect on idle state."
+msgstr "空闲状态下无影响."
+
+msgid  "Active Brightness:"
+msgstr "激活亮度:"
+
+msgid  "Active Time:"
+msgstr "激活时间:"
+
+msgid  "Idle Brightness:"
+msgstr "空闲亮度:"
+
+msgid  "Idle Time:"
+msgstr "空闲时间:"
+
+msgid  "Charging Brightness:"
+msgstr "充电亮度:"
+
+msgid  "Fade-in Time:"
+msgstr "淡入时间:"
+
+msgid  "Fade-out Time:"
+msgstr "淡出时间:"
+
+#. Mod tab
+msgid  "Mod"
+msgstr "方案"
+
+msgid  "Battery"
+msgstr "电池"
+
+msgid  "Type:"
+msgstr "类型:"
+
+msgid  "Lithium Polymer"
+msgstr "锂聚合物(Li-Po)"
+
+msgid  "LiFePO4"
+msgstr "磷酸铁锂(LiFePO4)"
+
+msgid  "Power Supply"
+msgstr "电力供应"
+
+msgid  "Capacity:"
+msgstr "容量:"
+
+msgid  "{0}-cell"
+msgstr "{0}-单元"
+
+msgid  "Watt-Hour Calculator"
+msgstr "电能计算器"
+
+msgid  "Cell Soft Cutoff:"
+msgstr "电池单元弱电切断:"
+
+msgid  "Charging Mode:"
+msgstr "充电模式:"
+
+msgid  "Maximize Puffs"
+msgstr "最大限度喷烟"
+
+msgid  "Maximize Recharges"
+msgstr "最大限度提高充电"
+
+msgid  "Discharge Profile:"
+msgstr "放电概况:"
+
+msgid  "Battery Analyzer"
+msgstr "电池分析器"
+
+msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "{0}可以用来分析你的电池容量和放电曲线."
+
+msgid  "Electrical"
+msgstr "电"
+
+msgid  "Kanthal Power Limit:"
+msgstr "康丝功率限制:"
+
+msgid  "Mod Resistance:"
+msgstr "方案电阻:"
+
+msgid  "Ohm Lock Range: ±"
+msgstr "电阻锁定范围: ±"
+
+msgid  "Mechanical"
+msgstr "机械"
+
+msgid  "Up/Down Buttons:"
+msgstr "上/下按钮:"
+
+msgid  "Normal"
+msgstr "普通"
+
+msgid  "Swapped"
+msgstr "调换"
+
+msgid  "Thermal"
+msgstr "热"
+
+msgid  "Case Analyzer"
+msgstr "案例分析器"
+
+msgid  "{0} can be used to analyze your case's thermal properties."
+msgstr "{0}可以用来分析你的热性能."
+
+#. Research tab
+msgid  "Research"
+msgstr "超限研究"
+
+msgid  "Data Acquisition"
+msgstr "数据采集"
+
+msgid  "Serial Output Format:"
+msgstr "输出格式:"
+
+msgid  "Plain Text Serial"
+msgstr "纯文本序列"
+
+msgid  "CSV (Excel)"
+msgstr "CSV (Excel表格)"
+
+msgid  "Experimental Setup"
+msgstr "限制实验设置"
+
+msgid  "Coil Resistance:"
+msgstr "线圈电阻:"
+
+msgid  "Automatic"
+msgstr "全自动"
+
+msgid  "Locked"
+msgstr "锁定"
+
+msgid  "Temperature Limit:"
+msgstr "温度限制:"
+
+msgid  "Configurable"
+msgstr "可配置"
+
+msgid  "Puff Limit:"
+msgstr "喷烟口数限制:"
+
+msgid  "Disabled"
+msgstr "禁用"
+
+msgid  "Enabled"
+msgstr "启用"
+
+msgid  "Energy Limit:"
+msgstr "能量限制:"
+
+msgid  "Time Limit:"
+msgstr "时间限制:"
+
+msgid  "Apply Research Seal"
+msgstr "防篡改加密"
+
+msgid  "Break Research Seal"
+msgstr "解除加密"
+
+msgid  "Check Research Seal"
+msgstr "检查加密"
+
+msgid  "Reset Statistics"
+msgstr "重置统计"
+
+#. Device Monitor
+msgid  "Device Monitor"
+msgstr "设备监控"
+
+msgid  "Live View"
+msgstr "实时查看"
+
+msgid  "USB Power:"
+msgstr "usb 功率:"
+
+msgid  "USB Current:"
+msgstr "usb 电流:"
+
+msgid  "USB Voltage:"
+msgstr "usb 电压:"
+
+msgid  "Charge:"
+msgstr "充电:"
+
+msgid  "Pack:"
+msgstr "电池组:"
+
+msgid  "Cell {0}:"
+msgstr "电池单元 {0}:"
+
+msgid  "Current Puff"
+msgstr "当前喷烟情况"
+
+msgid  "Power:"
+msgstr "功率:"
+
+msgid  "Power Set:"
+msgstr "功率设置:"
+
+msgid  "Temperature:"
+msgstr "温度:"
+
+msgid  "Temperature Set:"
+msgstr "温度设置:"
+
+msgid  "Current:"
+msgstr "电流:"
+
+msgid  "Voltage:"
+msgstr "电压:"
+
+msgid  "Cold Ohms:"
+msgstr "常温电阻:"
+
+msgid  "Live Ohms:"
+msgstr "实时电阻:"
+
+msgid  "Room Temp:"
+msgstr "室内温度:"
+
+msgid  "Board Temp:"
+msgstr "主板温度:"
+
+msgid  "Statistics"
+msgstr "数据统计"
+
+msgid  "Since Reset"
+msgstr "重置以后"
+
+msgid  "Total"
+msgstr "总数"
+
+msgid  "Last Puff"
+msgstr "最后喷烟平均统计值"
+
+msgid  "Mean"
+msgstr "平均数"
+
+msgid  "Std. Dev."
+msgstr "标准偏差(统计)"
+
+msgid  "Puffs:"
+msgstr "喷烟口数:"
+
+msgid  "Temp-Protected:"
+msgstr "温度保护"
+
+msgid  "Energy:"
+msgstr "能量:"
+
+msgid  "Power:"
+msgstr "功率:"
+
+msgid  "Temperature:"
+msgstr "温度:"
+
+msgid  "Time:"
+msgstr "时间:"
+
+msgid  "&Record..."
+msgstr "记录..."
+
+msgid  "Graph &Options"
+msgstr "图表选项"
+
+msgid  "&Clear Graph"
+msgstr "清除图表"
+
+msgid  "&Save Graph..."
+msgstr "保存图表..."
+
+msgid  "Set &Time Scale..."
+msgstr "时间刻度设置..."
+
+msgid  "Puf&f..."
+msgstr "喷烟..."
+
+msgid        "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0]    "{0} 秒"
+msgstr[1]    "{0} 秒"
+
+msgid  "&Custom..."
+msgstr "自定义..."
+
+msgid  "Puff"
+msgstr "喷烟"
+
+msgid  "Duration (seconds):"
+msgstr "持续时间(秒):"
+
+msgid  "Set &Power..."
+msgstr "功率设置..."
+
+msgid  "Set Power"
+msgstr "功率设置"
+
+msgid  "Power (W):"
+msgstr "功率(w):"
+
+msgid  "Set &Temperature..."
+msgstr "温度设置..."
+
+msgid  "Set Temperature"
+msgstr "温度设置"
+
+msgid  "Units:"
+msgstr "单位:"
+
+msgid  "&Disable Temperature Protection"
+msgstr "禁用温度保护"
+
+msgid  "&Research"
+msgstr "研究"
+
+msgid  "Enter Temperature &Monitoring Mode..."
+msgstr "进入温度监控模式..."
+
+msgid  "&Diagnostics"
+msgstr "诊断"
+
+msgid  "Set &Profile..."
+msgstr "配置文件设置..."
+
+msgid  "Set Profile"
+msgstr "配置文件设置"
+
+msgid  "Set &Charge Estimate..."
+msgstr "充电估算值设置..."
+
+msgid  "&Set USB Current Limit..."
+msgstr "usb电流限制设置..."
+
+msgid  "&Reset USB Current Limit"
+msgstr "重置usb电流限制"
+
+msgid  "&Advanced"
+msgstr "高级"
+
+msgid  "Perform USB &Recovery Charging..."
+msgstr "执行usb恢复性充电..."
+
+msgid  "Reset &Statistics"
+msgstr "重置统计"
+
+msgid  "Resets: {0}"
+msgstr "重置: {0}"
+
+msgid  "Version: {0}"
+msgstr "版本: {0}"
+
+#. added in 2015-07-29
+#. Device Monitor
+msgid  "Mode: {0}"
+msgstr "模式: {0}"
+
+msgid  "Stealth"
+msgstr "隐藏"
+
+msgid  "Power Locked"
+msgstr "锁定电源"
+
+msgid  "Buttons: {0}"
+msgstr "按键: {0}"
+
+msgid  "None"
+msgstr "没有"
+
+msgid  "Fire"
+msgstr "点火"
+
+msgid  "Profile: {0}"
+msgstr "配置文件:{0}"
+
+#. added in 2015-08-07
+msgid  "Fahrenheit"
+msgstr "华氏度"
+
+msgid  "Celsius"
+msgstr "摄氏度"
+
+#. added in 2015-08-07
+#. Get Information
+msgid  "Board programmed"
+msgstr "主板程序封装"
+
+msgid  "Mod configured"
+msgstr "方案配置"
+
+#. added in 2015-08-07
+#. curve editing
+msgid  "Label Curve"
+msgstr "标签曲线"
+
+msgid  "New Label:"
+msgstr "新建标签:"
+
+msgid  "Reduce Number of Points"
+msgstr "减少点数"
+
+msgid  "Remaining Point Count:"
+msgstr "剩余点数:"
+
+msgid  "Reduction Method:"
+msgstr "缩减方法:"
+
+msgid  "Temperature Coefficient of Resistance"
+msgstr "电阻温度系数"
+
+msgid  "Electrical Resistivity"
+msgstr "电阻率"
+
+msgid  "Temperature (°F)"
+msgstr "温度(°f)"
+
+msgid  "Cell Voltage (V)"
+msgstr "电池单元电压(v)"
+
+msgid  "Battery Charge (%)"
+msgstr "电池充电(%)"
+
+#. added in 2015-08-07
+#. Device Monitor
+msgid  "Set Time Scale"
+msgstr "时间刻度设置"
+
+msgid  "Time Scale (seconds):"
+msgstr "时间刻度(秒):"
+
+msgid  "Profile:"
+msgstr "配置:"
+
+msgid  "Set Charge Estimate"
+msgstr "充电估算值设置"
+
+msgid  "Charge (Wh):"
+msgstr "充电(wh):"
+
+msgid  "Set USB Current Limit"
+msgstr "usb电流限制设置"
+
+msgid  "Current (A):"
+msgstr "电流(A):"
+
+msgid  "Temperature Monitoring Mode"
+msgstr "温度监控模式"
+
+msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
+msgstr "在温度监测模式下,温度将被显示.\n它不会以任何方式进行限制."
+
+msgid  "Continue?"
+msgstr "继续吗?"
+
+#. added in 2015-08-07
+#. Theme tab
+msgid  "Capturing Screen"
+msgstr "屏幕捕获"
+
+#. added in 2015-08-07
+#. Atomizer Analyzer
+msgid  "Raw Ohms:"
+msgstr "初始电阻:"
+
+msgid  "Nominal Ohms:"
+msgstr "额定电阻:"
+
+msgid  "Cold Ohms:"
+msgstr "常温电阻:"
+
+msgid  "Room Temp:"
+msgstr "室内温度:"
+
+#. added in 2015-08-07
+#. Battery Analyzer
+msgid  "&Start"
+msgstr "开始"
+
+msgid  "&Stop"
+msgstr "停止"
+
+msgid  "&Accept"
+msgstr "接受"
+
+#. added in 2015-08-07
+#. Watt-Hour Calculator
+msgid  "Battery Pack Voltage"
+msgstr "电池组电压"
+
+msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
+msgstr "知道您电池组的总电压吗?\n一般它会印在电池上."
+
+msgid  "Calculate Watt-Hours"
+msgstr "计算电能"
+
+msgid  "Battery Cell Capacity (mAh):"
+msgstr "电池单元容量(mAh):"
+
+msgid  "Number of Battery Cells:"
+msgstr "电池单元数量:"
+
+msgid  "Nominal Cell Voltage:"
+msgstr "电池单元额定电压:"
+
+msgid  "Nominal Pack Voltage:"
+msgstr "电池组额定电压:"
+
+msgid  "Calculation Result"
+msgstr "计算结果"
+
+msgid  "Your battery has a capacity of {0} watt-hours."
+msgstr "您的电池容量为{0}瓦特时."
+
+msgid  "Use this value?"
+msgstr "使用这个数值?"
+
+#. added in 2015-08-07
+#. Research tab
+msgid  "Return To Researcher:"
+msgstr "超限重新设置:"
+
+msgid  "Enter Research Seal"
+msgstr "输入防篡改密码"
+
+msgid  "Research seal is intact."
+msgstr "防篡改封条完好无损."
+
+msgid  "Research seal does not match."
+msgstr "防篡改密码不符."
+
+msgid  "Reached the rate limit. Try again later."
+msgstr "达到速率限制.请稍后重试."
+
+msgid  "Success"
+msgstr "成功"
+
+msgid  "Research seal applied."
+msgstr "防篡改加密完成."
+
+msgid  "Research seal broken."
+msgstr "解除防篡改加密."
+
+msgid  "Statistics reset."
+msgstr "统计数据重置."
+
+msgid  "Error"
+msgstr "错误"
+
+msgid  "A researcher has already applied a seal to this device."
+msgstr "研究人员已经开启了此设备防篡改加密功能."
+
+msgid  "This device has not been sealed for research."
+msgstr "此设备并没有被防篡改加密设置."
+
+#. added in 2015-08-07
+#. Tools->Show Serial Number
+msgid  "Serial Number"
+msgstr "序列号"
+
+msgid  "Copy to Clipboard?"
+msgstr "复制到剪贴板?"
+
+msgid  "Copied."
+msgstr "复制."
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid  "New firmware is available!"
+msgstr "有新的固件可用!"
+
+msgid  "Click here to update your device to {0}."
+msgstr "点击这里更新您的设备至{0}."
+
+msgid  "Please Wait"
+msgstr "请等待"
+
+msgid  "Updating Core Firmware"
+msgstr "正在更新固件核心"
+
+msgid  "Updating Firmware"
+msgstr "正在更新固件"
+
+msgid  "New Firmware"
+msgstr "新的固件"
+
+msgid  "New firmware is going to be uploaded."
+msgstr "新固件将被上传."
+
+msgid  "Before clicking OK, please make sure that the device is idle."
+msgstr "单击确定之前,请确保设备处于空闲状态."
+
+msgid  "Firmware update complete."
+msgstr "固件更新完成."
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid  "Production Utility"
+msgstr "制作工具"
+
+msgid  "&Save..."
+msgstr "保存..."
+
+msgid  "Browse..."
+msgstr "浏览..."
+
+msgid  "Model Name:"
+msgstr "模型名称:"
+
+msgid  "Firmware File:"
+msgstr "固件文件:"
+
+msgid  "Settings File:"
+msgstr "设置文件:"
+
+msgid  "&Program && Test"
+msgstr "编程&&测试"
+
+#. added in 2015-08-08 By SamMao
+#. General->Coil Material->Custom->Material Profile->Special->Reduce Number of Points
+msgid  "Absolute Error"
+msgstr "绝对误差"
+
+msgid  "Area of Error"
+msgstr "区域误差"
+
+#. added in 2015-08-08 By SamMao
+#. General->Device Monitor
+msgid  "Invalid Value"
+msgstr "无效值"
+
+msgid  "Value must be a number."
+msgstr "输入值必须为数字."
+
+#. added in 2015-08-08 By SamMao
+#. General->Atomizer Analyzer
+msgid  "For an atomizer to work reliably with temperature protection, it must make good contact so as to not change Ohms arbitrarily. Because temperature-sensing atomizers tend to be low-Ohm, the mechanical design can make a big difference, in a way that is not evident when an atomizer is being used for power control only."
+msgstr "For an atomizer to work reliably with temperature protection, it must make good contact so as to not change Ohms arbitrarily. Because temperature-sensing atomizers tend to be low-Ohm, the mechanical design can make a big difference, in a way that is not evident when an atomizer is being used for power control only."
+
+msgid  "Many atomizer designs provide stable Ohms, but we have encountered cases of poor contact not only with loosened connections, but with (seemingly) tight ones. This analyzer is meant to help you determine whether the atomizer you are using is sufficiently well-designed to work reliably with temperature protection. It will measure once per second."
+msgstr "Many atomizer designs provide stable Ohms, but we have encountered cases of poor contact not only with loosened connections, but with (seemingly) tight ones. This analyzer is meant to help you determine whether the atomizer you are using is sufficiently well-designed to work reliably with temperature protection. It will measure once per second."
+
+msgid  "To test, slowly change how tightly screwed in your atomizer connection is, and see if the Ohms changes significantly as you turn, or if certain positions have different Ohms. Ideally, your atomizer Ohms should be stable."
+msgstr "To test, slowly change how tightly screwed in your atomizer connection is, and see if the Ohms changes significantly as you turn, or if certain positions have different Ohms. Ideally, your atomizer Ohms should be stable."
+
+msgid  "Note: Recent puffs may mean the atomizer is still hot. Because Ohms is temperature-sensing, it will change until the temperature reaches equilibrium. Also, this analyzer will slightly warm the atomizer."
+msgstr "Note: Recent puffs may mean the atomizer is still hot. Because Ohms is temperature-sensing, it will change until the temperature reaches equilibrium. Also, this analyzer will slightly warm the atomizer."
+
+msgid  "{0} (Kanthal), {0} (Temp)"
+msgstr "{0} (Kanthal), {0} (Temp)"
+
+#. added in 2015-08-08 By SamMao
+#. Theme
+msgid  "All default screens Copyright 2015 Evolv Inc. For use only in Evolv electronics."
+msgstr "所有默认屏显Evolv公司2015版权所有.仅使用于Evolv公司电子烟."
+
+msgid  "Customized screens are copyrighted by their respective creators."
+msgstr "自定义屏显版权归各自的创造者所有."
+
+#. added in 2015-08-08 By SamMao
+#. Mod
+msgid  "Case Cooling Time Constant:"
+msgstr "冷却时间常数:"
+
+msgid  "Case Heating Time Constant:"
+msgstr "发热时间常数:"
+
+msgid  "Case USB Charge ΔT:"
+msgstr "USB充电情况ΔT:"
+
+msgid  "Minimum Ambient Temperature:"
+msgstr "最低环境温度:"
+
+msgid  "Maximum Ambient Temperature:"
+msgstr "最高环境温度:"
+
+#. added in 2015-08-08 By SamMao
+#. Mod->Battery Analyzer
+msgid  "This tool will analyze the capacity and discharge profile of your battery.\nMake sure your battery begins the test fully charged."
+msgstr "This tool will analyze the capacity and discharge profile of your battery.\nMake sure your battery begins the test fully charged."
+
+msgid  "Attach a resistor capable of sinking the test power you choose.\n(40W is a reasonably representative test power.)"
+msgstr "Attach a resistor capable of sinking the test power you choose.\n(40W is a reasonably representative test power.)"
+
+msgid  "The test will fire until the battery is empty."
+msgstr "The test will fire until the battery is empty."
+
+msgid  "What power would you like to conduct the test at?"
+msgstr "What power would you like to conduct the test at?"
+
+#. added in 2015-08-08 By SamMao
+#. Mod->Case Analyzer
+msgid  "This tool will analyze the thermal response of your case to varying USB charge rates."
+msgstr "This tool will analyze the thermal response of your case to varying USB charge rates."
+
+msgid  "Make sure your device is quarter-to-half-charged and under normal thermal conditions."
+msgstr "Make sure your device is quarter-to-half-charged and under normal thermal conditions."
+
+msgid  "What is the room temperature (°F)?"
+msgstr "What is the room temperature (°F)?"
+
+#. added in 2015-08-08 By SamMao
+#. Device Monitor->Diagnostics->Advanced->Perform USB &Recovery Charging
+msgid  "USB Recovery Charging"
+msgstr "USB Recovery Charging"
+
+msgid  "Are you sure you want to perform USB recovery charging?\nThis will record a recovery event with Evolv Support."
+msgstr "Are you sure you want to perform USB recovery charging?\nThis will record a recovery event with Evolv Support."
+
+msgid  "This device has had 1 recovery charge(s) performed.\nContinue?"
+msgstr "This device has had 1 recovery charge(s) performed.\nContinue?"

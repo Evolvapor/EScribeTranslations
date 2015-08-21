@@ -1,0 +1,1283 @@
+#. Copy this over (with your changes) to EScribe.po and restart EScribe for the changes to take effect.
+#. Make sure you keep your original, as new versions of EScribe overwrite en\EScribe.po.
+#. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, or zh-CN\EScribe.po.
+#. At this point this is only a partial list of translatable text.
+#. The default example just changes everything to lowercase.
+
+#. standard
+msgid  "OK"
+msgstr "OK"
+
+msgid  "Cancel"
+msgstr "Avbryt"
+
+#. menus
+msgid  "&File"
+msgstr "&Fil"
+
+msgid  "&New (Reset to {0} Standard)"
+msgstr "&Ny (tilbakestill til {0} standard)"
+
+msgid  "&Open..."
+msgstr "&Åpne..."
+
+msgid  "&Save"
+msgstr "&Lagre"
+
+msgid  "Save &As..."
+msgstr "Lagre som..."
+
+msgid  "E&xit"
+msgstr "Avslutt"
+
+msgid  "&Edit"
+msgstr "&Rediger"
+
+msgid  "&Undo"
+msgstr "&Angre"
+
+msgid  "&Redo"
+msgstr "&Gjenta"
+
+msgid  "&Internet"
+msgstr "&Internett"
+
+msgid  "&Log in..."
+msgstr "&Logg inn..."
+
+msgid  "E-mail:"
+msgstr "E-post:"
+
+msgid  "Password:"
+msgstr "Passord:"
+
+msgid  "My Account"
+msgstr "Min konto"
+
+msgid  "Register"
+msgstr "Registrer"
+
+msgid  "Login"
+msgstr "Logg inn"
+
+msgid  "Log &out"
+msgstr "Logg &ut"
+
+msgid  "&Options"
+msgstr "&Alternativer"
+
+msgid  "Automatically Check for &Updates"
+msgstr "Se etter oppdateringer automatisk"
+
+msgid  "Clear Recent Files List"
+msgstr "Tøm liste over siste filer"
+
+msgid  "&Connect..."
+msgstr "&Koble til..."
+
+msgid  "Dis&connect"
+msgstr "Koble fra"
+
+msgid  "&Tools"
+msgstr "&Verktøy"
+
+msgid  "&Calculator"
+msgstr "&Kalkulator"
+
+msgid  "Calculator"
+msgstr "Kalkulator"
+
+msgid  "Results"
+msgstr "Resultater"
+
+msgid  "Equation"
+msgstr "Ligning"
+
+msgid  "Calculate"
+msgstr "Kalkuler"
+
+msgid  "&Production Utility"
+msgstr "&Produksjonsverktøy"
+
+msgid  "Serial &Terminal"
+msgstr "Seriell&terminal"
+
+msgid  "Serial Terminal"
+msgstr "Serielltterminal"
+
+msgid  "Data"
+msgstr "Data"
+
+msgid  "Command"
+msgstr "Kommando"
+
+msgid  "System &Information"
+msgstr "System&informasjon"
+
+msgid  "&Reboot Device"
+msgstr "&Omstart enhet"
+
+msgid  "&Soft Reboot..."
+msgstr "&Myk omstart..."
+
+msgid  "&Hard Reboot..."
+msgstr "&Hard omstart..."
+
+msgid  "Show Serial &Number..."
+msgstr "Vis serie&nummer..."
+
+msgid  "Update &Firmware..."
+msgstr "Oppdater &fastvare..."
+
+msgid  "&Help"
+msgstr "&Hjelp"
+
+msgid  "&Website"
+msgstr "&Nettsted"
+
+msgid  "&Help Desk"
+msgstr "&Brukerstøtte"
+
+msgid  "Report a &Bug"
+msgstr "Rapporter en feil"
+
+msgid  "Bug Report"
+msgstr "Feilrapport"
+
+msgid  "E-mail Address (optional):"
+msgstr "Epost-adresse (valgfri):"
+
+msgid  "&Send"
+msgstr "&Send"
+
+msgid  "Send &Feedback"
+msgstr "Send &tilbakemelding"
+
+msgid  "Feedback Form"
+msgstr "Tilbakemeldingsskjema"
+
+msgid  "U.S. &Patents"
+msgstr "U.S.-&patenter"
+
+msgid  "&About {0}"
+msgstr "&Om {0}"
+
+msgid  "About {0}"
+msgstr "Om {0}"
+
+#. Connect dialog
+msgid  "Connect"
+msgstr "Koble til"
+
+msgid  "Device:"
+msgstr "Enhet:"
+
+msgid  "Rename..."
+msgstr "Gi nytt navn..."
+
+#. Connect dialog Rename Device
+msgid  "Rename Device"
+msgstr "Gi nytt navn til enhet"
+
+msgid  "New Name:"
+msgstr "Nytt navn:"
+
+#. toolbar
+msgid  "Connect and &Download Settings"
+msgstr "Koble til og last ned innstillinger"
+
+msgid "&Upload Settings to Device"
+msgstr "&Last opp innstillinger til enhet"
+
+msgid  "Device &Monitor"
+msgstr "Enhets&monitor"
+
+msgid  "{0} connected on USB."
+msgstr "{0} koblet til usb."
+
+msgid  "Downloading Settings"
+msgstr "Laster ned innstillinger"
+
+msgid  "Uploading Settings"
+msgstr "Laster opp innstillinger"
+
+msgid  "Verifying Settings"
+msgstr "Bekrefter innstillinger"
+
+#. General tab
+msgid  "General"
+msgstr "Generelt"
+
+msgid  "My DNA"
+msgstr "Min DNA"
+
+msgid  "Manufacturer:"
+msgstr "Produsent:"
+
+msgid  "Model:"
+msgstr "Modell:"
+
+msgid  "History:"
+msgstr "Historie:"
+
+msgid  "Get Information"
+msgstr "Få informasjon"
+
+msgid  "{0} can get information online about your mod."
+msgstr "{0} kan få informasjon om modden din på nett."
+
+msgid  "Restore Defaults"
+msgstr "Gjenopprett standarder"
+
+msgid  "Profile {0}"
+msgstr "Profil {0}"
+
+msgid  "Name:"
+msgstr "Navn:"
+
+msgid  "Custom Screen:"
+msgstr "Tilpasset skjerm:"
+
+msgid  "Settings"
+msgstr "Innstillinger"
+
+msgid  "Power:"
+msgstr "Effekt:"
+
+msgid  "Temperature:"
+msgstr "Temperatur:"
+
+msgid  "Off"
+msgstr "Av"
+
+msgid  "Ohms Locked"
+msgstr "Ohm låst"
+
+msgid  "If you connect a temperature-sensing coil..."
+msgstr "Hvis du kobler til en temperaturfølende spole..."
+
+msgid  "Coil Material:"
+msgstr "Spolemateriale:"
+
+msgid  "Nickel 200"
+msgstr "Nikkel 200"
+
+msgid  "Custom"
+msgstr "Tilpasset"
+
+msgid  "Material Profile:"
+msgstr "Materialprofil:"
+
+msgid  "Move/Resize"
+msgstr "Flytt/endre størrelse"
+
+msgid  "Split"
+msgstr "Splitt"
+
+msgid  "Delete"
+msgstr "Slett"
+
+msgid  "Set X"
+msgstr "Sett x"
+
+msgid  "X value:"
+msgstr "X-verdi:"
+
+msgid  "Set Y"
+msgstr "Sett y"
+
+msgid  "Y value:"
+msgstr "Y-verdi:"
+
+msgid  "Custom Materials"
+msgstr "Tilpassede materialer"
+
+msgid  "Load CSV..."
+msgstr "Last CSV..."
+
+msgid  "Save CSV..."
+msgstr "Lagre CSV..."
+
+msgid  "Label..."
+msgstr "Etikett..."
+
+msgid  "Special"
+msgstr "Spesial"
+
+msgid  "Reduce Number of Points..."
+msgstr "Reduser antall punkter..."
+
+msgid  "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "Temperaturkoeffisient for motstand (tilnærming)..."
+
+msgid  "Preheat Power:"
+msgstr "Forhåndsvarmeeffekt:"
+
+msgid  "Preheat Punch:"
+msgstr "Forhåndsvarmetrøkk:"
+
+msgid  "Soft"
+msgstr "Myk"
+
+msgid  "Hard"
+msgstr "Hard"
+
+msgid  "Preheat Time Limit:"
+msgstr "Tidsgrense for forhåndsvarme:"
+
+msgid  "Atomizer Analyzer"
+msgstr "Fordamper-analysator"
+
+msgid  "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "{0} kan brukes til å analysere hvor stabil motstanden i fordamperen din er."
+
+#. Theme tab
+msgid "Theme"
+msgstr "Tema"
+
+msgid  "Load Theme..."
+msgstr "Last tema..."
+
+msgid  "Save Theme..."
+msgstr "Lagre tema..."
+
+msgid  "Default Theme"
+msgstr "Standard tema"
+
+msgid  "Custom Screens"
+msgstr "Tilpassede skjermer"
+
+msgid  "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "Skjermer er {0} piksler brede og {1} piksler høye."
+
+msgid  "Capture..."
+msgstr "Hent..."
+
+msgid  "Load..."
+msgstr "Last..."
+
+msgid  "Save..."
+msgstr "Lagre..."
+
+msgid  "Default"
+msgstr "Standard"
+
+msgid  "Welcome (Primary):"
+msgstr "Velkommen (primær):"
+
+msgid  "Welcome (Secondary):"
+msgstr "Velkommen (sekundær):"
+
+msgid  "Normal Mode:"
+msgstr "Normalmodus:"
+
+msgid  "Stealth Mode:"
+msgstr "Skjult modus:"
+
+msgid  "New Coil Yes/No:"
+msgstr "Ny spole ja/nei:"
+
+msgid  "Hold To Lock Ohms:"
+msgstr "Hold for å låse ohm:"
+
+msgid  "Hold To Unlock Ohms:"
+msgstr "Hold for å låse opp ohm:"
+
+msgid  "Power Locked Hold Up Down:"
+msgstr "Effekt låst hold opp&ned:"
+
+msgid  "Locked Click 5X:"
+msgstr "Låst klikk 5x:"
+
+msgid  "Hold To Change Temp:"
+msgstr "Hold for å endre temp:"
+
+msgid  "Kanthal Max Power:"
+msgstr "Kanthal maks effekt:"
+
+msgid  "Show Message"
+msgstr "Vis melding"
+
+msgid  "Don't Show"
+msgstr "Ikke vis"
+
+msgid  "Temperature Protected:"
+msgstr "Temperatur beskyttet:"
+
+msgid  "Show Temperature"
+msgstr "Vis temperatur"
+
+msgid  "Too Hot:"
+msgstr "For varm:"
+
+msgid  "Shorted:"
+msgstr "Kortsluttet:"
+
+msgid  "Check Atomizer:"
+msgstr "Sjekk fordamper:"
+
+msgid  "Ohms Too Low:"
+msgstr "Ohm for lav:"
+
+msgid  "Ohms Too High:"
+msgstr "Ohm for høy:"
+
+msgid  "Check Battery:"
+msgstr "Sjekk batteri:"
+
+msgid  "Weak Battery:"
+msgstr "Svakt batteri:"
+
+msgid  "Imbalanced Battery:"
+msgstr "Ubalansert batteri:"
+
+#. Screen tab
+msgid  "Screen"
+msgstr "Skjerm"
+
+msgid  "Display"
+msgstr "Visning"
+
+msgid  "Orientation:"
+msgstr "Retning:"
+
+msgid  "Left"
+msgstr "Venstre"
+
+msgid  "Right"
+msgstr "Høyre"
+
+msgid  "Battery Meter:"
+msgstr "Batterimåler:"
+
+msgid  "On Default Screens"
+msgstr "På standardskjermer"
+
+msgid  "On Main Screen Only"
+msgstr "Kun på hovedskjerm"
+
+msgid  "On All Screens"
+msgstr "På alle skjermer"
+
+msgid  "Error Flashes:"
+msgstr "Blink ved feil:"
+
+msgid  "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0} s feil, {1:0.0} s status"
+
+msgid  "Show error only."
+msgstr "Vis kun feil."
+
+msgid  "Fields"
+msgstr "Felter"
+
+msgid  "Default Field {0}:"
+msgstr "Standard felt {0}:"
+
+msgid  "Ohms"
+msgstr "Ohm"
+
+msgid  "Ohms (Standard)"
+msgstr "Ohm (standard)"
+
+msgid  "Voltage"
+msgstr "Spenning"
+
+msgid  "Voltage (Standard)"
+msgstr "Spenning (standard)"
+
+msgid  "Temperature"
+msgstr "Temperatur"
+
+msgid  "Temperature (Standard)"
+msgstr "Temperatur (standard)"
+
+msgid  "Battery Charge %"
+msgstr "Batterinivå %"
+
+msgid  "Battery Charge Wh"
+msgstr "Batterinivå Wh"
+
+msgid  "USB Power"
+msgstr "USB-effekt"
+
+msgid  "USB Current"
+msgstr "USB-strøm"
+
+msgid  "USB Current (Standard)"
+msgstr "USB-strøm (standard)"
+
+msgid  "USB Voltage"
+msgstr "USB-spenning"
+
+msgid  "Battery Pack"
+msgstr "Batteripakke"
+
+msgid  "Battery Cell {0}"
+msgstr "battericelle {0}"
+
+msgid  "Current"
+msgstr "Strøm"
+
+msgid  "Board Temperature"
+msgstr "Kretskorttemperatur"
+
+msgid  "Room Temperature"
+msgstr "Romtemperatur"
+
+msgid  "Puff Count"
+msgstr "Antall trekk"
+
+msgid  "Last Energy"
+msgstr "Siste energi"
+
+msgid  "Last Power"
+msgstr "Siste effekt"
+
+msgid  "Last Temperature"
+msgstr "Siste temperatur"
+
+msgid  "Last Time"
+msgstr "Siste tid"
+
+msgid  "Charging Field {0}:"
+msgstr "Felt under lading {0}:"
+
+msgid  "Brightness"
+msgstr "Lysstyrke"
+
+msgid  "Firing Brightness:"
+msgstr "Lysstyrke ved fyring:"
+
+msgid  "Fade to..."
+msgstr "Fade til..."
+
+msgid  "Set to..."
+msgstr "Sett til..."
+
+msgid  "Temporarily set to..."
+msgstr "Sett midlertidig til..."
+
+msgid  "Do not change."
+msgstr "Ikke endre."
+
+msgid  "Screen active after puff."
+msgstr "Skjerm aktiv etter trekk."
+
+msgid  "Screen off after puff."
+msgstr "Skjerm av etter trekk."
+
+msgid  "No effect on idle state."
+msgstr "Ingen innvirkning på hviletilstand."
+
+msgid  "Active Brightness:"
+msgstr "Aktiv lysstyrke:"
+
+msgid  "Active Time:"
+msgstr "Aktiv tid:"
+
+msgid  "Idle Brightness:"
+msgstr "Lysstyrke ved hvile:"
+
+msgid  "Idle Time:"
+msgstr "Hviletid:"
+
+msgid  "Charging Brightness:"
+msgstr "Lysstyrke ved lading:"
+
+msgid  "Fade-in Time:"
+msgstr "Fade-inn-tid:"
+
+msgid  "Fade-out Time:"
+msgstr "Fade-ut-tid:"
+
+#. Mod tab
+msgid  "Mod"
+msgstr "Mod"
+
+msgid  "Battery"
+msgstr "Batteri"
+
+msgid  "Type:"
+msgstr "Type:"
+
+msgid  "Lithium Polymer"
+msgstr "Litium-polymer"
+
+msgid  "LiFePO4"
+msgstr "LiFePO4"
+
+msgid  "Power Supply"
+msgstr "Strømforsyning"
+
+msgid  "Capacity:"
+msgstr "Kapasitet:"
+
+msgid  "{0}-cell"
+msgstr "{0}-celle"
+
+msgid  "Watt-Hour Calculator"
+msgstr "Watt-time-kalkulator"
+
+msgid  "Cell Soft Cutoff:"
+msgstr "Celle myk grense:"
+
+msgid  "Charging Mode:"
+msgstr "Lademodus:"
+
+msgid  "Maximize Puffs"
+msgstr "Maksimer trekk"
+
+msgid  "Maximize Recharges"
+msgstr "Maksimer ladesykluser"
+
+msgid  "Discharge Profile:"
+msgstr "Utladningsprofil:"
+
+msgid  "Battery Analyzer"
+msgstr "Batterianalysator"
+
+msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "{0} kan brukes for å analysere kapasiteten og utladningsprofilen til batteriet ditt.."
+
+msgid  "Electrical"
+msgstr "Elektrisk"
+
+msgid  "Kanthal Power Limit:"
+msgstr "Kanthal-effektgrense:"
+
+msgid  "Mod Resistance:"
+msgstr "Mod-motstand:"
+
+msgid  "Ohm Lock Range: ±"
+msgstr "Ohm-lås-område: ±"
+
+msgid  "Mechanical"
+msgstr "Mekanisk"
+
+msgid  "Up/Down Buttons:"
+msgstr "Opp/ned-knapper:"
+
+msgid  "Normal"
+msgstr "Normal"
+
+msgid  "Swapped"
+msgstr "Byttet"
+
+msgid  "Thermal"
+msgstr "Termisk"
+
+msgid  "Case Analyzer"
+msgstr "Boksanalysator"
+
+msgid  "{0} can be used to analyze your case's thermal properties."
+msgstr "{0} kan brukes til å analysere de termiske egenskapene til boksen din."
+
+#. Research tab
+msgid  "Research"
+msgstr "Forskning"
+
+msgid  "Data Acquisition"
+msgstr "Datainnhenting"
+
+msgid  "Serial Output Format:"
+msgstr "Seriell-utformat:"
+
+msgid  "Plain Text Serial"
+msgstr "Enkel tekst seriell"
+
+msgid  "CSV (Excel)"
+msgstr "CSV (Excel)"
+
+msgid  "Experimental Setup"
+msgstr "Eksperimentelt oppsett"
+
+msgid  "Coil Resistance:"
+msgstr "Spole-motstand:"
+
+msgid  "Automatic"
+msgstr "Automatisk"
+
+msgid  "Locked"
+msgstr "Låst"
+
+msgid  "Temperature Limit:"
+msgstr "Temperaturgrense:"
+
+msgid  "Configurable"
+msgstr "Justerbar"
+
+msgid  "Puff Limit:"
+msgstr "Trekk-grense:"
+
+msgid  "Disabled"
+msgstr "Deaktivert"
+
+msgid  "Enabled"
+msgstr "Aktivert"
+
+msgid  "Energy Limit:"
+msgstr "Energi-grense:"
+
+msgid  "Time Limit:"
+msgstr "Tidsgrense:"
+
+msgid  "Apply Research Seal"
+msgstr "Sett på forskningsforsegling"
+
+msgid  "Break Research Seal"
+msgstr "Bryt forskningsforsegling"
+
+msgid  "Check Research Seal"
+msgstr "Sjekk forskningsforsegling"
+
+msgid  "Reset Statistics"
+msgstr "Tilbakestill statistikk"
+
+#. Device Monitor
+msgid  "Device Monitor"
+msgstr "Enhetsmonitor"
+
+msgid  "Live View"
+msgstr "Sanntidsvisning"
+
+msgid  "USB Power:"
+msgstr "USB-effekt:"
+
+msgid  "USB Current:"
+msgstr "USB-strøm:"
+
+msgid  "USB Voltage:"
+msgstr "USB-spenning:"
+
+msgid  "Charge:"
+msgstr "Ladenivå:"
+
+msgid  "Pack:"
+msgstr "Pakke:"
+
+msgid  "Cell {0}:"
+msgstr "Celle {0}:"
+
+msgid  "Current Puff"
+msgstr "Dette trekket"
+
+msgid  "Power:"
+msgstr "Effekt:"
+
+msgid  "Power Set:"
+msgstr "Innstilt effekt:"
+
+msgid  "Temperature:"
+msgstr "Temperatur:"
+
+msgid  "Temperature Set:"
+msgstr "Innstilt temperatur:"
+
+msgid  "Current:"
+msgstr "Strøm:"
+
+msgid  "Voltage:"
+msgstr "Spenning:"
+
+msgid  "Cold Ohms:"
+msgstr "Kalde ohm:"
+
+msgid  "Live Ohms:"
+msgstr "Live ohm:"
+
+msgid  "Room Temp:"
+msgstr "Romtemp:"
+
+msgid  "Board Temp:"
+msgstr "Korttemp:"
+
+msgid  "Statistics"
+msgstr "Statistikk"
+
+msgid  "Since Reset"
+msgstr "Siden nullstilling"
+
+msgid  "Total"
+msgstr "Totalt"
+
+msgid  "Last Puff"
+msgstr "Siste trekk"
+
+msgid  "Mean"
+msgstr "Middel"
+
+msgid  "Std. Dev."
+msgstr "Std. avvik"
+
+msgid  "Puffs:"
+msgstr "Trekk:"
+
+msgid  "Temp-Protected:"
+msgstr "Temp-beskyttet:"
+
+msgid  "Energy:"
+msgstr "Energi:"
+
+msgid  "Power:"
+msgstr "Effekt:"
+
+msgid  "Temperature:"
+msgstr "Temperatur:"
+
+msgid  "Time:"
+msgstr "Tid:"
+
+msgid  "&Record..."
+msgstr "&Ta opp..."
+
+msgid  "Graph &Options"
+msgstr "Graf-innstillinger"
+
+msgid  "&Clear Graph"
+msgstr "&Tøm graf"
+
+msgid  "&Save Graph..."
+msgstr "&Lagre graf..."
+
+msgid  "Set &Time Scale..."
+msgstr "Sett &tidsskala..."
+
+msgid  "Puf&f..."
+msgstr "Trekk..."
+
+msgid        "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0]    "{0} sekund"
+msgstr[1]    "{0} sekunder"
+
+msgid  "&Custom..."
+msgstr "&Tilpasset..."
+
+msgid  "Puff"
+msgstr "Trekk"
+
+msgid  "Duration (seconds):"
+msgstr "Varighet (sekunder):"
+
+msgid  "Set &Power..."
+msgstr "Sett &effekt..."
+
+msgid  "Set Power"
+msgstr "Sett effekt"
+
+msgid  "Power (W):"
+msgstr "Effekt (W):"
+
+msgid  "Set &Temperature..."
+msgstr "Sett &temperatur..."
+
+msgid  "Set Temperature"
+msgstr "Sett temperatur"
+
+msgid  "Units:"
+msgstr "Enheter:"
+
+msgid  "&Disable Temperature Protection"
+msgstr "&Deaktiver temperaturbeskyttelse"
+
+msgid  "&Research"
+msgstr "&Forskning"
+
+msgid  "Enter Temperature &Monitoring Mode..."
+msgstr "Start temperaturovervåkningsmodus..."
+
+msgid  "&Diagnostics"
+msgstr "&Diagnostikk"
+
+msgid  "Set &Profile..."
+msgstr "Sett &profil..."
+
+msgid  "Set Profile"
+msgstr "Sett profil"
+
+msgid  "Set &Charge Estimate..."
+msgstr "Sett &ladingsestimat..."
+
+msgid  "&Set USB Current Limit..."
+msgstr "&Sett USB-strømgrense..."
+
+msgid  "&Reset USB Current Limit"
+msgstr "&Nullstill USB-strømgrense"
+
+msgid  "&Advanced"
+msgstr "&Avansert"
+
+msgid  "Perform USB &Recovery Charging..."
+msgstr "Gjennomfør USB-gjenopprettingslading..."
+
+msgid  "Reset &Statistics"
+msgstr "Nullstill &statistikk"
+
+msgid  "Resets: {0}"
+msgstr "Nullstiller: {0}"
+
+msgid  "Version: {0}"
+msgstr "Versjon: {0}"
+
+#. added in 2015-07-29
+#. Device Monitor
+msgid  "Mode: {0}"
+msgstr "Modus: {0}"
+
+msgid  "Stealth"
+msgstr "Skjult"
+
+msgid  "Power Locked"
+msgstr "Effekt låst"
+
+msgid  "Buttons: {0}"
+msgstr "Knapper: {0}"
+
+msgid  "None"
+msgstr "Ingen"
+
+msgid  "Fire"
+msgstr "Fyr"
+
+msgid  "Profile: {0}"
+msgstr "Profil: {0}"
+
+#. added in 2015-08-07
+msgid  "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid  "Celsius"
+msgstr "Celsius"
+
+#. added in 2015-08-07
+#. Get Information
+msgid  "Board programmed"
+msgstr "Kort programmert"
+
+msgid  "Mod configured"
+msgstr "Mod konfigurert"
+
+#. added in 2015-08-07
+#. curve editing
+msgid  "Label Curve"
+msgstr "Navngi kurve"
+
+msgid  "New Label:"
+msgstr "Ny etikett:"
+
+msgid  "Reduce Number of Points"
+msgstr "Reduser antall punkter"
+
+msgid  "Remaining Point Count:"
+msgstr "Gjenstående antall punkter:"
+
+msgid  "Reduction Method:"
+msgstr "Reduksjonsmetode:"
+
+msgid  "Temperature Coefficient of Resistance"
+msgstr "Temperaturkoeffisient for motstand"
+
+msgid  "Electrical Resistivity"
+msgstr "Elektrisk resistivitet"
+
+msgid  "Temperature (°F)"
+msgstr "Temperatur (°F)"
+
+msgid  "Cell Voltage (V)"
+msgstr "Cellespenning (V)"
+
+msgid  "Battery Charge (%)"
+msgstr "Batterinivå (%)"
+
+#. added in 2015-08-07
+#. Device Monitor
+msgid  "Set Time Scale"
+msgstr "Sett tidsskala"
+
+msgid  "Time Scale (seconds):"
+msgstr "Tidsskala (sekunder):"
+
+msgid  "Profile:"
+msgstr "Profil:"
+
+msgid  "Set Charge Estimate"
+msgstr "Sett ladeestimat"
+
+msgid  "Charge (Wh):"
+msgstr "Ladenivå (Wh):"
+
+msgid  "Set USB Current Limit"
+msgstr "Sett USB-strømgrense"
+
+msgid  "Current (A):"
+msgstr "Strøm (A):"
+
+msgid  "Temperature Monitoring Mode"
+msgstr "Temperaturovervåkningsmodus"
+
+msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
+msgstr "I temperaturovervåkningsmodus blir temperaturen vist.\nDen blir ikke begrenset på noen måte."
+
+msgid  "Continue?"
+msgstr "Fortsett?"
+
+#. added in 2015-08-07
+#. Theme tab
+msgid  "Capturing Screen"
+msgstr "Fanger skjerm"
+
+#. added in 2015-08-07
+#. Atomizer Analyzer
+msgid  "Raw Ohms:"
+msgstr "Rå ohm:"
+
+msgid  "Nominal Ohms:"
+msgstr "Nominell ohm:"
+
+msgid  "Cold Ohms:"
+msgstr "Kald ohm:"
+
+msgid  "Room Temp:"
+msgstr "Romtemp:"
+
+#. added in 2015-08-07
+#. Battery Analyzer
+msgid  "&Start"
+msgstr "&Start"
+
+msgid  "&Stop"
+msgstr "&Stopp"
+
+msgid  "&Accept"
+msgstr "&Aksepter"
+
+#. added in 2015-08-07
+#. Watt-Hour Calculator
+msgid  "Battery Pack Voltage"
+msgstr "Batteripakkespenning"
+
+msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
+msgstr "Vet du den totale spenningen til batteripakken din?\nDette står vanligvis på det."
+
+msgid  "Calculate Watt-Hours"
+msgstr "Kalkuler watt-timer"
+
+msgid  "Battery Cell Capacity (mAh):"
+msgstr "Battericellekapasitet (mAh):"
+
+msgid  "Number of Battery Cells:"
+msgstr "Antall battericeller:"
+
+msgid  "Nominal Cell Voltage:"
+msgstr "Nominell cellespenning:"
+
+msgid  "Nominal Pack Voltage:"
+msgstr "Nominell pakkespenning:"
+
+msgid  "Calculation Result"
+msgstr "Kalkulert resultat"
+
+msgid  "Your battery has a capacity of {0} watt-hours."
+msgstr "Batteriet ditt har en kapasitet på {0} watt-timer."
+
+msgid  "Use this value?"
+msgstr "Bruk denne verdien?"
+
+#. added in 2015-08-07
+#. Research tab
+msgid  "Return To Researcher:"
+msgstr "Returner til forsker:"
+
+msgid  "Enter Research Seal"
+msgstr "Legg inn forskningsforsegling"
+
+msgid  "Research seal is intact."
+msgstr "Forskningsforsegling er intakt."
+
+msgid  "Research seal does not match."
+msgstr "Forskningsforsegling stemmer ikke."
+
+msgid  "Reached the rate limit. Try again later."
+msgstr "Nådde rategrensen. Prøv igjen senere."
+
+msgid  "Success"
+msgstr "Suksess"
+
+msgid  "Research seal applied."
+msgstr "Forskningsforsegling aktivert."
+
+msgid  "Research seal broken."
+msgstr "Forskningsforsegling brutt."
+
+msgid  "Statistics reset."
+msgstr "Statistikk nullstilt."
+
+msgid  "Error"
+msgstr "Feil"
+
+msgid  "A researcher has already applied a seal to this device."
+msgstr "En forsker har allerede forseglet denne enheten."
+
+msgid  "This device has not been sealed for research."
+msgstr "Denne enheten har ikke blitt forseglet for forskning."
+
+#. added in 2015-08-07
+#. Tools->Show Serial Number
+msgid  "Serial Number"
+msgstr "Serienummer"
+
+msgid  "Copy to Clipboard?"
+msgstr "Kopier til utklippstavle?"
+
+msgid  "Copied."
+msgstr "Kopiert."
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid  "New firmware is available!"
+msgstr "Ny fastvare er tilgjengelig!"
+
+msgid  "Click here to update your device to {0}."
+msgstr "Klikk her for å oppdatere enheten din til {0}."
+
+msgid  "Please Wait"
+msgstr "Vennligst vent"
+
+msgid  "Updating Core Firmware"
+msgstr "Oppdaterer kjernefastvare"
+
+msgid  "Updating Firmware"
+msgstr "Oppdaterer fastvare"
+
+msgid  "New Firmware"
+msgstr "Ny fastvare"
+
+msgid  "New firmware is going to be uploaded."
+msgstr "Ny fastvare vil bli lastet opp."
+
+msgid  "Before clicking OK, please make sure that the device is idle."
+msgstr "Før du klikker ok, forsikre deg om at enheten er i hvilemodus."
+
+msgid  "Firmware update complete."
+msgstr "Fastvareoppdateringen er ferdig."
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid  "Production Utility"
+msgstr "Produksjonsverktøy"
+
+msgid  "&Save..."
+msgstr "&Lagre..."
+
+msgid  "Browse..."
+msgstr "Bla gjennom..."
+
+msgid  "Model Name:"
+msgstr "Modellnavn:"
+
+msgid  "Firmware File:"
+msgstr "Fastvarefil:"
+
+msgid  "Settings File:"
+msgstr "Innstillingsfil:"
+
+msgid  "&Program && Test"
+msgstr "&Program && test"
+
+#. added in 2015-08-19
+#. messages
+msgid  "Invalid Value"
+msgstr "Ugyldig verdi"
+
+msgid  "Value must be a number."
+msgstr "Verdien må være et tall."
+
+#. Connect
+msgid  "Unable to open a connection.\nAnother program may be using the device."
+msgstr "Kan ikke åpne forbindelse.\nKan hende et annet program bruker enheten."
+
+#. Mod tab
+msgid "Case Cooling Time Constant:"
+msgstr "Tidskontstant for kjøling av boks:"
+
+msgid  "Case Heating Time Constant:"
+msgstr "Tidskonstant for oppvarming av boks:"
+
+msgid  "Case USB Charge Temperature Rise:"
+msgstr "Boks USB-lading temperaturøkning:"
+
+msgid  "Minimum Ambient Temperature:"
+msgstr "Minimum omgivelsestemperatur:"
+
+msgid  "Maximum Ambient Temperature:"
+msgstr "Maksimum omgivelsestemperatur:"
+
+#. Battery Analyzer
+msgid  "What power would you like to conduct the test at?"
+msgstr "Hvilken effekt vil du utføre testen ved?"
+
+#. Case Analyzer
+msgid  "What is the room temperature (°F)?"
+msgstr "Hva er romtemperaturen (°F)?"
+
+#. Production Utility
+msgid  "Login Required"
+msgstr "Innlogging påkrevd"
+
+msgid  "You must be logged in to use the production utility."
+msgstr "Du må være innlogget for å bruke produksjonsverktøyet."
+
+msgid  "Select the latest firmware to have it loaded onto the device."
+msgstr "Velg den nyeste fastvaren for å laste den inn i enheten."
+
+msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
+msgstr "Velg innstillingsfilen for modden din. Den kan lastes inn på nytt ved å klikke gjenopprett standarder."
+
+msgid  "Functional Tests"
+msgstr "Funksjonstester"
+
+msgid  "Fire Test"
+msgstr "Fyringstest"
+
+msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
+msgstr "Sjekk at enheten kan fyre og lese ohm ordentlig. Koble til en motstand eller en ikke-temperaturregulerende spole."
+
+msgid  "Fire Time:"
+msgstr "Fyringstid:"
+
+msgid  "Fire Power:"
+msgstr "Fyringseffekt:"
+
+msgid  "Expected Cold Resistance:"
+msgstr "Forventet kald motstand:"
+
+msgid  "Battery Test"
+msgstr "Batteritest"
+
+msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr "Forsikrer seg om at battericellene har rimelige spenninger og kan lades."
+
+msgid  "Minimum Cell Voltage:"
+msgstr "Minimum cellespenning:"
+
+msgid  "Maximum Cell Imbalance:"
+msgstr "Maksimum celle-ubalanse:"
+
+msgid  "Wait for USB Current to Rise Above:"
+msgstr "Vent på at USB-strømmen skal stige over:"
+
+msgid  "Production"
+msgstr "Produksjon"
+
+msgid  "No actions."
+msgstr "Ingen handlinger."
+
+msgid  "Fire test failed."
+msgstr "Fyringstest feilet."
+
+msgid  "Battery test failed."
+msgstr "Batteritest feilet."
+
+msgid  "Production actions succeeded."
+msgstr "Produksjonshandlinger var vellykket."

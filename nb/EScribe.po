@@ -25,13 +25,13 @@ msgid  "&Save"
 msgstr "&Lagre"
 
 msgid  "Save &As..."
-msgstr "Lagre som..."
+msgstr "Lagre &som..."
 
 msgid  "E&xit"
-msgstr "Avslutt"
+msgstr "A&vslutt"
 
 msgid  "&Edit"
-msgstr "&Rediger"
+msgstr "R&ediger"
 
 msgid  "&Undo"
 msgstr "&Angre"
@@ -67,7 +67,7 @@ msgid  "&Options"
 msgstr "&Alternativer"
 
 msgid  "Automatically Check for &Updates"
-msgstr "Se etter oppdateringer automatisk"
+msgstr "Se etter oppdateringer a&utomatisk"
 
 msgid  "Clear Recent Files List"
 msgstr "Tøm liste over siste filer"
@@ -76,10 +76,10 @@ msgid  "&Connect..."
 msgstr "&Koble til..."
 
 msgid  "Dis&connect"
-msgstr "Koble fra"
+msgstr "&Koble fra"
 
 msgid  "&Tools"
-msgstr "&Verktøy"
+msgstr "Verk&tøy"
 
 msgid  "&Calculator"
 msgstr "&Kalkulator"
@@ -94,7 +94,7 @@ msgid  "Equation"
 msgstr "Ligning"
 
 msgid  "Calculate"
-msgstr "Kalkuler"
+msgstr "Kalkulér"
 
 msgid  "&Production Utility"
 msgstr "&Produksjonsverktøy"
@@ -103,7 +103,7 @@ msgid  "Serial &Terminal"
 msgstr "Seriell&terminal"
 
 msgid  "Serial Terminal"
-msgstr "Serielltterminal"
+msgstr "Seriellterminal"
 
 msgid  "Data"
 msgstr "Data"
@@ -115,10 +115,10 @@ msgid  "System &Information"
 msgstr "System&informasjon"
 
 msgid  "&Reboot Device"
-msgstr "&Omstart enhet"
+msgstr "Omsta&rt enhet"
 
 msgid  "&Soft Reboot..."
-msgstr "&Myk omstart..."
+msgstr "Myk om&start..."
 
 msgid  "&Hard Reboot..."
 msgstr "&Hard omstart..."
@@ -139,7 +139,7 @@ msgid  "&Help Desk"
 msgstr "&Brukerstøtte"
 
 msgid  "Report a &Bug"
-msgstr "Rapporter en feil"
+msgstr "Rapporter en &feil"
 
 msgid  "Bug Report"
 msgstr "Feilrapport"
@@ -157,7 +157,7 @@ msgid  "Feedback Form"
 msgstr "Tilbakemeldingsskjema"
 
 msgid  "U.S. &Patents"
-msgstr "U.S.-&patenter"
+msgstr "US-&patenter"
 
 msgid  "&About {0}"
 msgstr "&Om {0}"
@@ -184,16 +184,16 @@ msgstr "Nytt navn:"
 
 #. toolbar
 msgid  "Connect and &Download Settings"
-msgstr "Koble til og last ned innstillinger"
+msgstr "Koble til og last ne&d innstillinger"
 
 msgid "&Upload Settings to Device"
-msgstr "&Last opp innstillinger til enhet"
+msgstr "Last &opp innstillinger til enhet"
 
 msgid  "Device &Monitor"
 msgstr "Enhets&monitor"
 
 msgid  "{0} connected on USB."
-msgstr "{0} koblet til usb."
+msgstr "{0} koblet til med USB."
 
 msgid  "Downloading Settings"
 msgstr "Laster ned innstillinger"
@@ -278,13 +278,13 @@ msgid  "Delete"
 msgstr "Slett"
 
 msgid  "Set X"
-msgstr "Sett x"
+msgstr "Sett X"
 
 msgid  "X value:"
 msgstr "X-verdi:"
 
 msgid  "Set Y"
-msgstr "Sett y"
+msgstr "Sett Y"
 
 msgid  "Y value:"
 msgstr "Y-verdi:"
@@ -375,7 +375,7 @@ msgid  "Stealth Mode:"
 msgstr "Skjult modus:"
 
 msgid  "New Coil Yes/No:"
-msgstr "Ny spole ja/nei:"
+msgstr "Ny spole Ja/Nei:"
 
 msgid  "Hold To Lock Ohms:"
 msgstr "Hold for å låse ohm:"
@@ -384,10 +384,10 @@ msgid  "Hold To Unlock Ohms:"
 msgstr "Hold for å låse opp ohm:"
 
 msgid  "Power Locked Hold Up Down:"
-msgstr "Effekt låst hold opp&ned:"
+msgstr "Effekt låst Hold Opp Ned:"
 
 msgid  "Locked Click 5X:"
-msgstr "Låst klikk 5x:"
+msgstr "Låst Klikk 5X:"
 
 msgid  "Hold To Change Temp:"
 msgstr "Hold for å endre temp:"
@@ -514,7 +514,7 @@ msgid  "Battery Pack"
 msgstr "Batteripakke"
 
 msgid  "Battery Cell {0}"
-msgstr "battericelle {0}"
+msgstr "Battericelle {0}"
 
 msgid  "Current"
 msgstr "Strøm"
@@ -541,7 +541,7 @@ msgid  "Last Time"
 msgstr "Siste tid"
 
 msgid  "Charging Field {0}:"
-msgstr "Felt under lading {0}:"
+msgstr "Felt ved lading {0}:"
 
 msgid  "Brightness"
 msgstr "Lysstyrke"
@@ -620,7 +620,7 @@ msgid  "Watt-Hour Calculator"
 msgstr "Watt-time-kalkulator"
 
 msgid  "Cell Soft Cutoff:"
-msgstr "Celle myk grense:"
+msgstr "Myk minstegrense for celle:"
 
 msgid  "Charging Mode:"
 msgstr "Lademodus:"
@@ -638,19 +638,19 @@ msgid  "Battery Analyzer"
 msgstr "Batterianalysator"
 
 msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
-msgstr "{0} kan brukes for å analysere kapasiteten og utladningsprofilen til batteriet ditt.."
+msgstr "{0} kan brukes for å analysere kapasiteten og utladningsprofilen til batteriet ditt."
 
 msgid  "Electrical"
 msgstr "Elektrisk"
 
 msgid  "Kanthal Power Limit:"
-msgstr "Kanthal-effektgrense:"
+msgstr "Maks effekt for Kanthal:"
 
 msgid  "Mod Resistance:"
-msgstr "Mod-motstand:"
+msgstr "Motstand i mod:"
 
 msgid  "Ohm Lock Range: ±"
-msgstr "Ohm-lås-område: ±"
+msgstr "Toleranse for ohm-lås: ±"
 
 msgid  "Mechanical"
 msgstr "Mekanisk"
@@ -662,7 +662,7 @@ msgid  "Normal"
 msgstr "Normal"
 
 msgid  "Swapped"
-msgstr "Byttet"
+msgstr "Byttet om"
 
 msgid  "Thermal"
 msgstr "Termisk"
@@ -678,7 +678,7 @@ msgid  "Research"
 msgstr "Forskning"
 
 msgid  "Data Acquisition"
-msgstr "Datainnhenting"
+msgstr "Datainnsamling"
 
 msgid  "Serial Output Format:"
 msgstr "Seriell-utformat:"
@@ -690,10 +690,10 @@ msgid  "CSV (Excel)"
 msgstr "CSV (Excel)"
 
 msgid  "Experimental Setup"
-msgstr "Eksperimentelt oppsett"
+msgstr "Eksperiment-oppsett"
 
 msgid  "Coil Resistance:"
-msgstr "Spole-motstand:"
+msgstr "Motstand i spole:"
 
 msgid  "Automatic"
 msgstr "Automatisk"
@@ -732,7 +732,7 @@ msgid  "Check Research Seal"
 msgstr "Sjekk forskningsforsegling"
 
 msgid  "Reset Statistics"
-msgstr "Tilbakestill statistikk"
+msgstr "Nullstill statistikk"
 
 #. Device Monitor
 msgid  "Device Monitor"
@@ -790,7 +790,7 @@ msgid  "Room Temp:"
 msgstr "Romtemp:"
 
 msgid  "Board Temp:"
-msgstr "Korttemp:"
+msgstr "Kretskorttemp:"
 
 msgid  "Statistics"
 msgstr "Statistikk"
@@ -829,13 +829,13 @@ msgid  "Time:"
 msgstr "Tid:"
 
 msgid  "&Record..."
-msgstr "&Ta opp..."
+msgstr "Ta &opp..."
 
 msgid  "Graph &Options"
-msgstr "Graf-innstillinger"
+msgstr "Graf-&innstillinger"
 
 msgid  "&Clear Graph"
-msgstr "&Tøm graf"
+msgstr "T&øm graf"
 
 msgid  "&Save Graph..."
 msgstr "&Lagre graf..."
@@ -844,7 +844,7 @@ msgid  "Set &Time Scale..."
 msgstr "Sett &tidsskala..."
 
 msgid  "Puf&f..."
-msgstr "Trekk..."
+msgstr "T&rekk..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
@@ -852,7 +852,7 @@ msgstr[0]    "{0} sekund"
 msgstr[1]    "{0} sekunder"
 
 msgid  "&Custom..."
-msgstr "&Tilpasset..."
+msgstr "Til&passet..."
 
 msgid  "Puff"
 msgstr "Trekk"
@@ -885,7 +885,7 @@ msgid  "&Research"
 msgstr "&Forskning"
 
 msgid  "Enter Temperature &Monitoring Mode..."
-msgstr "Start temperaturovervåkningsmodus..."
+msgstr "Start temperaturovervåknings&modus..."
 
 msgid  "&Diagnostics"
 msgstr "&Diagnostikk"
@@ -903,19 +903,19 @@ msgid  "&Set USB Current Limit..."
 msgstr "&Sett USB-strømgrense..."
 
 msgid  "&Reset USB Current Limit"
-msgstr "&Nullstill USB-strømgrense"
+msgstr "Nullstill USB-st&rømgrense"
 
 msgid  "&Advanced"
 msgstr "&Avansert"
 
 msgid  "Perform USB &Recovery Charging..."
-msgstr "Gjennomfør USB-gjenopprettingslading..."
+msgstr "Gjennomfør USB-gjenopp&rettingslading..."
 
 msgid  "Reset &Statistics"
 msgstr "Nullstill &statistikk"
 
 msgid  "Resets: {0}"
-msgstr "Nullstiller: {0}"
+msgstr "Nullstillinger: {0}"
 
 msgid  "Version: {0}"
 msgstr "Versjon: {0}"
@@ -1050,7 +1050,7 @@ msgid  "&Stop"
 msgstr "&Stopp"
 
 msgid  "&Accept"
-msgstr "&Aksepter"
+msgstr "Godt&a"
 
 #. added in 2015-08-07
 #. Watt-Hour Calculator
@@ -1058,10 +1058,10 @@ msgid  "Battery Pack Voltage"
 msgstr "Batteripakkespenning"
 
 msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
-msgstr "Vet du den totale spenningen til batteripakken din?\nDette står vanligvis på det."
+msgstr "Vet du den totale spenningen til batteripakken din?\nDette står vanligvis på den."
 
 msgid  "Calculate Watt-Hours"
-msgstr "Kalkuler watt-timer"
+msgstr "Kalkulér watt-timer"
 
 msgid  "Battery Cell Capacity (mAh):"
 msgstr "Battericellekapasitet (mAh):"
@@ -1099,7 +1099,7 @@ msgid  "Research seal does not match."
 msgstr "Forskningsforsegling stemmer ikke."
 
 msgid  "Reached the rate limit. Try again later."
-msgstr "Nådde rategrensen. Prøv igjen senere."
+msgstr "Nådde satsgrensen. Prøv igjen senere."
 
 msgid  "Success"
 msgstr "Suksess"
@@ -1157,7 +1157,7 @@ msgid  "New firmware is going to be uploaded."
 msgstr "Ny fastvare vil bli lastet opp."
 
 msgid  "Before clicking OK, please make sure that the device is idle."
-msgstr "Før du klikker ok, forsikre deg om at enheten er i hvilemodus."
+msgstr "Før du klikker OK, forsikre deg om at enheten er i hvilemodus."
 
 msgid  "Firmware update complete."
 msgstr "Fastvareoppdateringen er ferdig."
@@ -1183,7 +1183,7 @@ msgid  "Settings File:"
 msgstr "Innstillingsfil:"
 
 msgid  "&Program && Test"
-msgstr "&Program && test"
+msgstr "&Programmér && test"
 
 #. added in 2015-08-19
 #. messages
@@ -1205,13 +1205,13 @@ msgid  "Case Heating Time Constant:"
 msgstr "Tidskonstant for oppvarming av boks:"
 
 msgid  "Case USB Charge Temperature Rise:"
-msgstr "Boks USB-lading temperaturøkning:"
+msgstr "Boksens temperaturøkning ved USB-lading:"
 
 msgid  "Minimum Ambient Temperature:"
-msgstr "Minimum omgivelsestemperatur:"
+msgstr "Laveste omgivelsestemperatur:"
 
 msgid  "Maximum Ambient Temperature:"
-msgstr "Maksimum omgivelsestemperatur:"
+msgstr "Høyeste omgivelsestemperatur:"
 
 #. Battery Analyzer
 msgid  "What power would you like to conduct the test at?"
@@ -1232,7 +1232,7 @@ msgid  "Select the latest firmware to have it loaded onto the device."
 msgstr "Velg den nyeste fastvaren for å laste den inn i enheten."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "Velg innstillingsfilen for modden din. Den kan lastes inn på nytt ved å klikke gjenopprett standarder."
+msgstr "Velg innstillingsfilen for modden din. Den kan lastes inn på nytt ved å klikke Gjenopprett standarder."
 
 msgid  "Functional Tests"
 msgstr "Funksjonstester"
@@ -1259,10 +1259,10 @@ msgid  "Makes sure the battery cells have reasonable voltages and can be charged
 msgstr "Forsikrer seg om at battericellene har rimelige spenninger og kan lades."
 
 msgid  "Minimum Cell Voltage:"
-msgstr "Minimum cellespenning:"
+msgstr "Minste cellespenning:"
 
 msgid  "Maximum Cell Imbalance:"
-msgstr "Maksimum celle-ubalanse:"
+msgstr "Største ubalanse mellom celler:"
 
 msgid  "Wait for USB Current to Rise Above:"
 msgstr "Vent på at USB-strømmen skal stige over:"

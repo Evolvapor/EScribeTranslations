@@ -1281,3 +1281,17 @@ msgstr "battery test failed."
 
 msgid  "Production actions succeeded."
 msgstr "production actions succeeded."
+
+#. added in 2015-08-21
+#. Theme tab
+msgid  "Hide Ohms on Custom"
+msgstr "hide ohms on custom"
+
+msgid  "Show Ohms on Custom"
+msgstr "show ohms on custom"
+
+msgid  "New Coil"
+msgstr "new coil"
+
+msgid  "Old Coil"
+msgstr "old coil"

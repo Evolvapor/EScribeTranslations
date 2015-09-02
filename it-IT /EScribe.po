@@ -7,7 +7,7 @@ msgstr "Cancella"
 
 #. menus
 msgid  "&File"
-msgstr "&file"
+msgstr "&File"
 
 msgid  "&New (Reset to Evolv Standard)"
 msgstr "&Nuovo (Ripristina lo standard Evolv)"

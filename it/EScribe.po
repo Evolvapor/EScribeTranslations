@@ -25,7 +25,7 @@ msgid  "E&xit"
 msgstr "Esci"
 
 msgid  "&Edit"
-msgstr "Modifica"
+msgstr "&Modifica"
 
 msgid  "&Undo"
 msgstr "Ann&ulla"

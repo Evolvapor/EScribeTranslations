@@ -28,13 +28,13 @@ msgid  "&Edit"
 msgstr "Modifica"
 
 msgid  "&Undo"
-msgstr "Annulla"
+msgstr "Ann&ulla"
 
 msgid  "&Redo"
 msgstr "&Ripeti"
 
 msgid  "&Internet"
-msgstr "&internet"
+msgstr "&Internet"
 
 msgid  "&Log in..."
 msgstr "Accedi..."
@@ -64,7 +64,7 @@ msgid  "Automatically Check for &Updates"
 msgstr "Aggiornamenti automatici"
 
 msgid  "Clear Recent Files List"
-msgstr "Cancella elenco file recenti
+msgstr "Cancella elenco file recenti"
 
 msgid  "&Connect..."
 msgstr "&Connetti..."

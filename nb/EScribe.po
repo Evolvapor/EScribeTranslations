@@ -1,5 +1,5 @@
 msgid  "X-language translation by Y."
-msgstr "Norwegian translation by Lars Simonsen."
+msgstr "Oversatt til norsk (bokmål) av Lars Simonsen."
 
 #. standard
 msgid  "OK"
@@ -1278,3 +1278,17 @@ msgstr "Batteritest feilet."
 
 msgid  "Production actions succeeded."
 msgstr "Produksjonshandlinger var vellykket."
+
+#. added in 2015-08-21
+#. Theme tab
+msgid  "Hide Ohms on Custom"
+msgstr "Skjul ohm ved tilpasset"
+
+msgid  "Show Ohms on Custom"
+msgstr "Vis ohm ved tilpasset"
+
+msgid  "New Coil"
+msgstr "Ny spole"
+
+msgid  "Old Coil"
+msgstr "Gammel spole"

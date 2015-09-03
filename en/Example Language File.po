@@ -1,8 +1,11 @@
 #. Copy this over (with your changes) to EScribe.po and restart EScribe for the changes to take effect.
 #. Make sure you keep your original, as new versions of EScribe overwrite en\EScribe.po.
-#. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, or zh-CN\EScribe.po.
+#. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, zh-Hans\EScribe.po, zh-Hant\EScribe.po, or nb\EScribe.po.
 #. At this point this is only a partial list of translatable text.
 #. The default example just changes everything to lowercase.
+
+msgid  "X-language translation by Y."
+msgstr "lowercase translation by example."
 
 #. standard
 msgid  "OK"

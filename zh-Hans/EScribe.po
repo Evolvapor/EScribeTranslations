@@ -1,3 +1,6 @@
+msgid  "X-language translation by Y."
+msgstr "Chinese translation by SamMao."
+
 #. standard
 msgid  "OK"
 msgstr "确认"

@@ -217,8 +217,8 @@ msgstr "Dettagli:"
 msgid  "Get Information"
 msgstr "Informazioni"
 
-msgid  "EScribe can get information online about your mod."
-msgstr "Usa EScribe per ottenere informazioni dal tuo dispostivo"
+msgid  "{0} can get information online about your mod."
+msgstr "Usa {0} per ottenere informazioni dal tuo dispostivo"
 
 msgid  "Restore Defaults"
 msgstr "Ripristina Predefiniti"
@@ -322,8 +322,8 @@ msgstr "Limite del Booster:"
 msgid  "Atomizer Analyzer"
 msgstr "Analisi Atomizzatore"
 
-msgid  "EScribe can be used to analyze your atomizer's resistance stability."
-msgstr "Puoi ut6ilizzare EScribe per analizzare la stabilità della resistenza nell'atomizzatore."
+msgid  "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "Puoi ut6ilizzare {0} per analizzare la stabilità della resistenza nell'atomizzatore."
 
 #. Theme tab
 msgid "Theme"
@@ -541,7 +541,7 @@ msgid  "Brightness"
 msgstr "Luminosità"
 
 msgid  "Firing Brightness:"
-msgstr "Luminosità attivazione:"
+msgstr "attivazione Luminosità :"
 
 msgid  "Fade to..."
 msgstr "Dissolvenza al..."
@@ -631,8 +631,8 @@ msgstr "Profilo:"
 msgid  "Battery Analyzer"
 msgstr "Analizzatore batteria"
 
-msgid  "EScribe can be used to analyze your battery's capacity and discharge profile."
-msgstr "Puoi usare Escribe per analizzare la capacità della batteria e per il profilo."
+msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "Puoi usare {0} per analizzare la capacità della batteria e per il profilo."
 
 msgid  "Electrical"
 msgstr "Elettrico"
@@ -664,8 +664,8 @@ msgstr "Termico"
 msgid  "Case Analyzer"
 msgstr "Analizzatore BOX"
 
-msgid  "EScribe can be used to analyze your case's thermal properties."
-msgstr "Puoi usare EScribe per analizzare le proprietà termiche della tua BOX."
+msgid  "{0} can be used to analyze your case's thermal properties."
+msgstr "Puoi usare {0} per analizzare le proprietà termiche della tua BOX."
 
 #. Research tab
 msgid  "Research"

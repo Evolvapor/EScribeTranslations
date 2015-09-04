@@ -541,7 +541,7 @@ msgid  "Brightness"
 msgstr "Luminosità"
 
 msgid  "Firing Brightness:"
-msgstr "attivazione Luminosità :"
+msgstr "Luminosità attivazione:"
 
 msgid  "Fade to..."
 msgstr "Dissolvenza al..."

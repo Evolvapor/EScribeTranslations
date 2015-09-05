@@ -1,3 +1,5 @@
+#. Translate by Maranto (RallyRace)
+
 #. standard
 msgid  "OK"
 msgstr "OK"
@@ -323,7 +325,7 @@ msgid  "Atomizer Analyzer"
 msgstr "Analisi Atomizzatore"
 
 msgid  "{0} can be used to analyze your atomizer's resistance stability."
-msgstr "Puoi ut6ilizzare {0} per analizzare la stabilità della resistenza nell'atomizzatore."
+msgstr "Puoi utilizzare {0} per analizzare la stabilità della resistenza nell'atomizzatore."
 
 #. Theme tab
 msgid "Theme"
@@ -381,7 +383,7 @@ msgid  "Power Locked Hold Up Down:"
 msgstr "Premere + e - per bloccare la potenza:"
 
 msgid  "Locked Click 5X:"
-msgstr "5 Click per sbloccare:"
+msgstr "5 Clic per sbloccare:"
 
 msgid  "Hold To Change Temp:"
 msgstr "Premere per cambiare temperatura:"
@@ -936,3 +938,166 @@ msgstr "Fire"
 
 msgid  "Profile: {0}"
 msgstr "Profilo: {0}"
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid  "New firmware is available!"
+msgstr "Nuovo firmware disponibile!"
+
+msgid  "Click here to update your device to {0}."
+msgstr "clicca qui per upgradare il tuo device a {0}."
+
+msgid  "Please Wait"
+msgstr "Attendere Prego"
+
+msgid  "Updating Core Firmware"
+msgstr "Aggiornamento interno firmware"
+
+msgid  "Updating Firmware"
+msgstr "Aggiornamento Firnware"
+
+msgid  "New Firmware"
+msgstr "Nuovo firmware"
+
+msgid  "New firmware is going to be uploaded."
+msgstr "Un nuovo firmware sta per essere caricato."
+
+msgid  "Before clicking OK, please make sure that the device is idle."
+msgstr "prima di fare clic su OK, assicurarsi che il dispositivo sia inattivo."
+
+msgid  "Firmware update complete."
+msgstr "Upgrade firmware completato."
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid  "Production Utility"
+msgstr "Utility di produzione"
+
+msgid  "&Save..."
+msgstr "&Salva..."
+
+msgid  "Browse..."
+msgstr "Sfoglia..."
+
+msgid  "Model Name:"
+msgstr "Nome modello:"
+
+msgid  "Firmware File:"
+msgstr "File del firmware:"
+
+msgid  "Settings File:"
+msgstr "File impostazioni:"
+
+msgid  "&Program && Test"
+msgstr "&Programmazione && Test"
+
+#. added in 2015-08-19
+#. messages
+msgid  "Invalid Value"
+msgstr "valore non valido"
+
+msgid  "Value must be a number."
+msgstr "Il valore deve essere un numero."
+
+#. Connect
+msgid  "Unable to open a connection.\nAnother program may be using the device."
+msgstr "Connessione non disponibile\nDispositivo in uso da altra applicazione."
+
+#. Mod tab
+msgid "Case Cooling Time Constant:"
+msgstr "Costante di tempo raffreddamento BOX:"
+
+msgid  "Case Heating Time Constant:"
+msgstr "Costante di tempo riscaldamento box:"
+
+msgid  "Case USB Charge Temperature Rise:"
+msgstr "Aumento temperatura BOX per ricarica USB:"
+
+msgid  "Minimum Ambient Temperature:"
+msgstr "Minima temperatura ambientale:"
+
+msgid  "Maximum Ambient Temperature:"
+msgstr "Massima temperatura ambientale:"
+
+#. Battery Analyzer
+msgid  "What power would you like to conduct the test at?"
+msgstr "Quale potenza ti piacerebbe usare per il test?"
+
+#. Case Analyzer
+msgid  "What is the room temperature (°F)?"
+msgstr "Qual'è la temperatura ambiente (°F)?"
+
+#. Production Utility
+msgid  "Login Required"
+msgstr "Login richiesto"
+
+msgid  "You must be logged in to use the production utility."
+msgstr "Devi essere registrato per utilizzare l'utility di produzione."
+
+msgid  "Select the latest firmware to have it loaded onto the device."
+msgstr "selezionare l'ultima versione del firmware caricato sul dispositivo."
+
+msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
+msgstr "selezionare il file impostazioni di default della mod. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
+
+msgid  "Functional Tests"
+msgstr "Test funzionali"
+
+msgid  "Fire Test"
+msgstr "Tes attivazione"
+
+msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
+msgstr "Controllare che il dispositivo si attivi e legga correttamente gli Ohm. Collegare una resistenza o una coil senza controllo temperatura"
+
+msgid  "Fire Time:"
+msgstr "Tempo attivazione:"
+
+msgid  "Fire Power:"
+msgstr "Potenza attivazione:"
+
+msgid  "Expected Cold Resistance:"
+msgstr "Valore atteso dalla resistenza a freddo:"
+
+msgid  "Battery Test"
+msgstr "Test Batteria"
+
+msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr "Assicurarsi che le celle abbiano un buon voltaggio e possano essere caricate"
+
+msgid  "Minimum Cell Voltage:"
+msgstr "Minimo voltaggio della cella:"
+
+msgid  "Maximum Cell Imbalance:"
+msgstr "Massimo squilibrio della cella:"
+
+msgid  "Wait for USB Current to Rise Above:"
+msgstr "Accertarsi che la corrente USB sia superiore:"
+
+msgid  "Production"
+msgstr "Produzione"
+
+msgid  "No actions."
+msgstr "Nessuna azione."
+
+msgid  "Fire test failed."
+msgstr "Test attivazione fallito."
+
+msgid  "Battery test failed."
+msgstr "Test batteria fallito."
+
+msgid  "Production actions succeeded."
+msgstr "Azioni di produzione riuscite."
+
+#. added in 2015-08-21
+#. Theme tab
+msgid  "Hide Ohms on Custom"
+msgstr "Nascondere ohm in personalizzato"
+
+msgid  "Show Ohms on Custom"
+msgstr "Visualizzare ohm in personalizzato"
+
+msgid  "New Coil"
+msgstr "Nuova Coil"
+
+msgid  "Old Coil"
+msgstr "Vecchia coil"

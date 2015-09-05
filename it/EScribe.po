@@ -1,8 +1,4 @@
-#. Copy this over (with your changes) to EScribe.po and restart EScribe for the changes to take effect.
-#. Make sure you keep your original, as new versions of EScribe overwrite en\EScribe.po.
-#. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, or zh-CN\EScribe.po.
-#. At this point this is only a partial list of translatable text.
-#. The default example just changes everything to lowercase.
+#. By Maranto - RallyRace
 
 #. standard
 msgid  "OK"
@@ -223,8 +219,8 @@ msgstr "Dettagli:"
 msgid  "Get Information"
 msgstr "Informazioni"
 
-msgid  "EScribe can get information online about your mod."
-msgstr "Usa EScribe per ottenere informazioni dal tuo dispostivo"
+msgid  "{0} can get information online about your mod."
+msgstr "Usa {0} per ottenere informazioni dal tuo dispostivo"
 
 msgid  "Restore Defaults"
 msgstr "Ripristina Predefiniti"
@@ -328,8 +324,8 @@ msgstr "Limite del Booster:"
 msgid  "Atomizer Analyzer"
 msgstr "Analisi Atomizzatore"
 
-msgid  "EScribe can be used to analyze your atomizer's resistance stability."
-msgstr "Puoi ut6ilizzare EScribe per analizzare la stabilità della resistenza nell'atomizzatore."
+msgid  "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "Puoi utilizzare {0} per analizzare la stabilità della resistenza nell'atomizzatore."
 
 #. Theme tab
 msgid "Theme"
@@ -384,561 +380,561 @@ msgid  "Hold To Unlock Ohms:"
 msgstr "Tenere premuto per sbloccare Ohms:"
 
 msgid  "Power Locked Hold Up Down:"
-msgstr "power locked hold up down:"
+msgstr "Premere + e - per bloccare la potenza:"
 
 msgid  "Locked Click 5X:"
-msgstr "locked click 5x:"
+msgstr "5 Click per sbloccare:"
 
 msgid  "Hold To Change Temp:"
-msgstr "hold to change temp:"
+msgstr "Premere per cambiare temperatura:"
 
 msgid  "Kanthal Max Power:"
-msgstr "kanthal max power:"
+msgstr "massima potenza Kanthal:"
 
 msgid  "Show Message"
-msgstr "show message"
+msgstr "Mostra messaggi"
 
 msgid  "Don't Show"
-msgstr "don't show"
+msgstr "Non mostrare"
 
 msgid  "Temperature Protected:"
-msgstr "temperature protected:"
+msgstr "Protezione temperatura:"
 
 msgid  "Show Temperature"
-msgstr "show temperature"
+msgstr "Mostra temperatura"
 
 msgid  "Too Hot:"
-msgstr "too hot:"
+msgstr "Troppo caldo:"
 
 msgid  "Shorted:"
-msgstr "shorted:"
+msgstr "Cortocircuito:"
 
 msgid  "Check Atomizer:"
-msgstr "check atomizer:"
+msgstr "Controllare atomizzatore:"
 
 msgid  "Ohms Too Low:"
-msgstr "ohms too low:"
+msgstr "Ohm troppo bassi:"
 
 msgid  "Ohms Too High:"
-msgstr "ohms too high:"
+msgstr "Ohm troppo alti:"
 
 msgid  "Check Battery:"
-msgstr "check battery:"
+msgstr "Controllare batteria:"
 
 msgid  "Weak Battery:"
-msgstr "weak battery:"
+msgstr "Batteria scarica:"
 
 msgid  "Imbalanced Battery:"
-msgstr "imbalanced battery:"
+msgstr "Batteria squilibrata:"
 
 #. Screen tab
 msgid  "Screen"
-msgstr "screen"
+msgstr "Schermo"
 
 msgid  "Display"
-msgstr "display"
+msgstr "Display"
 
 msgid  "Orientation:"
-msgstr "orientation:"
+msgstr "Oreintamento:"
 
 msgid  "Left"
-msgstr "left"
+msgstr "Sinistro"
 
 msgid  "Right"
-msgstr "right"
+msgstr "Destro"
 
 msgid  "Battery Meter:"
-msgstr "battery meter:"
+msgstr "Misuratore batteria:"
 
 msgid  "On Default Screens"
-msgstr "on default screens"
+msgstr "Sugli schermi di default"
 
 msgid  "On Main Screen Only"
-msgstr "on main screen only"
+msgstr "Solo sullo schermo principale"
 
 msgid  "On All Screens"
-msgstr "on all screens"
+msgstr "In tutti gli schermi"
 
 msgid  "Error Flashes:"
-msgstr "error flashes:"
+msgstr "numero di flashes su errore:"
 
 msgid  "{0:0.0} s error, {1:0.0} s status"
-msgstr "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0} s errori, {1:0.0} s stato"
 
 msgid  "Show error only."
-msgstr "show error only."
+msgstr "Mostra solo errori."
 
 msgid  "Fields"
-msgstr "fields"
+msgstr "Campi"
 
 msgid  "Default Field {0}:"
-msgstr "default field {0}:"
+msgstr "Campo di default {0}:"
 
 msgid  "Ohms"
-msgstr "ohms"
+msgstr "Ohm"
 
 msgid  "Ohms (Standard)"
-msgstr "ohms (standard)"
+msgstr "ohm (standard)"
 
 msgid  "Voltage"
-msgstr "voltage"
+msgstr "Voltaggio"
 
 msgid  "Voltage (Standard)"
-msgstr "voltage (standard)"
+msgstr "Voltaggio (standard)"
 
 msgid  "Temperature"
-msgstr "temperature"
+msgstr "Temperatura"
 
 msgid  "Temperature (Standard)"
-msgstr "temperature (standard)"
+msgstr "Temperatura (standard)"
 
 msgid  "Battery Charge %"
-msgstr "battery charge %"
+msgstr "carica della batteria %"
 
 msgid  "Battery Charge Wh"
-msgstr "battery charge wh"
+msgstr "Carica della batteria in Wh"
 
 msgid  "USB Power"
-msgstr "usb power"
+msgstr "Potenza USB"
 
 msgid  "USB Current"
-msgstr "usb current"
+msgstr "Corrente USB"
 
 msgid  "USB Current (Standard)"
-msgstr "usb current (standard)"
+msgstr "Corrente USB (standard)"
 
 msgid  "USB Voltage"
-msgstr "usb voltage"
+msgstr "Voltaggio USB"
 
 msgid  "Battery Pack"
-msgstr "battery pack"
+msgstr "Pacco batteria"
 
 msgid  "Battery Cell {0}"
-msgstr "battery cell {0}"
+msgstr "Cella batteria {0}"
 
 msgid  "Current"
-msgstr "current"
+msgstr "Corrente"
 
 msgid  "Board Temperature"
-msgstr "board temperature"
+msgstr "Temperatura scheda"
 
 msgid  "Room Temperature"
-msgstr "room temperature"
+msgstr "Temperatura ambiente"
 
 msgid  "Puff Count"
-msgstr "puff count"
+msgstr "Conta Puff"
 
 msgid  "Last Energy"
-msgstr "last energy"
+msgstr "Ultima energia"
 
 msgid  "Last Power"
-msgstr "last power"
+msgstr "Ultima potenza"
 
 msgid  "Last Temperature"
-msgstr "last temperature"
+msgstr "Ultima temperatura"
 
 msgid  "Last Time"
-msgstr "last time"
+msgstr "Ultimo tempo"
 
 msgid  "Charging Field {0}:"
-msgstr "charging field {0}:"
+msgstr "campo in ricarica {0}:"
 
 msgid  "Brightness"
-msgstr "brightness"
+msgstr "Luminosità"
 
 msgid  "Firing Brightness:"
-msgstr "firing brightness:"
+msgstr "Luminosità attivazione:"
 
 msgid  "Fade to..."
-msgstr "fade to..."
+msgstr "Dissolvenza al..."
 
 msgid  "Set to..."
-msgstr "set to..."
+msgstr "Imposta a..."
 
 msgid  "Temporarily set to..."
-msgstr "temporarily set to..."
+msgstr "Impostazione temporanea a..."
 
 msgid  "Do not change."
-msgstr "do not change."
+msgstr "Non cambiare."
 
 msgid  "Screen active after puff."
-msgstr "screen active after puff."
+msgstr "Schermo acceso dopo Puff."
 
 msgid  "Screen off after puff."
-msgstr "screen off after puff."
+msgstr "Schermo spento dopo Puff."
 
 msgid  "No effect on idle state."
-msgstr "no effect on idle state."
+msgstr "Nessun efetto se inattivo."
 
 msgid  "Active Brightness:"
-msgstr "active brightness:"
+msgstr "Luminosità attiva:"
 
 msgid  "Active Time:"
-msgstr "active time:"
+msgstr "Tempo attivo:"
 
 msgid  "Idle Brightness:"
-msgstr "idle brightness:"
+msgstr "disattiva luminosità:"
 
 msgid  "Idle Time:"
-msgstr "idle time:"
+msgstr "disattiva tempo:"
 
 msgid  "Charging Brightness:"
-msgstr "charging brightness:"
+msgstr "Luminosità di ricarica:"
 
 msgid  "Fade-in Time:"
-msgstr "fade-in time:"
+msgstr "Accensione dissolvenza:"
 
 msgid  "Fade-out Time:"
-msgstr "fade-out time:"
+msgstr "Spegnimento dissolvenza:"
 
 #. Mod tab
 msgid  "Mod"
-msgstr "mod"
+msgstr "MOD"
 
 msgid  "Battery"
-msgstr "battery"
+msgstr "Batteria"
 
 msgid  "Type:"
-msgstr "type:"
+msgstr "Tipo:"
 
 msgid  "Lithium Polymer"
-msgstr "lithium polymer"
+msgstr "polimeri di litio"
 
 msgid  "LiFePO4"
-msgstr "lifepo4"
+msgstr "LiFePO4"
 
 msgid  "Power Supply"
-msgstr "power supply"
+msgstr "Alimentazione elettrica"
 
 msgid  "Capacity:"
-msgstr "capacity:"
+msgstr "Capacità:"
 
 msgid  "{0}-cell"
-msgstr "{0}-cell"
+msgstr "{0}-cella"
 
 msgid  "Watt-Hour Calculator"
-msgstr "watt-hour calculator"
+msgstr "calcolatore Wh"
 
 msgid  "Cell Soft Cutoff:"
-msgstr "cell soft cutoff:"
+msgstr "Limite cella:"
 
 msgid  "Charging Mode:"
-msgstr "charging mode:"
+msgstr "Modalità di ricarica:"
 
 msgid  "Maximize Puffs"
-msgstr "maximize puffs"
+msgstr "Massimizza Puff"
 
 msgid  "Maximize Recharges"
-msgstr "maximize recharges"
+msgstr "Massimizza ricarica"
 
 msgid  "Discharge Profile:"
-msgstr "discharge profile:"
+msgstr "Profilo:"
 
 msgid  "Battery Analyzer"
-msgstr "battery analyzer"
+msgstr "Analizzatore batteria"
 
-msgid  "EScribe can be used to analyze your battery's capacity and discharge profile."
-msgstr "escribe can be used to analyze your battery's capacity and discharge profile."
+msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "Puoi usare {0} per analizzare la capacità della batteria e per il profilo."
 
 msgid  "Electrical"
-msgstr "electrical"
+msgstr "Elettrico"
 
 msgid  "Kanthal Power Limit:"
-msgstr "kanthal power limit:"
+msgstr "limite di potenza Kanthal:"
 
 msgid  "Mod Resistance:"
-msgstr "mod resistance:"
+msgstr "Resistenza MOD:"
 
 msgid  "Ohm Lock Range: ±"
-msgstr "ohm lock range: ±"
+msgstr "gamma di blocco Ohm: ±"
 
 msgid  "Mechanical"
-msgstr "mechanical"
+msgstr "Meccanico"
 
 msgid  "Up/Down Buttons:"
-msgstr "up/down buttons:"
+msgstr "Pulsanti +/-:"
 
 msgid  "Normal"
-msgstr "normal"
+msgstr "Normali"
 
 msgid  "Swapped"
-msgstr "swapped"
+msgstr "Scambiati"
 
 msgid  "Thermal"
-msgstr "thermal"
+msgstr "Termico"
 
 msgid  "Case Analyzer"
-msgstr "case analyzer"
+msgstr "Analizzatore BOX"
 
-msgid  "EScribe can be used to analyze your case's thermal properties."
-msgstr "escribe can be used to analyze your case's thermal properties."
+msgid  "{0} can be used to analyze your case's thermal properties."
+msgstr "Puoi usare {0} per analizzare le proprietà termiche della tua BOX."
 
 #. Research tab
 msgid  "Research"
-msgstr "research"
+msgstr "Ricerca"
 
 msgid  "Data Acquisition"
-msgstr "data acquisition"
+msgstr "Acquisizione dati"
 
 msgid  "Serial Output Format:"
-msgstr "serial output format:"
+msgstr "Formato di output:"
 
 msgid  "Plain Text Serial"
-msgstr "plain text serial"
+msgstr "Formato testuale"
 
 msgid  "CSV (Excel)"
-msgstr "csv (excel)"
+msgstr "CSV (excel)"
 
 msgid  "Experimental Setup"
-msgstr "experimental setup"
+msgstr "Setup sperimentale"
 
 msgid  "Coil Resistance:"
-msgstr "coil resistance:"
+msgstr "Resistenza della Coil:"
 
 msgid  "Automatic"
-msgstr "automatic"
+msgstr "Automatica"
 
 msgid  "Locked"
-msgstr "locked"
+msgstr "Bloccata"
 
 msgid  "Temperature Limit:"
-msgstr "temperature limit:"
+msgstr "Limite di temperatura:"
 
 msgid  "Configurable"
-msgstr "configurable"
+msgstr "Configurabile"
 
 msgid  "Puff Limit:"
-msgstr "puff limit:"
+msgstr "Limite dei Puff:"
 
 msgid  "Disabled"
-msgstr "disabled"
+msgstr "Disabilitato"
 
 msgid  "Enabled"
-msgstr "enabled"
+msgstr "Abilitato"
 
 msgid  "Energy Limit:"
-msgstr "energy limit:"
+msgstr "Limite energia:"
 
 msgid  "Time Limit:"
-msgstr "time limit:"
+msgstr "Limite tempo:"
 
 msgid  "Apply Research Seal"
-msgstr "apply research seal"
+msgstr "Applica dati ricerca"
 
 msgid  "Break Research Seal"
-msgstr "break research seal"
+msgstr "Stop dati ricerca"
 
 msgid  "Check Research Seal"
-msgstr "check research seal"
+msgstr "Controlla dati ricerca"
 
 msgid  "Reset Statistics"
-msgstr "reset statistics"
+msgstr "Resetta statistiche"
 
 #. Device Monitor
 msgid  "Device Monitor"
-msgstr "device monitor"
+msgstr "Monitoraggio del dispositivo"
 
 msgid  "Live View"
-msgstr "live view"
+msgstr "Vista dal vivo"
 
 msgid  "USB Power:"
-msgstr "usb power:"
+msgstr "Potenza USB:"
 
 msgid  "USB Current:"
-msgstr "usb current:"
+msgstr "Corrente USB:"
 
 msgid  "USB Voltage:"
-msgstr "usb voltage:"
+msgstr "Voltaggio USB:"
 
 msgid  "Charge:"
-msgstr "charge:"
+msgstr "Carica:"
 
 msgid  "Pack:"
-msgstr "pack:"
+msgstr "Pacco:"
 
 msgid  "Cell {0}:"
-msgstr "cell {0}:"
+msgstr "Cella {0}:"
 
 msgid  "Current Puff"
-msgstr "current puff"
+msgstr "Puff Attuale"
 
 msgid  "Power:"
-msgstr "power:"
+msgstr "Potenza:"
 
 msgid  "Power Set:"
-msgstr "power set:"
+msgstr "Potenza impostata:"
 
 msgid  "Temperature:"
-msgstr "temperature:"
+msgstr "Temperatura:"
 
 msgid  "Temperature Set:"
-msgstr "temperature set:"
+msgstr "Temperature impostata:"
 
 msgid  "Current:"
-msgstr "current:"
+msgstr "Corrente:"
 
 msgid  "Voltage:"
-msgstr "voltage:"
+msgstr "Voltaggio:"
 
 msgid  "Cold Ohms:"
-msgstr "cold ohms:"
+msgstr "Ohm a freddo:"
 
 msgid  "Live Ohms:"
-msgstr "live ohms:"
+msgstr "Ohm reali:"
 
 msgid  "Room Temp:"
-msgstr "room temp:"
+msgstr "Temp. ambiente:"
 
 msgid  "Board Temp:"
-msgstr "board temp:"
+msgstr "Temp. Scheda:"
 
 msgid  "Statistics"
-msgstr "statistics"
+msgstr "Statistiche"
 
 msgid  "Since Reset"
-msgstr "since reset"
+msgstr "Da ripristino"
 
 msgid  "Total"
-msgstr "total"
+msgstr "Totali"
 
 msgid  "Last Puff"
-msgstr "last puff"
+msgstr "Ultimo Puff"
 
 msgid  "Mean"
-msgstr "mean"
+msgstr "Media"
 
 msgid  "Std. Dev."
-msgstr "std. dev."
+msgstr "Dev. Std."
 
 msgid  "Puffs:"
-msgstr "puffs:"
+msgstr "Puffs:"
 
 msgid  "Temp-Protected:"
-msgstr "temp-protected:"
+msgstr "Protezione Temp.:"
 
 msgid  "Energy:"
-msgstr "energy:"
+msgstr "Energia:"
 
 msgid  "Power:"
-msgstr "power:"
+msgstr "Potenza:"
 
 msgid  "Temperature:"
-msgstr "temperature:"
+msgstr "Temperatura:"
 
 msgid  "Time:"
-msgstr "time:"
+msgstr "Tempo:"
 
 msgid  "&Record..."
-msgstr "&record..."
+msgstr "&Registra..."
 
 msgid  "Graph &Options"
-msgstr "graph &options"
+msgstr "&Opzioni grafico"
 
 msgid  "&Clear Graph"
-msgstr "&clear graph"
+msgstr "&Cancella Grafico"
 
 msgid  "&Save Graph..."
-msgstr "&save graph..."
+msgstr "&Salva Grafico..."
 
 msgid  "Set &Time Scale..."
-msgstr "set &time scale..."
+msgstr "Imposta scala &tempo..."
 
 msgid  "Puf&f..."
-msgstr "puf&f..."
+msgstr "Puf&f..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} SECOND"
-msgstr[1]    "{0} SECONDS"
+msgstr[0]    "{0} SECONDO"
+msgstr[1]    "{0} SECONDI"
 
 msgid  "&Custom..."
-msgstr "&custom..."
+msgstr "Personali&zzato..."
 
 msgid  "Puff"
-msgstr "puff"
+msgstr "Puff"
 
 msgid  "Duration (seconds):"
-msgstr "duration (seconds):"
+msgstr "Durata (secondi):"
 
 msgid  "Set &Power..."
-msgstr "set &power..."
+msgstr "Sel. &Potenza..."
 
 msgid  "Set Power"
-msgstr "set power"
+msgstr "Sel. Potenza"
 
 msgid  "Power (W):"
-msgstr "power (w):"
+msgstr "Potenza (W):"
 
 msgid  "Set &Temperature..."
-msgstr "set &temperature..."
+msgstr "Sel. &Temperatura..."
 
 msgid  "Set Temperature"
-msgstr "set temperature"
+msgstr "Sel. temperatura"
 
 msgid  "Units:"
-msgstr "units:"
+msgstr "Unità:"
 
 msgid  "&Disable Temperature Protection"
-msgstr "&disable temperature protection"
+msgstr "&Disabilita protezione temperatura"
 
 msgid  "&Research"
-msgstr "&research"
+msgstr "&Ricerca"
 
 msgid  "Enter Temperature &Monitoring Mode..."
-msgstr "enter temperature &monitoring mode..."
+msgstr "Entrare in modalita &monitoraggio della temperatura..."
 
 msgid  "&Diagnostics"
-msgstr "&diagnostics"
+msgstr "&Diagnostica"
 
 msgid  "Set &Profile..."
-msgstr "set &profile..."
+msgstr "Sel. &Profilo..."
 
 msgid  "Set Profile"
-msgstr "set profile"
+msgstr "Sel. profilo"
 
 msgid  "Set &Charge Estimate..."
-msgstr "set &charge estimate..."
+msgstr "Sel. stima di &Carica..."
 
 msgid  "&Set USB Current Limit..."
-msgstr "&set usb current limit..."
+msgstr "&Sel. limite corrente USB..."
 
 msgid  "&Reset USB Current Limit"
-msgstr "&reset usb current limit"
+msgstr "&Reset limite corrente USB"
 
 msgid  "&Advanced"
-msgstr "&advanced"
+msgstr "&Avanzate"
 
 msgid  "Perform USB &Recovery Charging..."
-msgstr "perform usb &recovery charging..."
+msgstr "Esegui &ripristino ricarica USB..."
 
 msgid  "Reset &Statistics"
-msgstr "reset &statistics"
+msgstr "Reset &statistiche"
 
 msgid  "Resets: {0}"
-msgstr "resets: {0}"
+msgstr "Resets: {0}"
 
 msgid  "Version: {0}"
-msgstr "version: {0}"
+msgstr "Versione: {0}"
 
 #. added in 2015-07-29
 #. Device Monitor
 msgid  "Mode: {0}"
-msgstr "mode: {0}"
+msgstr "modo: {0}"
 
 msgid  "Stealth"
-msgstr "stealth"
+msgstr "Nascosto"
 
 msgid  "Power Locked"
-msgstr "power locked"
+msgstr "Blocco potenza"
 
 msgid  "Buttons: {0}"
-msgstr "buttons: {0}"
+msgstr "Pulsanti: {0}"
 
 msgid  "None"
-msgstr "none"
+msgstr "No"
 
 msgid  "Fire"
-msgstr "fire"
+msgstr "Fire"
 
 msgid  "Profile: {0}"
-msgstr "profile: {0}"
+msgstr "Profilo: {0}"

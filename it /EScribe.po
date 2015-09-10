@@ -111,7 +111,7 @@ msgid  "System &Information"
 msgstr "&Informazioni del Sistema"
 
 msgid  "&Reboot Device"
-msgstr "&Riavvia Dispositivo"
+msgstr "&Riavvia dispositivo"
 
 msgid  "&Soft Reboot..."
 msgstr "Riavvio &veloce..."
@@ -166,7 +166,7 @@ msgid  "Connect"
 msgstr "Connetti"
 
 msgid  "Device:"
-msgstr "Dispositivo:"
+msgstr "dispositivo:"
 
 msgid  "Rename..."
 msgstr "Rinomina..."
@@ -589,7 +589,7 @@ msgstr "Spegnimento dissolvenza:"
 
 #. Mod tab
 msgid  "Mod"
-msgstr "Dispositivo"
+msgstr "dispositivo"
 
 msgid  "Battery"
 msgstr "Batteria"
@@ -643,7 +643,7 @@ msgid  "Kanthal Power Limit:"
 msgstr "limite di potenza Kanthal:"
 
 msgid  "Mod Resistance:"
-msgstr "Resistenza Dispositivo:"
+msgstr "Resistenza dispositivo:"
 
 msgid  "Ohm Lock Range: ±"
 msgstr "gamma di blocco Ohm: ±"

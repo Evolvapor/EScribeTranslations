@@ -307,10 +307,10 @@ msgid  "Temperature Coefficient of Resistance (Approximation)..."
 msgstr "Coefficiente di temperatura della resistenza (approssimativo) ..."
 
 msgid  "Preheat Power:"
-msgstr "Potenza del Booster:"
+msgstr "Potenza di preriscaldamento:"
 
 msgid  "Preheat Punch:"
-msgstr "Tipo di Booster:"
+msgstr "Tipo di preriscaldamento:"
 
 msgid  "Soft"
 msgstr "Basso"
@@ -319,7 +319,7 @@ msgid  "Hard"
 msgstr "Alto"
 
 msgid  "Preheat Time Limit:"
-msgstr "Limite del Booster:"
+msgstr "Tempo limite di preriscaldamento:"
 
 msgid  "Atomizer Analyzer"
 msgstr "Analisi Atomizzatore"
@@ -589,7 +589,7 @@ msgstr "Spegnimento dissolvenza:"
 
 #. Mod tab
 msgid  "Mod"
-msgstr "MOD"
+msgstr "Dispositivo"
 
 msgid  "Battery"
 msgstr "Batteria"
@@ -643,7 +643,7 @@ msgid  "Kanthal Power Limit:"
 msgstr "limite di potenza Kanthal:"
 
 msgid  "Mod Resistance:"
-msgstr "Resistenza MOD:"
+msgstr "Resistenza Dispositivo:"
 
 msgid  "Ohm Lock Range: ±"
 msgstr "gamma di blocco Ohm: ±"
@@ -664,10 +664,10 @@ msgid  "Thermal"
 msgstr "Termico"
 
 msgid  "Case Analyzer"
-msgstr "Analizzatore BOX"
+msgstr "Analizzatore scocca"
 
 msgid  "{0} can be used to analyze your case's thermal properties."
-msgstr "Puoi usare {0} per analizzare le proprietà termiche della tua BOX."
+msgstr "Puoi usare {0} per analizzare le proprietà termiche della scocca."
 
 #. Research tab
 msgid  "Research"
@@ -881,7 +881,7 @@ msgid  "&Research"
 msgstr "&Ricerca"
 
 msgid  "Enter Temperature &Monitoring Mode..."
-msgstr "Entrare in modalita &monitoraggio della temperatura..."
+msgstr "Entrare in modalità &monitoraggio della temperatura..."
 
 msgid  "&Diagnostics"
 msgstr "&Diagnostica"
@@ -1005,13 +1005,13 @@ msgstr "Connessione non disponibile\nDispositivo in uso da altra applicazione."
 
 #. Mod tab
 msgid "Case Cooling Time Constant:"
-msgstr "Costante di tempo raffreddamento BOX:"
+msgstr "Costante di tempo raffreddamento scocca:"
 
 msgid  "Case Heating Time Constant:"
-msgstr "Costante di tempo riscaldamento box:"
+msgstr "Costante di tempo riscaldamento scocca:"
 
 msgid  "Case USB Charge Temperature Rise:"
-msgstr "Aumento temperatura BOX per ricarica USB:"
+msgstr "Aumento temperatura scocca per ricarica USB:"
 
 msgid  "Minimum Ambient Temperature:"
 msgstr "Minima temperatura ambientale:"
@@ -1038,7 +1038,7 @@ msgid  "Select the latest firmware to have it loaded onto the device."
 msgstr "selezionare l'ultima versione del firmware caricato sul dispositivo."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "selezionare il file impostazioni di default della mod. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
+msgstr "selezionare il file impostazioni di default del dispositivo. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
 
 msgid  "Functional Tests"
 msgstr "Test funzionali"

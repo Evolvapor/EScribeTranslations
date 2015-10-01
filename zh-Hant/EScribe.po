@@ -1,15 +1,15 @@
-#. 软件名称:EScribe
+#. 軟體名稱:EScribe
 #. 日期:2015-09-10
 #. 版本：1.0.33
-#. 作者：铜豆
-#. 有任何中文汉化问题可与铜豆取得联系,感谢你使用此中文补丁.
+#. 作者：銅豆
+#. 有任何中文漢化問題可與銅豆取得聯繫,感謝你使用此中文補丁.
 
 msgid  "X-language translation by Y."
-msgstr "中文版本汉化由铜豆[SamMao]提供."
+msgstr "中文版本漢化由銅豆[SamMao]提供."
 
 #. standard
 msgid  "OK"
-msgstr "确认"
+msgstr "確認"
 
 msgid  "Cancel"
 msgstr "取消"
@@ -19,427 +19,427 @@ msgid  "&File"
 msgstr "文件"
 
 msgid  "&New (Reset to {0} Standard)"
-msgstr "新建(重置到Evolv默认设置)"
+msgstr "新建(重置到Evolv默認設置)"
 
 msgid  "&Open..."
-msgstr "打开..."
+msgstr "打開..."
 
 msgid  "&Save"
 msgstr "保存"
 
 msgid  "Save &As..."
-msgstr "另存为..."
+msgstr "另存為..."
 
 msgid  "E&xit"
 msgstr "退出"
 
 msgid  "&Edit"
-msgstr "编辑"
+msgstr "編輯"
 
 msgid  "&Undo"
-msgstr "撤销"
+msgstr "撤銷"
 
 msgid  "&Redo"
 msgstr "重做"
 
 msgid  "&Internet"
-msgstr "联网"
+msgstr "聯網"
 
 msgid  "&Log in..."
-msgstr "登录..."
+msgstr "登錄..."
 
 msgid  "E-mail:"
-msgstr "邮箱:"
+msgstr "郵箱:"
 
 msgid  "Password:"
-msgstr "密码:"
+msgstr "密碼:"
 
 msgid  "My Account"
-msgstr "我的帐号"
+msgstr "我的帳號"
 
 msgid  "Register"
-msgstr "注册"
+msgstr "註冊"
 
 msgid  "Login"
-msgstr "登录"
+msgstr "登錄"
 
 msgid  "Log &out"
-msgstr "注销"
+msgstr "註銷"
 
 msgid  "&Options"
-msgstr "选项"
+msgstr "選項"
 
 msgid  "Automatically Check for &Updates"
-msgstr "自动检查更新"
+msgstr "自動檢查更新"
 
 msgid  "Clear Recent Files List"
 msgstr "清除最近的文件列表"
 
 msgid  "&Connect..."
-msgstr "连接..."
+msgstr "連接..."
 
 msgid  "Dis&connect"
-msgstr "断开连接"
+msgstr "斷開連接"
 
 msgid  "&Tools"
 msgstr "工具箱"
 
 msgid  "&Calculator"
-msgstr "计算器"
+msgstr "計算器"
 
 msgid  "Calculator"
-msgstr "计算器"
+msgstr "計算器"
 
 msgid  "Results"
-msgstr "结果"
+msgstr "結果"
 
 msgid  "Equation"
 msgstr "公式"
 
 msgid  "Calculate"
-msgstr "计算"
+msgstr "計算"
 
 msgid  "&Production Utility"
-msgstr "制作工具"
+msgstr "製作工具"
 
 msgid  "Serial &Terminal"
-msgstr "串行终端"
+msgstr "串列終端"
 
 msgid  "Serial Terminal"
-msgstr "串行终端"
+msgstr "串列終端"
 
 msgid  "Data"
-msgstr "数据"
+msgstr "數據"
 
 msgid  "Command"
 msgstr "指令"
 
 msgid  "System &Information"
-msgstr "系统信息"
+msgstr "系統信息"
 
 msgid  "&Reboot Device"
-msgstr "重启设备"
+msgstr "重啟設備"
 
 msgid  "&Soft Reboot..."
-msgstr "软重启..."
+msgstr "軟重啟..."
 
 msgid  "&Hard Reboot..."
-msgstr "硬重启..."
+msgstr "硬重啟..."
 
 msgid  "Show Serial &Number..."
-msgstr "显示序列号..."
+msgstr "顯示序列號..."
 
 msgid  "Update &Firmware..."
 msgstr "固件更新..."
 
 msgid  "&Help"
-msgstr "帮助"
+msgstr "幫助"
 
 msgid  "&Website"
-msgstr "官方网站"
+msgstr "官方網站"
 
 msgid  "&Help Desk"
-msgstr "咨询服务"
+msgstr "諮詢服務"
 
 msgid  "Report a &Bug"
-msgstr "报告错误"
+msgstr "報告錯誤"
 
 msgid  "Bug Report"
-msgstr "报告错误"
+msgstr "報告錯誤"
 
 msgid  "E-mail Address (optional):"
-msgstr "邮件地址(可选):"
+msgstr "郵件地址(可選):"
 
 msgid  "&Send"
-msgstr "发送"
+msgstr "發送"
 
 msgid  "Send &Feedback"
-msgstr "发送反馈意见"
+msgstr "發送反饋意見"
 
 msgid  "Feedback Form"
-msgstr "反馈表单"
+msgstr "反饋表單"
 
 msgid  "U.S. &Patents"
-msgstr "美国发明专利"
+msgstr "美國發明專利"
 
 msgid  "&About {0}"
-msgstr "关于{0}"
+msgstr "關於{0}"
 
 msgid  "About {0}"
-msgstr "关于{0}"
+msgstr "關於{0}"
 
 #. Connect dialog
 msgid  "Connect"
-msgstr "连接"
+msgstr "連接"
 
 msgid  "Device:"
-msgstr "设备:"
+msgstr "設備:"
 
 msgid  "Rename..."
 msgstr "重命名..."
 
 #. Connect dialog Rename Device
 msgid  "Rename Device"
-msgstr "重命名设备"
+msgstr "重命名設備"
 
 msgid  "New Name:"
-msgstr "新建名称:"
+msgstr "新建名稱:"
 
 #. toolbar
 msgid  "Connect and &Download Settings"
-msgstr "连接和下载设置"
+msgstr "連接和下載設置"
 
 msgid  "&Upload Settings to Device"
-msgstr "上传设置到设备"
+msgstr "上傳設置到設備"
 
 msgid  "Device &Monitor"
-msgstr "设备监控"
+msgstr "設備監控"
 
 msgid  "{0} connected on USB."
-msgstr "{0} 通过USB连接."
+msgstr "{0} 通過USB連接."
 
 msgid  "Downloading Settings"
-msgstr "正在下载设置"
+msgstr "正在下載設置"
 
 msgid  "Uploading Settings"
-msgstr "正在上传设置"
+msgstr "正在上傳設置"
 
 msgid  "Verifying Settings"
-msgstr "正在验证设置"
+msgstr "正在驗證設置"
 
 #. General tab
 msgid  "General"
-msgstr "通用设置"
+msgstr "通用設置"
 
 msgid  "My DNA"
-msgstr "我的芯片"
+msgstr "我的晶元"
 
 msgid  "Manufacturer:"
-msgstr "制造商:"
+msgstr "製造商:"
 
 msgid  "Model:"
 msgstr "模型:"
 
 msgid  "History:"
-msgstr "出厂:"
+msgstr "出廠:"
 
 msgid  "Get Information"
-msgstr "获取信息"
+msgstr "獲取信息"
 
 msgid  "{0} can get information online about your mod."
-msgstr "{0}可以在线获取你的方案的相关信息."
+msgstr "{0}可以在線獲取你的方案的相關信息."
 
 msgid  "Restore Defaults"
-msgstr "还原默认设置"
+msgstr "還原默認設置"
 
 msgid  "Profile {0}"
 msgstr "配置 {0}"
 
 msgid  "Name:"
-msgstr "名称:"
+msgstr "名稱:"
 
 msgid  "Custom Screen:"
-msgstr "自定义屏幕:"
+msgstr "自定義屏幕:"
 
 msgid  "Settings"
-msgstr "设置"
+msgstr "設置"
 
 msgid  "Power:"
 msgstr "功率:"
 
 msgid  "Temperature:"
-msgstr "温度:"
+msgstr "溫度:"
 
 msgid  "Off"
-msgstr "关闭"
+msgstr "關閉"
 
 msgid  "Ohms Locked"
-msgstr "电阻锁定"
+msgstr "電阻鎖定"
 
 msgid  "If you connect a temperature-sensing coil..."
-msgstr "如果你使用了一个支持温控的发热丝..."
+msgstr "如果你使用了一個支持溫控的發熱絲..."
 
 msgid  "Coil Material:"
-msgstr "发热丝材料:"
+msgstr "發熱絲材料:"
 
 msgid  "Nickel 200"
-msgstr "镍 200"
+msgstr "鎳 200"
 
 msgid  "Custom"
-msgstr "自定义"
+msgstr "自定義"
 
 msgid  "Material Profile:"
-msgstr "材料概况:"
+msgstr "材料概況:"
 
 msgid  "Move/Resize"
-msgstr "移动/调整"
+msgstr "移動/調整"
 
 msgid  "Split"
 msgstr "拆分"
 
 msgid  "Delete"
-msgstr "删除"
+msgstr "刪除"
 
 msgid  "Set X"
-msgstr "设置x"
+msgstr "設置x"
 
 msgid  "X value:"
 msgstr "x值:"
 
 msgid  "Set Y"
-msgstr "设置y"
+msgstr "設置y"
 
 msgid  "Y value:"
 msgstr "y值:"
 
 msgid  "Custom Materials"
-msgstr "自定义材料"
+msgstr "自定義材料"
 
 msgid  "Load CSV..."
-msgstr "载入csv..."
+msgstr "載入csv..."
 
 msgid  "Save CSV..."
 msgstr "保存csv..."
 
 msgid  "Label..."
-msgstr "标签..."
+msgstr "標籤..."
 
 msgid  "Special"
 msgstr "特殊"
 
 msgid  "Reduce Number of Points..."
-msgstr "减少点数..."
+msgstr "減少點數..."
 
 msgid  "Temperature Coefficient of Resistance (Approximation)..."
-msgstr "电阻温度系数(近似值)..."
+msgstr "電阻溫度係數(近似值)..."
 
 msgid  "Preheat Power:"
-msgstr "预热功率:"
+msgstr "預熱功率:"
 
 msgid  "Preheat Punch:"
-msgstr "预热冲力:"
+msgstr "預熱衝力:"
 
 msgid  "Soft"
 msgstr "弱"
 
 msgid  "Hard"
-msgstr "强"
+msgstr "強"
 
 msgid  "Preheat Time Limit:"
-msgstr "预热时间限制:"
+msgstr "預熱時間限制:"
 
 msgid  "Atomizer Analyzer"
-msgstr "雾化器分析器"
+msgstr "霧化器分析器"
 
 msgid  "{0} can be used to analyze your atomizer's resistance stability."
-msgstr "{0}可以用来分析你的雾化器电阻稳定性."
+msgstr "{0}可以用來分析你的霧化器電阻穩定性."
 
 #. Theme tab
 msgid "Theme"
-msgstr "主题设置"
+msgstr "主題設置"
 
 msgid  "Load Theme..."
-msgstr "载入主题..."
+msgstr "載入主題..."
 
 msgid  "Save Theme..."
-msgstr "保存主题..."
+msgstr "保存主題..."
 
 msgid  "Default Theme"
-msgstr "默认主题"
+msgstr "默認主題"
 
 msgid  "Custom Screens"
-msgstr "自定义屏幕"
+msgstr "自定義屏幕"
 
 msgid  "Screens are {0} pixels wide and {1} pixels tall."
-msgstr "屏幕有{0}像素宽和{1}像素高."
+msgstr "屏幕有{0}像素寬和{1}像素高."
 
 msgid  "Capture..."
-msgstr "捕获..."
+msgstr "捕獲..."
 
 msgid  "Load..."
-msgstr "载入..."
+msgstr "載入..."
 
 msgid  "Save..."
 msgstr "保存..."
 
 msgid  "Default"
-msgstr "默认"
+msgstr "默認"
 
 msgid  "Welcome (Primary):"
-msgstr "欢迎(首屏):"
+msgstr "歡迎(首屏):"
 
 msgid  "Welcome (Secondary):"
-msgstr "欢迎(二屏):"
+msgstr "歡迎(二屏):"
 
 msgid  "Normal Mode:"
-msgstr "正常屏显:"
+msgstr "正常屏顯:"
 
 msgid  "Stealth Mode:"
-msgstr "隐藏屏显:"
+msgstr "隱藏屏顯:"
 
 msgid  "New Coil Yes/No:"
-msgstr "新雾化器按+同一个雾化器按-:"
+msgstr "新霧化器按+同一個霧化器按-:"
 
 msgid  "Hold To Lock Ohms:"
-msgstr "按住锁定电阻:"
+msgstr "按住鎖定電阻:"
 
 msgid  "Hold To Unlock Ohms:"
-msgstr "按住解锁电阻:"
+msgstr "按住解鎖電阻:"
 
 msgid  "Power Locked Hold Up Down:"
-msgstr "按住+-解锁功率:"
+msgstr "按住+-解鎖功率:"
 
 msgid  "Locked Click 5X:"
-msgstr "按5次解锁:"
+msgstr "按5次解鎖:"
 
 msgid  "Hold To Change Temp:"
-msgstr "按住改变温度:"
+msgstr "按住改變溫度:"
 
 msgid  "Kanthal Max Power:"
-msgstr "康丝最大功率:"
+msgstr "康絲最大功率:"
 
 msgid  "Show Message"
-msgstr "显示信息"
+msgstr "顯示信息"
 
 msgid  "Don't Show"
-msgstr "不显示"
+msgstr "不顯示"
 
 msgid  "Temperature Protected:"
-msgstr "温度保护:"
+msgstr "溫度保護:"
 
 msgid  "Show Temperature"
-msgstr "显示温度"
+msgstr "顯示溫度"
 
 msgid  "Too Hot:"
-msgstr "过热:"
+msgstr "過熱:"
 
 msgid  "Shorted:"
 msgstr "短路:"
 
 msgid  "Check Atomizer:"
-msgstr "检查雾化器:"
+msgstr "檢查霧化器:"
 
 msgid  "Ohms Too Low:"
-msgstr "电阻过低:"
+msgstr "電阻過低:"
 
 msgid  "Ohms Too High:"
-msgstr "电阻过高:"
+msgstr "電阻過高:"
 
 msgid  "Check Battery:"
-msgstr "检查电池:"
+msgstr "檢查電池:"
 
 msgid  "Weak Battery:"
-msgstr "电池弱电:"
+msgstr "電池弱電:"
 
 msgid  "Imbalanced Battery:"
-msgstr "电池失衡:"
+msgstr "電池失衡:"
 
 #. Screen tab
 msgid  "Screen"
-msgstr "屏幕显示"
+msgstr "屏幕顯示"
 
 msgid  "Display"
-msgstr "显示"
+msgstr "顯示"
 
 msgid  "Orientation:"
 msgstr "方向:"
@@ -451,279 +451,279 @@ msgid "Right"
 msgstr "右"
 
 msgid  "Battery Meter:"
-msgstr "电量标志:"
+msgstr "電量標誌:"
 
 msgid  "On Default Screens"
-msgstr "默认屏幕"
+msgstr "默認屏幕"
 
 msgid  "On Main Screen Only"
-msgstr "仅主屏幕"
+msgstr "僅主屏幕"
 
 msgid  "On All Screens"
 msgstr "所有屏幕"
 
 msgid  "Error Flashes:"
-msgstr "报错屏闪:"
+msgstr "報錯屏閃:"
 
 msgid  "{0:0.0} s error, {1:0.0} s status"
-msgstr "{0:0.0}秒错误, {1:0.0}秒状态"
+msgstr "{0:0.0}秒錯誤, {1:0.0}秒狀態"
 
 msgid  "Show error only."
-msgstr "仅显示错误."
+msgstr "僅顯示錯誤."
 
 msgid  "Fields"
-msgstr "区域"
+msgstr "區域"
 
 msgid  "Default Field {0}:"
-msgstr "默认区域{0}:"
+msgstr "默認區域{0}:"
 
 msgid  "Ohms"
-msgstr "电阻"
+msgstr "電阻"
 
 msgid  "Ohms (Standard)"
-msgstr "电阻(默认)"
+msgstr "電阻(默認)"
 
 msgid  "Voltage"
-msgstr "电压"
+msgstr "電壓"
 
 msgid  "Voltage (Standard)"
-msgstr "电压(默认)"
+msgstr "電壓(默認)"
 
 msgid  "Temperature"
-msgstr "温度"
+msgstr "溫度"
 
 msgid  "Temperature (Standard)"
-msgstr "温度(默认)"
+msgstr "溫度(默認)"
 
 msgid  "Battery Charge %"
-msgstr "电池电量%"
+msgstr "電池電量%"
 
 msgid  "Battery Charge Wh"
-msgstr "电池电量wh"
+msgstr "電池電量wh"
 
 msgid  "USB Power"
 msgstr "usb功率"
 
 msgid  "USB Current"
-msgstr "usb电流"
+msgstr "usb電流"
 
 msgid  "USB Current (Standard)"
-msgstr "usb电流(默认)"
+msgstr "usb電流(默認)"
 
 msgid  "USB Voltage"
-msgstr "usb电压"
+msgstr "usb電壓"
 
 msgid  "Battery Pack"
-msgstr "电池组"
+msgstr "電池組"
 
 msgid  "Battery Cell {0}"
-msgstr "电池单元{0}"
+msgstr "電池單元{0}"
 
 msgid  "Current"
-msgstr "电流"
+msgstr "電流"
 
 msgid  "Board Temperature"
-msgstr "板温"
+msgstr "板溫"
 
 msgid  "Room Temperature"
-msgstr "室温"
+msgstr "室溫"
 
 msgid  "Puff Count"
-msgstr "喷烟计数"
+msgstr "噴煙計數"
 
 msgid  "Last Energy"
-msgstr "最后的电量平均统计值"
+msgstr "最後的電量平均統計值"
 
 msgid  "Last Power"
-msgstr "最后的功率平均统计值"
+msgstr "最後的功率平均統計值"
 
 msgid  "Last Temperature"
-msgstr "最后的温度平均统计值"
+msgstr "最後的溫度平均統計值"
 
 msgid  "Last Time"
-msgstr "最后的时间平均统计值"
+msgstr "最後的時間平均統計值"
 
 msgid  "Charging Field {0}:"
-msgstr "充电区域{0}:"
+msgstr "充電區域{0}:"
 
 msgid  "Brightness"
 msgstr "亮度"
 
 msgid  "Firing Brightness:"
-msgstr "点火亮度:"
+msgstr "點火亮度:"
 
 msgid  "Fade to..."
-msgstr "淡出为..."
+msgstr "淡出為..."
 
 msgid  "Set to..."
-msgstr "设置为..."
+msgstr "設置為..."
 
 msgid  "Temporarily set to..."
-msgstr "暂时设为..."
+msgstr "暫時設為..."
 
 msgid  "Do not change."
-msgstr "不进行更改."
+msgstr "不進行更改."
 
 msgid  "Screen active after puff."
-msgstr "喷烟后屏幕激活."
+msgstr "噴煙後屏幕激活."
 
 msgid  "Screen off after puff."
-msgstr "喷烟后屏幕关闭."
+msgstr "噴煙後屏幕關閉."
 
 msgid  "No effect on idle state."
-msgstr "空闲状态下无影响."
+msgstr "空閑狀態下無影響."
 
 msgid  "Active Brightness:"
 msgstr "激活亮度:"
 
 msgid  "Active Time:"
-msgstr "激活时间:"
+msgstr "激活時間:"
 
 msgid  "Idle Brightness:"
-msgstr "空闲亮度:"
+msgstr "空閑亮度:"
 
 msgid  "Idle Time:"
-msgstr "空闲时间:"
+msgstr "空閑時間:"
 
 msgid  "Charging Brightness:"
-msgstr "充电亮度:"
+msgstr "充電亮度:"
 
 msgid  "Fade-in Time:"
-msgstr "淡入时间:"
+msgstr "淡入時間:"
 
 msgid  "Fade-out Time:"
-msgstr "淡出时间:"
+msgstr "淡出時間:"
 
 #. Mod tab
 msgid  "Mod"
 msgstr "盒子方案"
 
 msgid  "Battery"
-msgstr "电池"
+msgstr "電池"
 
 msgid  "Type:"
-msgstr "类型:"
+msgstr "類型:"
 
 msgid  "Lithium Polymer"
-msgstr "锂聚合物(Li-Po)"
+msgstr "鋰聚合物(Li-Po)"
 
 msgid  "LiFePO4"
-msgstr "磷酸铁锂(LiFePO4)"
+msgstr "磷酸鐵鋰(LiFePO4)"
 
 msgid  "Power Supply"
-msgstr "电力供应"
+msgstr "電力供應"
 
 msgid  "Capacity:"
 msgstr "容量:"
 
 msgid  "{0}-cell"
-msgstr "{0}-单元"
+msgstr "{0}-單元"
 
 msgid  "Watt-Hour Calculator"
-msgstr "电能计算器"
+msgstr "電能計算器"
 
 msgid  "Cell Soft Cutoff:"
-msgstr "电池单元弱电切断:"
+msgstr "電池單元弱電切斷:"
 
 msgid  "Charging Mode:"
-msgstr "充电模式:"
+msgstr "充電模式:"
 
 msgid  "Maximize Puffs"
-msgstr "最大限度喷烟口数"
+msgstr "最大限度噴煙口數"
 
 msgid  "Maximize Recharges"
-msgstr "最大限度复充寿命"
+msgstr "最大限度復充壽命"
 
 msgid  "Discharge Profile:"
-msgstr "放电概况:"
+msgstr "放電概況:"
 
 msgid  "Battery Analyzer"
-msgstr "电池分析器"
+msgstr "電池分析器"
 
 msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
-msgstr "{0}可以用来分析你的电池容量和放电曲线."
+msgstr "{0}可以用來分析你的電池容量和放電曲線."
 
 msgid  "Electrical"
-msgstr "电能"
+msgstr "電能"
 
 msgid  "Kanthal Power Limit:"
-msgstr "康丝功率限制:"
+msgstr "康絲功率限制:"
 
 msgid  "Mod Resistance:"
-msgstr "Mod电阻值:"
+msgstr "Mod電阻值:"
 
 msgid  "Ohm Lock Range: ±"
-msgstr "电阻锁定范围: ±"
+msgstr "電阻鎖定範圍: ±"
 
 msgid  "Mechanical"
 msgstr "操控"
 
 msgid  "Up/Down Buttons:"
-msgstr "上/下按钮:"
+msgstr "上/下按鈕:"
 
 msgid  "Normal"
 msgstr "普通"
 
 msgid  "Swapped"
-msgstr "调换"
+msgstr "調換"
 
 msgid  "Thermal"
-msgstr "散热"
+msgstr "散熱"
 
 msgid  "Case Analyzer"
-msgstr "主机发热分析器"
+msgstr "主機發熱分析器"
 
 msgid  "{0} can be used to analyze your case's thermal properties."
-msgstr "{0}可以用来分析你的主机发热情况."
+msgstr "{0}可以用來分析你的主機發熱情況."
 
 #. Research tab
 msgid  "Research"
-msgstr "实验研究"
+msgstr "實驗研究"
 
 msgid  "Data Acquisition"
-msgstr "数据采集"
+msgstr "數據採集"
 
 msgid  "Serial Output Format:"
-msgstr "输出格式:"
+msgstr "輸出格式:"
 
 msgid  "Plain Text Serial"
-msgstr "纯文本"
+msgstr "純文本"
 
 msgid  "CSV (Excel)"
 msgstr "CSV (Excel表格)"
 
 msgid  "Experimental Setup"
-msgstr "实验设备"
+msgstr "實驗設備"
 
 msgid  "Coil Resistance:"
-msgstr "发热丝电阻:"
+msgstr "發熱絲電阻:"
 
 msgid  "Automatic"
-msgstr "全自动"
+msgstr "全自動"
 
 msgid  "Locked"
-msgstr "锁定"
+msgstr "鎖定"
 
 msgid  "Temperature Limit:"
-msgstr "温度限制:"
+msgstr "溫度限制:"
 
 msgid  "Configurable"
 msgstr "可配置"
 
 msgid  "Puff Limit:"
-msgstr "喷烟口数限制:"
+msgstr "噴煙口數限制:"
 
 msgid  "Disabled"
 msgstr "禁用"
 
 msgid  "Enabled"
-msgstr "启用"
+msgstr "啟用"
 
 msgid  "Energy Limit:"
-msgstr "电量限制:"
+msgstr "電量限制:"
 
 msgid  "Time Limit:"
-msgstr "时间限制:"
+msgstr "時間限制:"
 
 msgid  "Apply Research Seal"
 msgstr "防篡改加密"
@@ -732,122 +732,122 @@ msgid  "Break Research Seal"
 msgstr "解除加密"
 
 msgid  "Check Research Seal"
-msgstr "检查加密"
+msgstr "檢查加密"
 
 msgid  "Reset Statistics"
-msgstr "重置统计"
+msgstr "重置統計"
 
 #. Device Monitor
 msgid  "Device Monitor"
-msgstr "设备监控"
+msgstr "設備監控"
 
 msgid  "Live View"
-msgstr "实时查看"
+msgstr "實時查看"
 
 msgid  "USB Power:"
 msgstr "usb 功率:"
 
 msgid  "USB Current:"
-msgstr "usb 电流:"
+msgstr "usb 電流:"
 
 msgid  "USB Voltage:"
-msgstr "usb 电压:"
+msgstr "usb 電壓:"
 
 msgid  "Charge:"
-msgstr "充电:"
+msgstr "充電:"
 
 msgid  "Pack:"
-msgstr "电池组:"
+msgstr "電池組:"
 
 msgid  "Cell {0}:"
-msgstr "电池单元 {0}:"
+msgstr "電池單元 {0}:"
 
 msgid  "Current Puff"
-msgstr "当前喷烟情况"
+msgstr "當前噴煙情況"
 
 msgid  "Power:"
 msgstr "功率:"
 
 msgid  "Power Set:"
-msgstr "功率设置:"
+msgstr "功率設置:"
 
 msgid  "Temperature:"
-msgstr "温度:"
+msgstr "溫度:"
 
 msgid  "Temperature Set:"
-msgstr "温度设置:"
+msgstr "溫度設置:"
 
 msgid  "Current:"
-msgstr "电流:"
+msgstr "電流:"
 
 msgid  "Voltage:"
-msgstr "电压:"
+msgstr "電壓:"
 
 msgid  "Cold Ohms:"
-msgstr "常温电阻:"
+msgstr "常溫電阻:"
 
 msgid  "Live Ohms:"
-msgstr "实时电阻:"
+msgstr "實時電阻:"
 
 msgid  "Room Temp:"
-msgstr "室内温度:"
+msgstr "室內溫度:"
 
 msgid  "Board Temp:"
-msgstr "主板温度:"
+msgstr "主板溫度:"
 
 msgid  "Statistics"
-msgstr "数据统计"
+msgstr "數據統計"
 
 msgid  "Since Reset"
-msgstr "重置以后"
+msgstr "重置以後"
 
 msgid  "Total"
-msgstr "总数"
+msgstr "總數"
 
 msgid  "Last Puff"
-msgstr "最后喷烟平均统计值"
+msgstr "最後噴煙平均統計值"
 
 msgid  "Mean"
-msgstr "平均数"
+msgstr "平均數"
 
 msgid  "Std. Dev."
-msgstr "标准偏差(统计)"
+msgstr "標準偏差(統計)"
 
 msgid  "Puffs:"
-msgstr "喷烟口数:"
+msgstr "噴煙口數:"
 
 msgid  "Temp-Protected:"
-msgstr "温度保护"
+msgstr "溫度保護"
 
 msgid  "Energy:"
-msgstr "电量:"
+msgstr "電量:"
 
 msgid  "Power:"
 msgstr "功率:"
 
 msgid  "Temperature:"
-msgstr "温度:"
+msgstr "溫度:"
 
 msgid  "Time:"
-msgstr "时间:"
+msgstr "時間:"
 
 msgid  "&Record..."
-msgstr "记录..."
+msgstr "記錄..."
 
 msgid  "Graph &Options"
-msgstr "图表选项"
+msgstr "圖表選項"
 
 msgid  "&Clear Graph"
-msgstr "清除图表"
+msgstr "清除圖表"
 
 msgid  "&Save Graph..."
-msgstr "保存图表..."
+msgstr "保存圖表..."
 
 msgid  "Set &Time Scale..."
-msgstr "时间刻度设置..."
+msgstr "時間刻度設置..."
 
 msgid  "Puf&f..."
-msgstr "喷烟..."
+msgstr "噴煙..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
@@ -855,67 +855,67 @@ msgstr[0]    "{0} 秒"
 msgstr[1]    "{0} 秒"
 
 msgid  "&Custom..."
-msgstr "自定义..."
+msgstr "自定義..."
 
 msgid  "Puff"
-msgstr "喷烟"
+msgstr "噴煙"
 
 msgid  "Duration (seconds):"
-msgstr "持续时间(秒):"
+msgstr "持續時間(秒):"
 
 msgid  "Set &Power..."
-msgstr "功率设置..."
+msgstr "功率設置..."
 
 msgid  "Set Power"
-msgstr "功率设置"
+msgstr "功率設置"
 
 msgid  "Power (W):"
 msgstr "功率(w):"
 
 msgid  "Set &Temperature..."
-msgstr "温度设置..."
+msgstr "溫度設置..."
 
 msgid  "Set Temperature"
-msgstr "温度设置"
+msgstr "溫度設置"
 
 msgid  "Units:"
-msgstr "单位:"
+msgstr "單位:"
 
 msgid  "&Disable Temperature Protection"
-msgstr "禁用温度保护"
+msgstr "禁用溫度保護"
 
 msgid  "&Research"
 msgstr "研究"
 
 msgid  "Enter Temperature &Monitoring Mode..."
-msgstr "进入温度监控模式..."
+msgstr "進入溫度監控模式..."
 
 msgid  "&Diagnostics"
-msgstr "诊断"
+msgstr "診斷"
 
 msgid  "Set &Profile..."
-msgstr "配置文件设置..."
+msgstr "配置文件設置..."
 
 msgid  "Set Profile"
-msgstr "配置文件设置"
+msgstr "配置文件設置"
 
 msgid  "Set &Charge Estimate..."
-msgstr "充电估算值设置..."
+msgstr "充電估算值設置..."
 
 msgid  "&Set USB Current Limit..."
-msgstr "usb电流限制设置..."
+msgstr "usb電流限制設置..."
 
 msgid  "&Reset USB Current Limit"
-msgstr "重置usb电流限制"
+msgstr "重置usb電流限制"
 
 msgid  "&Advanced"
-msgstr "高级"
+msgstr "高級"
 
 msgid  "Perform USB &Recovery Charging..."
-msgstr "执行usb恢复性充电..."
+msgstr "執行usb恢復性充電..."
 
 msgid  "Reset &Statistics"
-msgstr "重置统计"
+msgstr "重置統計"
 
 msgid  "Resets: {0}"
 msgstr "重置: {0}"
@@ -929,34 +929,34 @@ msgid  "Mode: {0}"
 msgstr "模式: {0}"
 
 msgid  "Stealth"
-msgstr "隐藏"
+msgstr "隱藏"
 
 msgid  "Power Locked"
-msgstr "锁定电源"
+msgstr "鎖定電源"
 
 msgid  "Buttons: {0}"
-msgstr "按键: {0}"
+msgstr "按鍵: {0}"
 
 msgid  "None"
-msgstr "没有"
+msgstr "沒有"
 
 msgid  "Fire"
-msgstr "点火"
+msgstr "點火"
 
 msgid  "Profile: {0}"
 msgstr "配置文件:{0}"
 
 #. added in 2015-08-07
 msgid  "Fahrenheit"
-msgstr "华氏度"
+msgstr "華氏度"
 
 msgid  "Celsius"
-msgstr "摄氏度"
+msgstr "攝氏度"
 
 #. added in 2015-08-07
 #. Get Information
 msgid  "Board programmed"
-msgstr "主板程序封装"
+msgstr "主板程序封裝"
 
 msgid  "Mod configured"
 msgstr "方案配置"
@@ -964,90 +964,90 @@ msgstr "方案配置"
 #. added in 2015-08-07
 #. curve editing
 msgid  "Label Curve"
-msgstr "标签曲线"
+msgstr "標籤曲線"
 
 msgid  "New Label:"
-msgstr "新建标签:"
+msgstr "新建標籤:"
 
 msgid  "Reduce Number of Points"
-msgstr "减少点数"
+msgstr "減少點數"
 
 msgid  "Remaining Point Count:"
-msgstr "剩余点数:"
+msgstr "剩餘點數:"
 
 msgid  "Reduction Method:"
-msgstr "缩减方法:"
+msgstr "縮減方法:"
 
 msgid  "Temperature Coefficient of Resistance"
-msgstr "电阻温度系数"
+msgstr "電阻溫度係數"
 
 msgid  "Electrical Resistivity"
-msgstr "电阻率"
+msgstr "電阻率"
 
 msgid  "Temperature (°F)"
-msgstr "温度(°F)"
+msgstr "溫度(°F)"
 
 msgid  "Cell Voltage (V)"
-msgstr "电池单元电压(v)"
+msgstr "電池單元電壓(v)"
 
 msgid  "Battery Charge (%)"
-msgstr "电池充电(%)"
+msgstr "電池充電(%)"
 
 #. added in 2015-08-07
 #. Device Monitor
 msgid  "Set Time Scale"
-msgstr "时间刻度设置"
+msgstr "時間刻度設置"
 
 msgid  "Time Scale (seconds):"
-msgstr "时间刻度(秒):"
+msgstr "時間刻度(秒):"
 
 msgid  "Profile:"
 msgstr "配置:"
 
 msgid  "Set Charge Estimate"
-msgstr "充电估算值设置"
+msgstr "充電估算值設置"
 
 msgid  "Charge (Wh):"
-msgstr "充电(wh):"
+msgstr "充電(wh):"
 
 msgid  "Set USB Current Limit"
-msgstr "usb电流限制设置"
+msgstr "usb電流限制設置"
 
 msgid  "Current (A):"
-msgstr "电流(A):"
+msgstr "電流(A):"
 
 msgid  "Temperature Monitoring Mode"
-msgstr "温度监控模式"
+msgstr "溫度監控模式"
 
 msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
-msgstr "在温度监测模式下,温度将被显示.\n它不会以任何方式进行限制."
+msgstr "在溫度監測模式下,溫度將被顯示.\n它不會以任何方式進行限制."
 
 msgid  "Continue?"
-msgstr "继续吗?"
+msgstr "繼續嗎?"
 
 #. added in 2015-08-07
 #. Theme tab
 msgid  "Capturing Screen"
-msgstr "屏幕捕获"
+msgstr "屏幕捕獲"
 
 #. added in 2015-08-07
 #. Atomizer Analyzer
 msgid  "Raw Ohms:"
-msgstr "初始电阻:"
+msgstr "初始電阻:"
 
 msgid  "Nominal Ohms:"
-msgstr "标称电阻:"
+msgstr "標稱電阻:"
 
 msgid  "Cold Ohms:"
-msgstr "常温电阻:"
+msgstr "常溫電阻:"
 
 msgid  "Room Temp:"
-msgstr "室内温度:"
+msgstr "室內溫度:"
 
 #. added in 2015-08-07
 #. Battery Analyzer
 msgid  "&Start"
-msgstr "开始"
+msgstr "開始"
 
 msgid  "&Stop"
 msgstr "停止"
@@ -1058,34 +1058,34 @@ msgstr "接受"
 #. added in 2015-08-07
 #. Watt-Hour Calculator
 msgid  "Battery Pack Voltage"
-msgstr "电池组电压"
+msgstr "電池組電壓"
 
 msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
-msgstr "知道您电池组的总电压吗?\n一般它会印在电池上."
+msgstr "知道您電池組的總電壓嗎?\n一般它會印在電池上."
 
 msgid  "Calculate Watt-Hours"
-msgstr "计算电能"
+msgstr "計算電能"
 
 msgid  "Battery Cell Capacity (mAh):"
-msgstr "电池单元容量(mAh):"
+msgstr "電池單元容量(mAh):"
 
 msgid  "Number of Battery Cells:"
-msgstr "电池单元数量:"
+msgstr "電池單元數量:"
 
 msgid  "Nominal Cell Voltage:"
-msgstr "电池单元额定电压:"
+msgstr "電池單元額定電壓:"
 
 msgid  "Nominal Pack Voltage:"
-msgstr "电池组额定电压:"
+msgstr "電池組額定電壓:"
 
 msgid  "Calculation Result"
-msgstr "计算结果"
+msgstr "計算結果"
 
 msgid  "Your battery has a capacity of {0} watt-hours."
-msgstr "您的电池容量为{0}瓦特时."
+msgstr "您的電池容量為{0}瓦特時."
 
 msgid  "Use this value?"
-msgstr "使用这个数值?"
+msgstr "使用這個數值?"
 
 #. added in 2015-08-07
 #. Research tab
@@ -1093,16 +1093,16 @@ msgid  "Return To Researcher:"
 msgstr "超限研究返回:"
 
 msgid  "Enter Research Seal"
-msgstr "输入防篡改密码"
+msgstr "輸入防篡改密碼"
 
 msgid  "Research seal is intact."
-msgstr "防篡改封条完好无损."
+msgstr "防篡改封條完好無損."
 
 msgid  "Research seal does not match."
-msgstr "防篡改密码不符."
+msgstr "防篡改密碼不符."
 
 msgid  "Reached the rate limit. Try again later."
-msgstr "达到速率限制.请稍后重试."
+msgstr "達到速率限制.請稍後重試."
 
 msgid  "Success"
 msgstr "成功"
@@ -1114,27 +1114,27 @@ msgid  "Research seal broken."
 msgstr "解除防篡改加密."
 
 msgid  "Statistics reset."
-msgstr "统计数据重置."
+msgstr "統計數據重置."
 
 msgid  "Error"
-msgstr "错误"
+msgstr "錯誤"
 
 msgid  "A researcher has already applied a seal to this device."
-msgstr "研究人员已经开启了此设备防篡改加密功能."
+msgstr "研究人員已經開啟了此設備防篡改加密功能."
 
 msgid  "This device has not been sealed for research."
-msgstr "此设备并没有被防篡改加密设置."
+msgstr "此設備並沒有被防篡改加密設置."
 
 #. added in 2015-08-07
 #. Tools->Show Serial Number
 msgid  "Serial Number"
-msgstr "序列号"
+msgstr "序列號"
 
 msgid  "Copy to Clipboard?"
-msgstr "复制到剪贴板?"
+msgstr "複製到剪貼板?"
 
 msgid  "Copied."
-msgstr "复制."
+msgstr "複製."
 
 #. added in 2015-08-07
 #. Tools->Update Firmware
@@ -1142,10 +1142,10 @@ msgid  "New firmware is available!"
 msgstr "有新的固件可用!"
 
 msgid  "Click here to update your device to {0}."
-msgstr "点击这里更新您的设备至{0}."
+msgstr "點擊這裡更新您的設備至{0}."
 
 msgid  "Please Wait"
-msgstr "请等待"
+msgstr "請等待"
 
 msgid  "Updating Core Firmware"
 msgstr "正在更新固件核心"
@@ -1157,10 +1157,10 @@ msgid  "New Firmware"
 msgstr "新的固件"
 
 msgid  "New firmware is going to be uploaded."
-msgstr "新固件将被上传."
+msgstr "新固件將被上傳."
 
 msgid  "Before clicking OK, please make sure that the device is idle."
-msgstr "单击确定之前,请确保设备处于空闲状态."
+msgstr "單擊確定之前,請確保設備處於空閑狀態."
 
 msgid  "Firmware update complete."
 msgstr "固件更新完成."
@@ -1168,305 +1168,305 @@ msgstr "固件更新完成."
 #. added in 2015-08-07
 #. Tools->Production Utility
 msgid  "Production Utility"
-msgstr "制作工具"
+msgstr "製作工具"
 
 msgid  "&Save..."
 msgstr "保存..."
 
 msgid  "Browse..."
-msgstr "浏览..."
+msgstr "瀏覽..."
 
 msgid  "Model Name:"
-msgstr "模型名称:"
+msgstr "模型名稱:"
 
 msgid  "Firmware File:"
 msgstr "固件文件:"
 
 msgid  "Settings File:"
-msgstr "设置文件:"
+msgstr "設置文件:"
 
 msgid  "&Program && Test"
-msgstr "编程&&测试"
+msgstr "編程&&測試"
 
 #. added in 2015-08-19
 #. messages
 msgid  "Invalid Value"
-msgstr "无效值"
+msgstr "無效值"
 
 msgid  "Value must be a number."
-msgstr "输入值必须为数字."
+msgstr "輸入值必須為數字."
 
 #. Connect
 msgid  "Unable to open a connection.\nAnother program may be using the device."
-msgstr "无法打开连接.\n可能有另一个程序正在使用该设备."
+msgstr "無法打開連接.\n可能有另一個程序正在使用該設備."
 
 #. Mod tab
 msgid  "Case Cooling Time Constant:"
-msgstr "冷却时间常数:"
+msgstr "冷卻時間常數:"
 
 msgid  "Case Heating Time Constant:"
-msgstr "加热时间常数:"
+msgstr "加熱時間常數:"
 
 msgid  "Case USB Charge ΔT:"
-msgstr "USB充电情况ΔT:"
+msgstr "USB充電情況ΔT:"
 
 msgid  "Minimum Ambient Temperature:"
-msgstr "最低环境温度:"
+msgstr "最低環境溫度:"
 
 msgid  "Maximum Ambient Temperature:"
-msgstr "最高环境温度:"
+msgstr "最高環境溫度:"
 
 #. Battery Analyzer
 msgid  "What power would you like to conduct the test at?"
-msgstr "你希望以什么功率来进行测试?"
+msgstr "你希望以什麼功率來進行測試?"
 
 #. Case Analyzer
 msgid  "What is the room temperature (°F)?"
-msgstr "室内常温是多少(°F)?"
+msgstr "室內常溫是多少(°F)?"
 
 #. Production Utility
 msgid  "Login Required"
-msgstr "需要登录"
+msgstr "需要登錄"
 
 msgid  "You must be logged in to use the production utility."
-msgstr "你必须先登录才能使用制作工具."
+msgstr "你必須先登錄才能使用製作工具."
 
 msgid  "Select the latest firmware to have it loaded onto the device."
-msgstr "选择最新的固件将它安装到设备."
+msgstr "選擇最新的固件將它安裝到設備."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "选择你的Mod默认设置文件.它可以通过点击恢复默认值来重置默认设置."
+msgstr "選擇你的Mod默認設置文件.它可以通過點擊恢復默認值來重置默認設置."
 
 msgid  "Functional Tests"
-msgstr "功能测试"
+msgstr "功能測試"
 
 msgid  "Fire Test"
-msgstr "点火测试"
+msgstr "點火測試"
 
 msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
-msgstr "检查此设备是否能点火和正常读取电阻欧姆值.安装的发热丝电阻有误或非温控发热丝"
+msgstr "檢查此設備是否能點火和正常讀取電阻歐姆值.安裝的發熱絲電阻有誤或非溫控發熱絲"
 
 msgid  "Fire Time:"
-msgstr "点火时间:"
+msgstr "點火時間:"
 
 msgid  "Fire Power:"
-msgstr "点火功率:"
+msgstr "點火功率:"
 
 msgid  "Expected Cold Resistance:"
-msgstr "耐冷性预设:"
+msgstr "耐冷性預設:"
 
 msgid  "Battery Test"
-msgstr "电池测试"
+msgstr "電池測試"
 
 msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
-msgstr "请确保电池组电压值正确,并且可以正常充电."
+msgstr "請確保電池組電壓值正確,並且可以正常充電."
 
 msgid  "Minimum Cell Voltage:"
-msgstr "电池组最小电压:"
+msgstr "電池組最小電壓:"
 
 msgid  "Maximum Cell Imbalance:"
-msgstr "电池组最大电压:"
+msgstr "電池組最大電壓:"
 
 msgid  "Wait for USB Current to Rise Above:"
-msgstr "等待usb电流上升超过:"
+msgstr "等待usb電流上升超過:"
 
 msgid  "Production"
-msgstr "制作"
+msgstr "製作"
 
 msgid  "No actions."
-msgstr "没有动作."
+msgstr "沒有動作."
 
 msgid  "Fire test failed."
-msgstr "点火测试失败."
+msgstr "點火測試失敗."
 
 msgid  "Battery test failed."
-msgstr "电池测试失败."
+msgstr "電池測試失敗."
 
 msgid  "Production actions succeeded."
-msgstr "制作操作成功."
+msgstr "製作操作成功."
 
 #. added in 2015-08-21
 #. Theme tab
 msgid  "Hide Ohms on Custom"
-msgstr "隐藏电阻自定义"
+msgstr "隱藏電阻自定義"
 
 msgid  "Show Ohms on Custom"
-msgstr "显示电阻自定义"
+msgstr "顯示電阻自定義"
 
 msgid  "New Coil"
-msgstr "新发热丝"
+msgstr "新發熱絲"
 
 msgid  "Old Coil"
-msgstr "旧发热丝"
+msgstr "舊發熱絲"
 #. added in 2015-08-26 By SamMao
 #. Theme tab
 msgid  "All default screens Copyright 2015 Evolv Inc. For use only in Evolv electronics."
-msgstr "所有默认屏显Evolv公司2015版权所有.仅使用于Evolv公司电子烟."
+msgstr "所有默認屏顯Evolv公司2015版權所有.僅使用於Evolv公司電子煙."
 
 msgid  "Customized screens are copyrighted by their respective creators."
-msgstr "自定义屏显版权归各自的创作者所有.软件中文版本补丁由铜豆提供."
+msgstr "自定義屏顯版權歸各自的創作者所有.軟體中文版本補丁由銅豆提供."
 
 #. added in 2015-08-26 By SamMao
 #. Mod tab
 msgid  "Case USB Charge Temperature Rise:"
-msgstr "USB充电时温度上升:"
+msgstr "USB充電時溫度上升:"
 
 #. added in 2015-08-26 By SamMao
 #. General->Coil Material->Custom->Material Profile->Special->Reduce Number of Points
 msgid  "Absolute Error"
-msgstr "绝对误差"
+msgstr "絕對誤差"
 
 msgid  "Area of Error"
-msgstr "区域误差"
+msgstr "區域誤差"
 
 #. added in 2015-08-26 By SamMao
 #. General tab
 msgid  "What to call this preset."
-msgstr "给此预设起名."
+msgstr "給此預設起名."
 
 msgid  "The power for this preset."
-msgstr "预设功率设置."
+msgstr "預設功率設置."
 
 msgid  "The temperature limit for this preset."
-msgstr "此预设的温度限制设置."
+msgstr "此預設的溫度限制設置."
 
 msgid  "The material the coil is made of. Typically this is Nickel 200, but it is possible to construct temperature-sensing coils out of other materials."
-msgstr "发热丝制作材料.通常情况下是镍200,但也可以由其他支持温控的材料制作而成."
+msgstr "發熱絲製作材料.通常情況下是鎳200,但也可以由其他支持溫控的材料製作而成."
 
 msgid  "For temperature-sensing coils, the power level to apply during preheat to get up to temperature."
-msgstr "适用于温控发热丝,功率水平设置影响预热阶段的升温情况."
+msgstr "適用於溫控發熱絲,功率水平設置影響預熱階段的升溫情況."
 
 msgid  "How close to the temperature limit to preheat."
-msgstr "以哪种方式进行温控的预热."
+msgstr "以哪種方式進行溫控的預熱."
 
 msgid  "The maximum amount of time to preheat the coil."
-msgstr "发热丝预热的最长时间设定."
+msgstr "發熱絲預熱的最長時間設定."
 
 #. added in 2015-08-26 By SamMao
 #. Screen tab
 msgid  "Whether or not the screen is flipped."
-msgstr "是否将屏幕翻转."
+msgstr "是否將屏幕翻轉."
 
 msgid  "The screens on which to show the battery meter."
-msgstr "在哪个屏幕上显示电量标志."
+msgstr "在哪個屏幕上顯示電量標誌."
 
 msgid  "The number of times to flash control errors such as Weak Battery, and the proportion of time they should be displayed on-screen."
-msgstr "设定屏幕闪烁的次数以控制如电池弱点的报错,以及各种报错信息显示内容的比重情况."
+msgstr "設定屏幕閃爍的次數以控制如電池弱點的報錯,以及各種報錯信息顯示內容的比重情況."
 
 msgid  "What is shown on the upper-left of the screen."
-msgstr "什么显示在屏幕左上角."
+msgstr "什麼顯示在屏幕左上角."
 
 msgid  "What is shown on the upper-left of the screen when charging."
-msgstr "充电时什么显示在屏幕左上角."
+msgstr "充電時什麼顯示在屏幕左上角."
 
 msgid  "What is shown on the middle-left of the screen."
-msgstr "什么显示在屏幕中间偏左."
+msgstr "什麼顯示在屏幕中間偏左."
 
 msgid  "What is shown on the middle-left of the screen when charging."
-msgstr "充电时什么显示在屏幕中间偏左."
+msgstr "充電時什麼顯示在屏幕中間偏左."
 
 msgid  "What is shown on the bottom-left of the screen."
-msgstr "什么显示在屏幕左下角."
+msgstr "什麼顯示在屏幕左下角."
 
 msgid  "What is shown on the bottom-left of the screen when charging."
-msgstr "充电时什么显示在屏幕左下角."
+msgstr "充電時什麼顯示在屏幕左下角."
 
 msgid  "The brightness when the DNA is being fired."
-msgstr "点火时屏幕显示的亮度."
+msgstr "點火時屏幕顯示的亮度."
 
 msgid  "The brightness when the DNA has been recently fired or adjusted."
-msgstr "最近已经点火或调节时的亮度."
+msgstr "最近已經點火或調節時的亮度."
 
 msgid  "The brightness when the DNA has not been fired in a while."
-msgstr "一定时间内未点火时的亮度."
+msgstr "一定時間內未點火時的亮度."
 
 msgid  "The brightness when the DNA is charging and not in use."
-msgstr "正在充电且不使用时的亮度."
+msgstr "正在充電且不使用時的亮度."
 
 msgid  "The amount of time since firing before fading to idle brightness."
-msgstr "从点火衰弱至空闲之前的亮度"
+msgstr "從點火衰弱至空閑之前的亮度"
 
 msgid  "The amount of time since firing before fading out."
-msgstr "从点火到屏幕关闭的时间."
+msgstr "從點火到屏幕關閉的時間."
 
 msgid  "The time to go from 0% to 100% brightness."
-msgstr "从0%到100%亮度所需的时间."
+msgstr "從0%到100%亮度所需的時間."
 
 msgid  "The time to go from 100% to 0% brightness"
-msgstr "从100%到0%亮度所需的时间."
+msgstr "從100%到0%亮度所需的時間."
 
 #. added in 2015-08-26 By SamMao
 #. Mod tab
 msgid  "The battery chemistry being used."
-msgstr "正在使用的电池化学物构成类型."
+msgstr "正在使用的電池化學物構成類型."
 
 msgid  "The battery capacity, in watt-hours, is typically printed on the battery pack."
-msgstr "电池容量,瓦特-时,它通常印在电池组表皮上."
+msgstr "電池容量,瓦特-時,它通常印在電池組表皮上."
 
 msgid  "When the battery gets low, the DNA will attempt control the power level to prevent any cell voltages from dropping below this level."
-msgstr "当电池电量所剩不多时,DNA将尝试控制功率水平以防止电池电压低于这个水平."
+msgstr "當電池電量所剩不多時,DNA將嘗試控制功率水平以防止電池電壓低於這個水平."
 
 msgid  "The battery can be charged to a high level to maximize the number of puffs, or to a lower level to improve its longevity."
-msgstr "电池可以被充电到一个很高阶段以最大化喷烟口数,或充到一个较低的水平以提高其寿命."
+msgstr "電池可以被充電到一個很高階段以最大化噴煙口數,或充到一個較低的水平以提高其壽命."
 
 msgid  "The unloaded voltage level of the battery at various states of charge."
-msgstr "在不同充电状态的电池空载电压水平."
+msgstr "在不同充電狀態的電池空載電壓水平."
 
 msgid  "The maximum power level for coils that are not temperature-sensing."
-msgstr "非温控发热丝时的最大功率."
+msgstr "非溫控發熱絲時的最大功率."
 
 msgid  "The resistance of the mod."
-msgstr "这个MOD的电阻值."
+msgstr "這個MOD的電阻值."
 
 msgid  "When the DNA is Ohm Locked, the maximum percentage difference in resistance that will still be assumed to be the same coil. We don't recommend increasing this."
-msgstr "当电阻值锁定时,电阻在最大百分比差异范围内仍然被假定为相同的发热丝.建议你不要提高这个设定."
+msgstr "當電阻值鎖定時,電阻在最大百分比差異範圍內仍然被假定為相同的發熱絲.建議你不要提高這個設定."
 
 msgid  "How the DNA onboard buttons are labeled on the mod."
-msgstr "设置+/-按钮功能."
+msgstr "設置+/-按鈕功能."
 
 msgid  "The time for the case to cool 63.2% of the way to a steady temperature."
-msgstr "以0.63倍方式冷却至稳定温度所需时间.涉及"时间常数"概念,非专业人士不建议修改."
+msgstr "以0.63倍方式冷卻至穩定溫度所需時間.涉及"時間常數"概念,非專業人士不建議修改."
 
 msgid  "The time for the case to heat up 63.2% of the way to a steady temperature."
-msgstr "以0.63倍方式加热至至稳定温度所需时间.涉及"时间常数"概念,非专业人士不建议修改."
+msgstr "以0.63倍方式加熱至至穩定溫度所需時間.涉及"時間常數"概念,非專業人士不建議修改."
 
 msgid  "The amount of temperature rise caused by USB battery charging."
-msgstr "电池USB充电引起的升温量."
+msgstr "電池USB充電引起的升溫量."
 
 msgid  "The minimum ambient temperature this device will ever be used in. Typically this will not need adjustment."
-msgstr "此设备允许使用的最低环境温度.通常不需要调整."
+msgstr "此設備允許使用的最低環境溫度.通常不需要調整."
 
 msgid  "The maximum ambient temperature this device will ever be used in. Typically this will not need adjustment."
-msgstr "此设备允许使用的最高环境温度.通常不需要调整."
+msgstr "此設備允許使用的最高環境溫度.通常不需要調整."
 
 msgid  "On its USB serial port, the DNA can either respond to Plain Text Serial commands or output a CSV-formatted log you can open in Excel."
-msgstr "在USB串口,DNA可以响应输出纯文本串行命令或CSV格式日志,你可以通过Excel打开CSV文件."
+msgstr "在USB串口,DNA可以響應輸出純文本串列命令或CSV格式日誌,你可以通過Excel打開CSV文件."
 
 msgid  "In research situations where the atomizer has a known resistance, this can be specified for more accurate temperature measurement."
-msgstr "在实验研究情况下,设定已知的当前雾化器电阻值,这样可以指定更精确的测量温度."
+msgstr "在實驗研究情況下,設定已知的當前霧化器電阻值,這樣可以指定更精確的測量溫度."
 
 msgid  "The power can be locked for research purposes."
-msgstr "为了实验研究可以进行功率锁定."
+msgstr "為了實驗研究可以進行功率鎖定."
 
 msgid  "The temperature limit can be locked for research purposes."
-msgstr "为了实验研究可以进行温度限制锁定."
+msgstr "為了實驗研究可以進行溫度限制鎖定."
 
 msgid  "After a designated number of puffs, the DNA can display the Return To Researcher message."
-msgstr "喷烟指定次数后,DNA会显示"超限研究返回"的消息."
+msgstr "噴煙指定次數後,DNA會顯示"超限研究返回"的消息."
 
 msgid  "After a designated amount of energy, the DNA can display the Return To Researcher message."
-msgstr "电量指定量使用后,DNA会显示"超限研究返回"的消息."
+msgstr "電量指定量使用後,DNA會顯示"超限研究返回"的消息."
 
 msgid  "After reaching a designated amount of puff time, the DNA can display the Return To Researcher message."
-msgstr "达到喷烟指定时间后,DNA会显示"超限研究返回"的消息."
+msgstr "達到噴煙指定時間後,DNA會顯示"超限研究返回"的消息."
 
 #. added in 2015-09-10 By SamMao
 #. General tab->Atomizer Analyzer
 msgid  "&Lock Ohms"
-msgstr "锁定电阻"
+msgstr "鎖定電阻"
 
 msgid  "&Unlock Ohms"
-msgstr "解锁电阻"
+msgstr "解鎖電阻"
 
 msgid  "&Override Ohms"
-msgstr "改写电阻"
+msgstr "改寫電阻"

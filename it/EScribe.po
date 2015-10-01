@@ -1,4 +1,5 @@
-#. Translate by Maranto (RallyRace)
+msgid  "X-language translation by Y."
+msgstr "Italian translation by Maranto (RallyRace)."
 
 #. standard
 msgid  "OK"

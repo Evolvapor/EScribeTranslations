@@ -845,8 +845,8 @@ msgstr "Puf&f..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} SECONDO"
-msgstr[1]    "{0} SECONDI"
+msgstr[0]    "{0} secondo"
+msgstr[1]    "{0} secondi"
 
 msgid  "&Custom..."
 msgstr "Personali&zzato..."

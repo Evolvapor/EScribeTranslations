@@ -1,0 +1,1329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Example Language File.po conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Sep 27 2015 22:23:37 GMT+0300 (RTZ 2 (зима))\n"
+"PO-Revision-Date: 2015-10-11 21:07+0300\n"
+"Last-Translator: Nikita Nazarov <doojkee@gmail.com>\n"
+"Language-Team: jQuery ecigtalk.ru <doojkee@gmail.com>\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: zz_ZZ\n"
+"X-Generator: Poedit 1.8.5\n"
+
+#. Copy this over (with your changes) to EScribe.po and restart EScribe for the changes to take effect.
+#. Make sure you keep your original, as new versions of EScribe overwrite en\EScribe.po.
+#. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, or zh-CN\EScribe.po.
+#. At this point this is only a partial list of translatable text.
+#. The default example just changes everything to lowercase.
+#. standard
+msgid  "X-language translation by Y."
+msgstr "Russian translation by jQuery http://www.ecigtalk.ru/members/u57140.html."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+#. menus
+msgid "&File"
+msgstr "&Файл"
+
+msgid "&New (Reset to {0} Standard)"
+msgstr "&Новый (Сброс в стандарт {0})"
+
+msgid "&Open..."
+msgstr "&Открыть..."
+
+msgid "&Save"
+msgstr "&Сохранить"
+
+msgid "Save &As..."
+msgstr "Сохранить &как..."
+
+msgid "E&xit"
+msgstr "В&ыход"
+
+msgid "&Edit"
+msgstr "&Редактирование"
+
+msgid "&Undo"
+msgstr "&Отменить"
+
+msgid "&Redo"
+msgstr "&Вернуть"
+
+msgid "&Internet"
+msgstr "&Аккаунт"
+
+msgid "&Log in..."
+msgstr "&Войти в аккаунт..."
+
+msgid "E-mail:"
+msgstr "e-mail:"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Log &out"
+msgstr "Выход"
+
+msgid "&Options"
+msgstr "&Опции"
+
+msgid "Automatically Check for &Updates"
+msgstr "Автоматическая проверка &обновлений"
+
+msgid "Clear Recent Files List"
+msgstr "Очистить список последних файлов"
+
+msgid "&Connect..."
+msgstr "&Соединиться..."
+
+msgid "Dis&connect"
+msgstr "От&соедениться"
+
+msgid "&Tools"
+msgstr "&Инструменты"
+
+msgid "&Calculator"
+msgstr "&Калькулятор"
+
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgid "Results"
+msgstr "Результат"
+
+msgid "Equation"
+msgstr "Выражение"
+
+msgid "Calculate"
+msgstr "Расчитать"
+
+msgid "&Production Utility"
+msgstr "&Тесты"
+
+msgid "Serial &Terminal"
+msgstr "COM &порт"
+
+msgid "Serial Terminal"
+msgstr "COM-порт"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid "System &Information"
+msgstr "Системная &информация"
+
+msgid "&Reboot Device"
+msgstr "&Перезагрузить мод"
+
+msgid "&Soft Reboot..."
+msgstr "&Перезагрузка части системы..."
+
+msgid "&Hard Reboot..."
+msgstr "&Полная перезагрузка..."
+
+msgid "Show Serial &Number..."
+msgstr "Показать серийный &номер..."
+
+msgid "Update &Firmware..."
+msgstr "Обновить &прошивку..."
+
+msgid "&Help"
+msgstr "&Помощь"
+
+msgid "&Website"
+msgstr "&Официальный сайт"
+
+msgid "&Help Desk"
+msgstr "&Служба поддержки"
+
+msgid "Report a &Bug"
+msgstr "Отчет об &ошибке"
+
+msgid "Bug Report"
+msgstr "Отчет об ошибке"
+
+msgid "E-mail Address (optional):"
+msgstr "E-mail (необязательно):"
+
+msgid "&Send"
+msgstr "&Отправить"
+
+msgid "Send &Feedback"
+msgstr "Отправить &отзыв"
+
+msgid "Feedback Form"
+msgstr "Форма для обратной связи"
+
+msgid "U.S. &Patents"
+msgstr "Патент &США"
+
+msgid "&About {0}"
+msgstr "&Об {0}"
+
+msgid "About {0}"
+msgstr "Об {0}"
+
+#. Connect dialog
+msgid "Connect"
+msgstr "Соедениться"
+
+msgid "Device:"
+msgstr "Устройство:"
+
+msgid "Rename..."
+msgstr "Переименовать..."
+
+#. Connect dialog Rename Device
+msgid "Rename Device"
+msgstr "Переименовать устройство"
+
+msgid "New Name:"
+msgstr "Новое название:"
+
+#. toolbar
+msgid "Connect and &Download Settings"
+msgstr "Соединиться и &скачать настройки"
+
+msgid "&Upload Settings to Device"
+msgstr "&Загрузить настройки в мод"
+
+msgid "Device &Monitor"
+msgstr "Мониторинг &мода"
+
+msgid "{0} connected on USB."
+msgstr "{0} соединен по USB."
+
+msgid "Downloading Settings"
+msgstr "Скачивание настроек"
+
+msgid "Uploading Settings"
+msgstr "Загрузка настроек"
+
+msgid "Verifying Settings"
+msgstr "Проверка настроек"
+
+#. General tab
+msgid "General"
+msgstr "Общее"
+
+msgid "My DNA"
+msgstr "Мой DNA-мод"
+
+msgid "Manufacturer:"
+msgstr "Производитель:"
+
+msgid "Model:"
+msgstr "Модель:"
+
+msgid "History:"
+msgstr "История:"
+
+msgid "Get Information"
+msgstr "Получить информацию"
+
+msgid "{0} can get information online about your mod."
+msgstr "{0} может получить информацию в интернете о вашем моде."
+
+msgid "Restore Defaults"
+msgstr "Восстановить стандартные настройки"
+
+msgid "Profile {0}"
+msgstr "Профиль {0}"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Custom Screen:"
+msgstr "Пользовательский экран:"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Power:"
+msgstr "Мощность:"
+
+msgid "Temperature:"
+msgstr "Температура:"
+
+msgid "Off"
+msgstr "Выключить"
+
+msgid "Ohms Locked"
+msgstr "Заблокировать сопротивление"
+
+msgid "If you connect a temperature-sensing coil..."
+msgstr "Настройки термоконтроля"
+
+msgid "Coil Material:"
+msgstr "Материал намотки:"
+
+msgid "Nickel 200"
+msgstr "Никель 200"
+
+msgid "Custom"
+msgstr "Пользовательский"
+
+msgid "Material Profile:"
+msgstr "Материал профиля:"
+
+msgid "Move/Resize"
+msgstr "Размер"
+
+msgid "Split"
+msgstr "Разделить"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Set X"
+msgstr "Установить Х"
+
+msgid "X value:"
+msgstr "Значение Х:"
+
+msgid "Set Y"
+msgstr "Установить Y"
+
+msgid "Y value:"
+msgstr "Значение Y:"
+
+msgid "Custom Materials"
+msgstr "Пользовательские материалы"
+
+msgid "Load CSV..."
+msgstr "Загрузить CSV..."
+
+msgid "Save CSV..."
+msgstr "Сохранить CSV..."
+
+msgid "Label..."
+msgstr "Маркер..."
+
+msgid "Special"
+msgstr "Особый"
+
+msgid "Reduce Number of Points..."
+msgstr "Уменьшить количество точек..."
+
+msgid "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "Температурный коэффициент сопротивления (приближенно)..."
+
+msgid "Preheat Power:"
+msgstr "Мощность предварительного разогрева:"
+
+msgid "Preheat Punch:"
+msgstr "Степень разогрева:"
+
+msgid "Soft"
+msgstr "Min"
+
+msgid "Hard"
+msgstr "Max"
+
+msgid "Preheat Time Limit:"
+msgstr "Ограничение разогрева по времени:"
+
+msgid "Atomizer Analyzer"
+msgstr "Анализатор атомайзера"
+
+msgid "{0} can be used to analyze your atomizer's resistance stability."
+msgstr ""
+"{0} может быть использован для анализа стабильности сопротивления вашего атомайзера."
+
+#. Theme tab
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Load Theme..."
+msgstr "Загрузить тему..."
+
+msgid "Save Theme..."
+msgstr "Сохранить тему..."
+
+msgid "Default Theme"
+msgstr "Стандартная тема"
+
+msgid "Custom Screens"
+msgstr "Пользовательские экраны"
+
+msgid "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "Экраны {0} пикселей в ширину и {1} пикселей в высоту."
+
+msgid "Capture..."
+msgstr "Захват..."
+
+msgid "Load..."
+msgstr "Загрузить..."
+
+msgid "Save..."
+msgstr "Сохранить..."
+
+msgid "Default"
+msgstr "Стандартный"
+
+msgid "Welcome (Primary):"
+msgstr "Приветствие (основное):"
+
+msgid "Welcome (Secondary):"
+msgstr "Приветствие (вторичное):"
+
+msgid "Normal Mode:"
+msgstr "Нормальный режим:"
+
+msgid "Stealth Mode:"
+msgstr "Стелс режим:"
+
+msgid "New Coil Yes/No:"
+msgstr "Новый койл да/нет:"
+
+msgid "Hold To Lock Ohms:"
+msgstr "Удерживайте, чтобы заблокировать Ом:"
+
+msgid "Hold To Unlock Ohms:"
+msgstr "Удерживайте, чтобы разблокировать Ом"
+
+msgid "Power Locked Hold Up Down:"
+msgstr "Заблокировать мощность вверх + вниз:"
+
+msgid "Locked Click 5X:"
+msgstr "Чтобы заблокировать нажмите fire 5 раз:"
+
+msgid "Hold To Change Temp:"
+msgstr "Удерживайте, чтобы изменить температуру:"
+
+msgid "Kanthal Max Power:"
+msgstr "Максимальная мощность на кантале:"
+
+msgid "Show Message"
+msgstr "Показать сообщение"
+
+msgid "Don't Show"
+msgstr "Не показывать"
+
+msgid "Temperature Protected:"
+msgstr "Температурная защита:"
+
+msgid "Show Temperature"
+msgstr "Показать температуру"
+
+msgid "Too Hot:"
+msgstr "Слишком горячо:"
+
+msgid "Shorted:"
+msgstr "Короткое замыкание:"
+
+msgid "Check Atomizer:"
+msgstr "Проверьте атомайзера:"
+
+msgid "Ohms Too Low:"
+msgstr "Слишком низкое сопротивление:"
+
+msgid "Ohms Too High:"
+msgstr "Слишком высокое сопротивление:"
+
+msgid "Check Battery:"
+msgstr "Проверьте батарею:"
+
+msgid "Weak Battery:"
+msgstr "Разряженная батарея:"
+
+msgid "Imbalanced Battery:"
+msgstr "Несбалансированная батарея:"
+
+#. Screen tab
+msgid "Screen"
+msgstr "Экран"
+
+msgid "Display"
+msgstr "Дисплей"
+
+msgid "Orientation:"
+msgstr "Ориентация:"
+
+msgid "Left"
+msgstr "Левая"
+
+msgid "Right"
+msgstr "Правая"
+
+msgid "Battery Meter:"
+msgstr "Индикатор батареи:"
+
+msgid "On Default Screens"
+msgstr "На экранах по умолчанию"
+
+msgid "On Main Screen Only"
+msgstr "Только на главном экране "
+
+msgid "On All Screens"
+msgstr "На всех экранах"
+
+msgid "Error Flashes:"
+msgstr "Мерцание ошибок:"
+
+msgid "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0}сек ошибка, {1:0.0}сек статус"
+
+msgid "Show error only."
+msgstr "Показывать только ошибки."
+
+msgid "Fields"
+msgstr "Поля"
+
+msgid "Default Field {0}:"
+msgstr "Поля по умолчанию {0}:"
+
+msgid "Ohms"
+msgstr "Ом"
+
+msgid "Ohms (Standard)"
+msgstr "Ом (стандарт)"
+
+msgid "Voltage"
+msgstr "Напряжение"
+
+msgid "Voltage (Standard)"
+msgstr "Напряжение (стандартное)"
+
+msgid "Temperature"
+msgstr "Температура"
+
+msgid "Temperature (Standard)"
+msgstr "Температура (стандартная)"
+
+msgid "Battery Charge %"
+msgstr "Заряд батареи %"
+
+msgid "Battery Charge Wh"
+msgstr "Заряд батареи Вт-ч"
+
+msgid "USB Power"
+msgstr "Мощность USB"
+
+msgid "USB Current"
+msgstr "Ток USB"
+
+msgid "USB Current (Standard)"
+msgstr "Ток USB (стандартный)"
+
+msgid "USB Voltage"
+msgstr "Напряжение USB"
+
+msgid "Battery Pack"
+msgstr "Аккумуляторная батарея"
+
+msgid "Battery Cell {0}"
+msgstr "Элемент батареи {0}"
+
+msgid "Current"
+msgstr "Ток"
+
+msgid "Board Temperature"
+msgstr "Температура платы"
+
+msgid "Room Temperature"
+msgstr "Комнатная температура"
+
+msgid "Puff Count"
+msgstr "Количество затяжек"
+
+msgid "Last Energy"
+msgstr "Последняя энергия"
+
+msgid "Last Power"
+msgstr "Последняя мощность"
+
+msgid "Last Temperature"
+msgstr "Последняя температура"
+
+msgid "Last Time"
+msgstr "Последнее время"
+
+msgid "Charging Field {0}:"
+msgstr "Поле зарядки {0}:"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Firing Brightness:"
+msgstr "Яркость при затяжке:"
+
+msgid "Fade to..."
+msgstr "Выключить..."
+
+msgid "Set to..."
+msgstr "Установить на..."
+
+msgid "Temporarily set to..."
+msgstr "Временно установить на..."
+
+msgid "Do not change."
+msgstr "Не менять."
+
+msgid "Screen active after puff."
+msgstr "Включение экрана после затяжки."
+
+msgid "Screen off after puff."
+msgstr "Выключение экрана после затяжки."
+
+msgid "No effect on idle state."
+msgstr "Без эффекта в состоянии ожидания"
+
+msgid "Active Brightness:"
+msgstr "Активная яркость:"
+
+msgid "Active Time:"
+msgstr "Активное время:"
+
+msgid "Idle Brightness:"
+msgstr "Яркость в режиме ожидания:"
+
+msgid "Idle Time:"
+msgstr "Время ожидания:"
+
+msgid "Charging Brightness:"
+msgstr "Яркость во время зарядки:"
+
+msgid "Fade-in Time:"
+msgstr "Время затухания:"
+
+msgid "Fade-out Time:"
+msgstr "Время появления:"
+
+#. Mod tab
+msgid "Mod"
+msgstr "Бокс-мод"
+
+msgid "Battery"
+msgstr "Аккумулятор"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Lithium Polymer"
+msgstr "Литий-полимерный"
+
+msgid "LiFePO4"
+msgstr "Литий-железо-фосфатный"
+
+msgid "Power Supply"
+msgstr "Источник питания"
+
+msgid "Capacity:"
+msgstr "Емкость:"
+
+msgid "{0}-cell"
+msgstr "{0} -ячейки"
+
+msgid "Watt-Hour Calculator"
+msgstr "Вт-ч калькулятор"
+
+msgid "Cell Soft Cutoff:"
+msgstr "Напряжение выключения мода:"
+
+msgid "Charging Mode:"
+msgstr "Режим зарядки:"
+
+msgid "Maximize Puffs"
+msgstr "Увеличить кол-во затяжек"
+
+msgid "Maximize Recharges"
+msgstr "Увеличить кол-во зарядок"
+
+msgid "Discharge Profile:"
+msgstr "Режим разрядки:"
+
+msgid "Battery Analyzer"
+msgstr "Анализатор батареи"
+
+msgid "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr ""
+"{0} может быть использован для анализа емкости вашего аккумулятора и режима "
+"разрядки."
+
+msgid "Electrical"
+msgstr "Электрические хар-ки:"
+
+msgid "Kanthal Power Limit:"
+msgstr "Ограничение мощности при использовании Кантала:"
+
+msgid "Mod Resistance:"
+msgstr "Сопротивление мода:"
+
+msgid "Ohm Lock Range: ±"
+msgstr "Диапазон заблокированного сопротивления: ±"
+
+msgid "Mechanical"
+msgstr "Механические хар-ки:"
+
+msgid "Up/Down Buttons:"
+msgstr "Кнопки вверх/вниз:"
+
+msgid "Normal"
+msgstr "Нормальные"
+
+msgid "Swapped"
+msgstr "Поменялть местами"
+
+msgid "Thermal"
+msgstr "Тепловые хар-ки:"
+
+msgid "Case Analyzer"
+msgstr "Анализатор корпуса"
+
+msgid "{0} can be used to analyze your case's thermal properties."
+msgstr "{0} может быть использован для анализа тепловых свойств вашего корпуса."
+
+#. Research tab
+msgid "Research"
+msgstr "Диагностика"
+
+msgid "Data Acquisition"
+msgstr "Получение данных"
+
+msgid "Serial Output Format:"
+msgstr "Выходной формат:"
+
+msgid "Plain Text Serial"
+msgstr "Обычный текст"
+
+msgid "CSV (Excel)"
+msgstr "CSV (Excel)"
+
+msgid "Experimental Setup"
+msgstr "Экспериментальные установки"
+
+msgid "Coil Resistance:"
+msgstr "Сопротивление обмотки:"
+
+msgid "Automatic"
+msgstr "Автоматически"
+
+msgid "Locked"
+msgstr "Заблокировано"
+
+msgid "Temperature Limit:"
+msgstr "Температурный контроль:"
+
+msgid "Configurable"
+msgstr "Настраиваемый(ая)"
+
+msgid "Puff Limit:"
+msgstr "Ограничение затяжек:"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Energy Limit:"
+msgstr "Предел энергии:"
+
+msgid "Time Limit:"
+msgstr "Временное ограничение:"
+
+msgid "Apply Research Seal"
+msgstr "Пременить результаты исследования"
+
+msgid "Break Research Seal"
+msgstr "Уничтожить результаты исследования"
+
+msgid "Check Research Seal"
+msgstr "Проверить результаты исследования"
+
+msgid "Reset Statistics"
+msgstr "Сбросить статистику"
+
+#. Device Monitor
+msgid "Device Monitor"
+msgstr "Мониторинг мода"
+
+msgid "Live View"
+msgstr "Текущее состояние"
+
+msgid "USB Power:"
+msgstr "Мощность USB:"
+
+msgid "USB Current:"
+msgstr "Ток USB:"
+
+msgid "USB Voltage:"
+msgstr "Напряжение USB:"
+
+msgid "Charge:"
+msgstr "Заряд:"
+
+msgid "Pack:"
+msgstr "Батарея:"
+
+msgid "Cell {0}:"
+msgstr "Ячейка {0}:"
+
+msgid "Current Puff"
+msgstr "Ток затяжки"
+
+msgid "Power Set:"
+msgstr "Мощность:"
+
+msgid "Temperature Set:"
+msgstr "Температура:"
+
+msgid "Current:"
+msgstr "Ток:"
+
+msgid "Voltage:"
+msgstr "Напряжение:"
+
+msgid "Cold Ohms:"
+msgstr "Холодное сопротивление:"
+
+msgid "Live Ohms:"
+msgstr "Текущее сопротивление:"
+
+msgid "Room Temp:"
+msgstr "Комнатная температура:"
+
+msgid "Board Temp:"
+msgstr "Температура платы:"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Since Reset"
+msgstr "После сброса"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Last Puff"
+msgstr "Последняя затяжка"
+
+msgid "Mean"
+msgstr "Среднее значение"
+
+msgid "Std. Dev."
+msgstr "std. dev."
+
+msgid "Puffs:"
+msgstr "Затяжки:"
+
+msgid "Temp-Protected:"
+msgstr "Температурный контроль:"
+
+msgid "Energy:"
+msgstr "Энергия:"
+
+msgid "Time:"
+msgstr "Время:"
+
+msgid "&Record..."
+msgstr "&Запись..."
+
+msgid "Graph &Options"
+msgstr "Опции &графика"
+
+msgid "&Clear Graph"
+msgstr "&Очистить график"
+
+msgid "&Save Graph..."
+msgstr "&Сохранить график..."
+
+msgid "Set &Time Scale..."
+msgstr "Установить &временной маштаб..."
+
+msgid "Puf&f..."
+msgstr "Затяжк&и..."
+
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} секунда"
+msgstr[1] "{0} секунды"
+msgstr[2] "{0} секунд"
+
+msgid "&Custom..."
+msgstr "&Пользовательский..."
+
+msgid "Puff"
+msgstr "Затяжка"
+
+msgid "Duration (seconds):"
+msgstr "Продолжительность (в секундах):"
+
+msgid "Set &Power..."
+msgstr "Установленная &мощность..."
+
+msgid "Set Power"
+msgstr "Установленная мощность"
+
+msgid "Power (W):"
+msgstr "Мощность (Вт):"
+
+msgid "Set &Temperature..."
+msgstr "Установленная &температура..."
+
+msgid "Set Temperature"
+msgstr "Установленная температура"
+
+msgid "Units:"
+msgstr "Единицы:"
+
+msgid "&Disable Temperature Protection"
+msgstr "&Отключить температурный контроль"
+
+msgid "&Research"
+msgstr "&Исследование"
+
+msgid "Enter Temperature &Monitoring Mode..."
+msgstr "Режим мониторинга &температуры ..."
+
+msgid "&Diagnostics"
+msgstr "&Диагностика"
+
+msgid "Set &Profile..."
+msgstr "Установить &профиль..."
+
+msgid "Set Profile"
+msgstr "Установить профиль"
+
+msgid "Set &Charge Estimate..."
+msgstr "Установить &оценку заряда..."
+
+msgid "&Set USB Current Limit..."
+msgstr "&Установить ограничение тока USB..."
+
+msgid "&Reset USB Current Limit"
+msgstr "&Сбросить ограничение тока USB..."
+
+msgid "&Advanced"
+msgstr "&Другие"
+
+msgid "Perform USB &Recovery Charging..."
+msgstr "Выполнить восстановление заряда через USB..."
+
+msgid "Reset &Statistics"
+msgstr "Сбросить &статистику"
+
+msgid "Resets: {0}"
+msgstr "Сбросы: {0}"
+
+msgid "Version: {0}"
+msgstr "Версия: {0}"
+
+#. added in 2015-07-29
+#. Device Monitor
+msgid "Mode: {0}"
+msgstr "Мод: {0}"
+
+msgid "Stealth"
+msgstr "Стелс-режим"
+
+msgid "Power Locked"
+msgstr "Мощность заблокирована"
+
+msgid "Buttons: {0}"
+msgstr "Кнопки: {0}"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Fire"
+msgstr "Fire"
+
+msgid "Profile: {0}"
+msgstr "Профиль: {0}"
+
+#. added in 2015-08-07
+msgid "Fahrenheit"
+msgstr "Фаренгейты"
+
+msgid "Celsius"
+msgstr "Цельсии"
+
+#. added in 2015-08-07
+#. Get Information
+msgid "Board programmed"
+msgstr "Плата запрограммирована"
+
+msgid "Mod configured"
+msgstr "Мод настроен"
+
+#. added in 2015-08-07
+#. curve editing
+msgid "Label Curve"
+msgstr "Кривая отметок"
+
+msgid "New Label:"
+msgstr "Новая метка:"
+
+msgid "Reduce Number of Points"
+msgstr "Уменьшить количество точек"
+
+msgid "Remaining Point Count:"
+msgstr "Оставшееся количество точек:"
+
+msgid "Reduction Method:"
+msgstr "Способ восстановления:"
+
+msgid "Temperature Coefficient of Resistance"
+msgstr "Температурный коэффициент сопротивления"
+
+msgid "Electrical Resistivity"
+msgstr "Удельное электрическое сопротивление"
+
+msgid "Temperature (°F)"
+msgstr "Температура (°f)"
+
+msgid "Cell Voltage (V)"
+msgstr "Напряжение ячейки (В)"
+
+msgid "Battery Charge (%)"
+msgstr "Заряд батареи (%)"
+
+#. added in 2015-08-07
+#. Device Monitor
+msgid "Set Time Scale"
+msgstr "Установить шкалу времени"
+
+msgid "Time Scale (seconds):"
+msgstr "Шкала времени (секунды):"
+
+msgid "Profile:"
+msgstr "Профиль:"
+
+msgid "Set Charge Estimate"
+msgstr "Установить  расчетный показатель батареи"
+
+msgid "Charge (Wh):"
+msgstr "Заряд (Вт-ч):"
+
+msgid "Set USB Current Limit"
+msgstr "Установить текущий ток USB"
+
+msgid "Current (A):"
+msgstr "Текущий (А):"
+
+msgid "Temperature Monitoring Mode"
+msgstr "Режим контроля температуры"
+
+msgid ""
+"In temperature monitoring mode, temperature will be displayed.\n"
+"It will NOT be limited in any way."
+msgstr ""
+"В режиме мониторинга температур, температура будет отображаться.\n"
+"Она не будет ограничена каким-либо образом."
+
+msgid "Continue?"
+msgstr "Продолжить?"
+
+#. added in 2015-08-07
+#. Theme tab
+msgid "Capturing Screen"
+msgstr "Захват экрана"
+
+#. added in 2015-08-07
+#. Atomizer Analyzer
+msgid "Raw Ohms:"
+msgstr "Исходные Ом:"
+
+msgid "Nominal Ohms:"
+msgstr "Номинальные Ом:"
+
+#. added in 2015-08-07
+#. Battery Analyzer
+msgid "&Start"
+msgstr "&Старт"
+
+msgid "&Stop"
+msgstr "&Стоп"
+
+msgid "&Accept"
+msgstr "&Принять"
+
+#. added in 2015-08-07
+#. Watt-Hour Calculator
+msgid "Battery Pack Voltage"
+msgstr "Напряжение аккумулятора "
+
+msgid ""
+"Do you know the total voltage of your battery pack?\n"
+"This is typically printed on it."
+msgstr ""
+"Вы знаете, общее напряжение вашей батареи?\n"
+"это значение, как правило, напечатано на нём."
+
+msgid "Calculate Watt-Hours"
+msgstr "Рассчитать Вт-ч"
+
+msgid "Battery Cell Capacity (mAh):"
+msgstr "Емкость батареи (мАч):"
+
+msgid "Number of Battery Cells:"
+msgstr "Количество ячеек батареи:"
+
+msgid "Nominal Cell Voltage:"
+msgstr "Номинальное напряжение ячейки:"
+
+msgid "Nominal Pack Voltage:"
+msgstr "Номинальное напряжение батареи"
+
+msgid "Calculation Result"
+msgstr "Результат вычисления"
+
+msgid "Your battery has a capacity of {0} watt-hours."
+msgstr "Аккумулятор имеет емкость {0} ватт-часов."
+
+msgid "Use this value?"
+msgstr "Использовать это значение?"
+
+#. added in 2015-08-07
+#. Research tab
+msgid "Return To Researcher:"
+msgstr "Вернуться к диагностике:"
+
+msgid "Enter Research Seal"
+msgstr "enter research seal"
+
+msgid "Research seal is intact."
+msgstr "Исследование без изменений."
+
+msgid "Research seal does not match."
+msgstr "research seal does not match."
+
+msgid "Reached the rate limit. Try again later."
+msgstr "Достигнут предел скорости. Попробуйте позже."
+
+msgid "Success"
+msgstr "Успешно"
+
+msgid "Research seal applied."
+msgstr "Исследование применено."
+
+msgid "Research seal broken."
+msgstr "Исследование нарушено."
+
+msgid "Statistics reset."
+msgstr "Сброс статистики"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "A researcher has already applied a seal to this device."
+msgstr "Исследователь уже применил результаты для этого устройства."
+
+msgid "This device has not been sealed for research."
+msgstr "Это устройство не может быть использовано для исследования."
+
+#. added in 2015-08-07
+#. Tools->Show Serial Number
+msgid "Serial Number"
+msgstr "Серийный номер"
+
+msgid "Copy to Clipboard?"
+msgstr "Скопировать в буфер обмена?"
+
+msgid "Copied."
+msgstr "Скопировано."
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid "New firmware is available!"
+msgstr "Новая прошивка доступна!"
+
+msgid "Click here to update your device to {0}."
+msgstr "Нажмите здесь, чтобы обновить устройство к {0}."
+
+msgid "Please Wait"
+msgstr "Пожалуйста, подождите"
+
+msgid "Updating Core Firmware"
+msgstr "Обновляется ядро прошивки"
+
+msgid "Updating Firmware"
+msgstr "Обновление прошивки"
+
+msgid "New Firmware"
+msgstr "Новая прошивка"
+
+msgid "New firmware is going to be uploaded."
+msgstr "Новая прошивка будет загружена."
+
+msgid "Before clicking OK, please make sure that the device is idle."
+msgstr ""
+"Прежде чем нажать ОК, пожалуйста, убедитесь, что устройство находится в режиме "
+"ожидания."
+
+msgid "Firmware update complete."
+msgstr "Обновление прошивки завершено."
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid "Production Utility"
+msgstr "Тесты"
+
+msgid "&Save..."
+msgstr "&Сохранить..."
+
+msgid "Browse..."
+msgstr "Обзор..."
+
+msgid "Model Name:"
+msgstr "Название модели:"
+
+msgid "Firmware File:"
+msgstr "Файл прошивки:"
+
+msgid "Settings File:"
+msgstr "Файл настроек:"
+
+msgid "&Program && Test"
+msgstr "&Программа && испытаний"
+
+#. added in 2015-08-19
+#. messages
+msgid "Invalid Value"
+msgstr "Неверное значение"
+
+msgid "Value must be a number."
+msgstr "Значение должно быть числом."
+
+#. Connect
+msgid ""
+"Unable to open a connection.\n"
+"Another program may be using the device."
+msgstr ""
+"Невозможно открыть соединение.\n"
+"Другая программа может использовать устройство."
+
+#. Mod tab
+msgid "Case Cooling Time Constant:"
+msgstr "Время охлаждения корпуса:"
+
+msgid "Case Heating Time Constant:"
+msgstr "Время нагрева корпуса:"
+
+msgid "Case USB Charge Temperature Rise:"
+msgstr "Температура USB-заряда"
+
+msgid "Minimum Ambient Temperature:"
+msgstr "Минимальная температура окружающего воздуха:"
+
+msgid "Maximum Ambient Temperature:"
+msgstr "Максимальная температура окружающего воздуха:"
+
+#. Battery Analyzer
+msgid "What power would you like to conduct the test at?"
+msgstr "На какой мощности вы хотите провести тест?"
+
+#. Case Analyzer
+msgid "What is the room temperature (°F)?"
+msgstr "Температура в помещении (°F)?"
+
+#. Production Utility
+msgid "Login Required"
+msgstr "Необходима авторизация "
+
+msgid "You must be logged in to use the production utility."
+msgstr "Вы должны войти в систему, чтобы использовать утилиту."
+
+msgid "Select the latest firmware to have it loaded onto the device."
+msgstr "Выберите последнюю прошивку, чтобы она была загружена на устройство."
+
+msgid ""
+"Select your mod's default settings file. It can be reloaded by clicking Restore "
+"Defaults."
+msgstr ""
+"Выберите файл настроек по умолчанию для вашего мода. Он может быть перезагружен, "
+"нажав \"восстановить значения по умолчанию\"."
+
+msgid "Functional Tests"
+msgstr "Функциональные тесты"
+
+msgid "Fire Test"
+msgstr "Fire-тест"
+
+msgid ""
+"Checks that the device can fire and read Ohms properly. Attach a resistor or non-"
+"temperature coil."
+msgstr ""
+"Проверяет, что у устройства работает кнопка FIRE и правильно считывается "
+"сопротивление. Установите резистор или не температуры катушки."
+
+msgid "Fire Time:"
+msgstr "Время FIRE:"
+
+msgid "Fire Power:"
+msgstr "Мощность FIRE:"
+
+msgid "Expected Cold Resistance:"
+msgstr "Ожидаемое \"холодное\" сопротивление:"
+
+msgid "Battery Test"
+msgstr "Тест батареи"
+
+msgid "Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr ""
+"Будьте уверены, что ячейки батареи имеют приемлемое напряжение и могут быть "
+"заряжены."
+
+msgid "Minimum Cell Voltage:"
+msgstr "Минимальное напряжение ячейки:"
+
+msgid "Maximum Cell Imbalance:"
+msgstr "Максимальный дисбаланс ячеек:"
+
+msgid "Wait for USB Current to Rise Above:"
+msgstr "Подождите пока ток USB вырастет:"
+
+msgid "Production"
+msgstr "Производство"
+
+msgid "No actions."
+msgstr "Нет действий."
+
+msgid "Fire test failed."
+msgstr "Тест FIRE проваленн."
+
+msgid "Battery test failed."
+msgstr "Тест батареи провален."
+
+msgid "Production actions succeeded."
+msgstr "Действие удалось."
+
+#. added in 2015-08-21
+#. Theme tab
+msgid "Hide Ohms on Custom"
+msgstr "Обычно скрывать сопротивление"
+
+msgid "Show Ohms on Custom"
+msgstr "Обычно показывать сопротивление"
+
+msgid "New Coil"
+msgstr "Новая намотка"
+
+msgid "Old Coil"
+msgstr "Старая намотка"

@@ -264,7 +264,7 @@ msgid  "Temperature:"
 msgstr "Температура:"
 
 msgid  "Off"
-msgstr "Изкл."
+msgstr "Изкл"
 
 msgid  "Ohms Locked"
 msgstr "Омовете блокирани"

@@ -18,7 +18,7 @@ msgstr ""
 #. standard
 
 msgid  "X-language translation by Y."
-msgid "Bulgarian translation by Milen Cholashki https://smoking-maniac.com."
+msgstr "Bulgarian translation by Milen Cholashki https://smoking-maniac.com."
 
 #. standard
 msgid  "OK"

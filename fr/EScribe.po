@@ -802,10 +802,10 @@ msgid  "Last Puff"
 msgstr "Dernière puff"
 
 msgid  "Mean"
-msgstr "signif."
+msgstr "Signif."
 
 msgid  "Std. Dev."
-msgstr "std. dev."
+msgstr "Std. dev."
 
 msgid  "Puffs:"
 msgstr "Puffs:"

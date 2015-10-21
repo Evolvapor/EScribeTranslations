@@ -196,7 +196,7 @@ msgid  "Device &Monitor"
 msgstr "device &monitor"
 
 msgid  "{0} connected on USB."
-msgstr "{0} connected on usb."
+msgstr "{0} connected on USB."
 
 msgid  "Downloading Settings"
 msgstr "downloading settings"
@@ -502,16 +502,16 @@ msgid  "Battery Charge Wh"
 msgstr "battery charge wh"
 
 msgid  "USB Power"
-msgstr "usb power"
+msgstr "USB power"
 
 msgid  "USB Current"
-msgstr "usb current"
+msgstr "USB current"
 
 msgid  "USB Current (Standard)"
-msgstr "usb current (standard)"
+msgstr "USB current (standard)"
 
 msgid  "USB Voltage"
-msgstr "usb voltage"
+msgstr "USB voltage"
 
 msgid  "Battery Pack"
 msgstr "battery pack"
@@ -690,7 +690,7 @@ msgid  "Plain Text Serial"
 msgstr "plain text serial"
 
 msgid  "CSV (Excel)"
-msgstr "csv (excel)"
+msgstr "CSV (Excel)"
 
 msgid  "Experimental Setup"
 msgstr "experimental setup"
@@ -745,13 +745,13 @@ msgid  "Live View"
 msgstr "live view"
 
 msgid  "USB Power:"
-msgstr "usb power:"
+msgstr "USB power:"
 
 msgid  "USB Current:"
-msgstr "usb current:"
+msgstr "USB current:"
 
 msgid  "USB Voltage:"
-msgstr "usb voltage:"
+msgstr "USB voltage:"
 
 msgid  "Charge:"
 msgstr "charge:"
@@ -851,8 +851,8 @@ msgstr "puf&f..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} SECOND"
-msgstr[1]    "{0} SECONDS"
+msgstr[0]    "{0} second"
+msgstr[1]    "{0} seconds"
 
 msgid  "&Custom..."
 msgstr "&custom..."
@@ -903,16 +903,16 @@ msgid  "Set &Charge Estimate..."
 msgstr "set &charge estimate..."
 
 msgid  "&Set USB Current Limit..."
-msgstr "&set usb current limit..."
+msgstr "&set USB current limit..."
 
 msgid  "&Reset USB Current Limit"
-msgstr "&reset usb current limit"
+msgstr "&reset USB current limit"
 
 msgid  "&Advanced"
 msgstr "&advanced"
 
 msgid  "Perform USB &Recovery Charging..."
-msgstr "perform usb &recovery charging..."
+msgstr "perform USB &recovery charging..."
 
 msgid  "Reset &Statistics"
 msgstr "reset &statistics"
@@ -985,10 +985,10 @@ msgid  "Electrical Resistivity"
 msgstr "electrical resistivity"
 
 msgid  "Temperature (°F)"
-msgstr "temperature (°f)"
+msgstr "temperature (°F)"
 
 msgid  "Cell Voltage (V)"
-msgstr "cell voltage (v)"
+msgstr "cell voltage (V)"
 
 msgid  "Battery Charge (%)"
 msgstr "battery charge (%)"
@@ -1008,13 +1008,13 @@ msgid  "Set Charge Estimate"
 msgstr "set charge estimate"
 
 msgid  "Charge (Wh):"
-msgstr "charge (wh):"
+msgstr "charge (Wh):"
 
 msgid  "Set USB Current Limit"
-msgstr "set usb current limit"
+msgstr "set USB current limit"
 
 msgid  "Current (A):"
-msgstr "current (a):"
+msgstr "current (A):"
 
 msgid  "Temperature Monitoring Mode"
 msgstr "temperature monitoring mode"
@@ -1208,7 +1208,7 @@ msgid  "Case Heating Time Constant:"
 msgstr "case heating time constant:"
 
 msgid  "Case USB Charge Temperature Rise:"
-msgstr "case usb charge temperature rise:"
+msgstr "case USB charge temperature rise:"
 
 msgid  "Minimum Ambient Temperature:"
 msgstr "minimum ambient temperature:"
@@ -1222,7 +1222,7 @@ msgstr "what power would you like to conduct the test at?"
 
 #. Case Analyzer
 msgid  "What is the room temperature (°F)?"
-msgstr "what is the room temperature (°f)?"
+msgstr "what is the room temperature (°F)?"
 
 #. Production Utility
 msgid  "Login Required"
@@ -1268,7 +1268,7 @@ msgid  "Maximum Cell Imbalance:"
 msgstr "maximum cell imbalance:"
 
 msgid  "Wait for USB Current to Rise Above:"
-msgstr "wait for usb current to rise above:"
+msgstr "wait for USB current to rise above:"
 
 msgid  "Production"
 msgstr "production"
@@ -1298,3 +1298,43 @@ msgstr "new coil"
 
 msgid  "Old Coil"
 msgstr "old coil"
+
+#. added in 2015-09-30
+#. Theme tab
+msgid  "Look and Feel"
+msgstr "look and feel"
+
+msgid  "Watts Press Increment:"
+msgstr "watts press increment:"
+
+msgid  "Watts Hold Increment:"
+msgstr "watts hold increment:"
+
+#. added in 2015-10-20
+#. Connect errors
+msgid  "Nothing Connected"
+msgstr "nothing connected"
+
+msgid  "No compatible USB devices are connected."
+msgstr "no compatible USB devices are connected."
+
+msgid  "To continue, please connect one."
+msgstr "to continue, please connect one."
+
+msgid  "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
+msgstr "if one already is connected, try unplugging and plugging it back in. the cable may be loose."
+
+#. Device Monitor
+msgid  "Are you sure you want to reset your statistics?"
+msgstr "are you sure you want to reset your statistics?"
+
+#. General tab
+msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
+msgstr "are you sure you want to restore to manufacturer settings?\nany customizations you have made will be lost."
+
+#. Mod tab
+msgid  "Behavior"
+msgstr "behavior"
+
+msgid  "Manufacturer Settings"
+msgstr "manufacturer settings"

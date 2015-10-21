@@ -1,0 +1,1309 @@
+msgid  "X-language translation by Y."
+msgstr "French translation by Raphaël (Zbin Vape)."
+
+#. standard
+msgid  "OK"
+msgstr "OK"
+
+msgid  "Cancel"
+msgstr "Annuler"
+
+#. menus
+msgid  "&File"
+msgstr "&Fichier"
+
+msgid  "&New (Reset to {0} Standard)"
+msgstr "&Nouveau (réinitialiser aux réglages Evolv)"
+
+msgid  "&Open..."
+msgstr "&Ouvrir..."
+
+msgid  "&Save"
+msgstr "&Sauver"
+
+msgid  "Save &As..."
+msgstr "Sauver &comme..."
+
+msgid  "E&xit"
+msgstr "S&ortir"
+
+msgid  "&Edit"
+msgstr "&Editer"
+
+msgid  "&Undo"
+msgstr "&Annuler"
+
+msgid  "&Redo"
+msgstr "&Refaire"
+
+msgid  "&Internet"
+msgstr "&internet"
+
+msgid  "&Log in..."
+msgstr "&Se connecter..."
+
+msgid  "E-mail:"
+msgstr "E-mail:"
+
+msgid  "Password:"
+msgstr "Mot de passe:"
+
+msgid  "My Account"
+msgstr "Mon compte"
+
+msgid  "Register"
+msgstr "S'inscrire"
+
+msgid  "Login"
+msgstr "Se connecter"
+
+msgid  "Log &out"
+msgstr "Se déconnecter"
+
+msgid  "&Options"
+msgstr "&Options"
+
+msgid  "Automatically Check for &Updates"
+msgstr "Vérifier automatiquement les mises à jour"
+
+msgid  "Clear Recent Files List"
+msgstr "Fermer la liste des fichiers récents"
+
+msgid  "&Connect..."
+msgstr "&Connexion..."
+
+msgid  "Dis&connect"
+msgstr "Déconnexion"
+
+msgid  "&Tools"
+msgstr "&Outils"
+
+msgid  "&Calculator"
+msgstr "&Calculateur"
+
+msgid  "Calculator"
+msgstr "Calculateur"
+
+msgid  "Results"
+msgstr "Résultats"
+
+msgid  "Equation"
+msgstr "Equation"
+
+msgid  "Calculate"
+msgstr "Calculer"
+
+msgid  "&Production Utility"
+msgstr "&Utilitaire de production"
+
+msgid  "Serial &Terminal"
+msgstr "Terminal"
+
+msgid  "Serial Terminal"
+msgstr "Terminal"
+
+msgid  "Data"
+msgstr "Donnée"
+
+msgid  "Command"
+msgstr "Commande"
+
+msgid  "System &Information"
+msgstr "Informations système"
+
+msgid  "&Reboot Device"
+msgstr "&Rebooter le chipset"
+
+msgid  "&Soft Reboot..."
+msgstr "&Reboot soft..."
+
+msgid  "&Hard Reboot..."
+msgstr "&Reboot hard..."
+
+msgid  "Show Serial &Number..."
+msgstr "Voir le numéro de série..."
+
+msgid  "Update &Firmware..."
+msgstr "Mettre le firmware à jour..."
+
+msgid  "&Help"
+msgstr "&Aide"
+
+msgid  "&Website"
+msgstr "&Site web"
+
+msgid  "&Help Desk"
+msgstr "&help desk"
+
+msgid  "Report a &Bug"
+msgstr "Rapporter un bug"
+
+msgid  "Bug Report"
+msgstr "Rapport de bug"
+
+msgid  "E-mail Address (optional):"
+msgstr "Adresse email (optional):"
+
+msgid  "&Send"
+msgstr "&Envoyer"
+
+msgid  "Send &Feedback"
+msgstr "Envoyer un &feedback"
+
+msgid  "Feedback Form"
+msgstr "Formulaire de feedback"
+
+msgid  "U.S. &Patents"
+msgstr "Brevet"
+
+msgid  "&About {0}"
+msgstr "&A propos {0}"
+
+msgid  "About {0}"
+msgstr "A propos {0}"
+
+#. Connect dialog
+msgid  "Connect"
+msgstr "Connecter"
+
+msgid  "Device:"
+msgstr "Equipement:"
+
+msgid  "Rename..."
+msgstr "Renommer..."
+
+#. Connect dialog Rename Device
+msgid  "Rename Device"
+msgstr "Renommer l'équipement"
+
+msgid  "New Name:"
+msgstr "Nouveau nom:"
+
+#. toolbar
+msgid  "Connect and &Download Settings"
+msgstr "Se connecter et télécharger les paramètres"
+
+msgid "&Upload Settings to Device"
+msgstr "&Envoyer les paramètres vers le chipset"
+
+msgid  "Device &Monitor"
+msgstr "Moniteur système"
+
+msgid  "{0} connected on USB."
+msgstr "{0} connecté en USB."
+
+msgid  "Downloading Settings"
+msgstr "Téléchargement des paramètres"
+
+msgid  "Uploading Settings"
+msgstr "Envoi des paramètres"
+
+msgid  "Verifying Settings"
+msgstr "Vérification des paramètres"
+
+#. General tab
+msgid  "General"
+msgstr "Géneral"
+
+msgid  "My DNA"
+msgstr "Mon DNA"
+
+msgid  "Manufacturer:"
+msgstr "Fabricant:"
+
+msgid  "Model:"
+msgstr "Modèle:"
+
+msgid  "History:"
+msgstr "Historique:"
+
+msgid  "Get Information"
+msgstr "Récupérer les informations"
+
+msgid  "{0} can get information online about your mod."
+msgstr "{0} peut récupérer en ligne les informations sur votre mod."
+
+msgid  "Restore Defaults"
+msgstr "Restaurer par défaut"
+
+msgid  "Profile {0}"
+msgstr "profil {0}"
+
+msgid  "Name:"
+msgstr "Nom:"
+
+msgid  "Custom Screen:"
+msgstr "Ecran personnalisé:"
+
+msgid  "Settings"
+msgstr "Paramètres"
+
+msgid  "Power:"
+msgstr "Puissance:"
+
+msgid  "Temperature:"
+msgstr "Température:"
+
+msgid  "Off"
+msgstr "Off"
+
+msgid  "Ohms Locked"
+msgstr "ohms verrouillés"
+
+msgid  "If you connect a temperature-sensing coil..."
+msgstr "Si vous connectez un coil à contrôle de température..."
+
+msgid  "Coil Material:"
+msgstr "Matière du coil:"
+
+msgid  "Nickel 200"
+msgstr "Nickel 200"
+
+msgid  "Custom"
+msgstr "Personnalisé"
+
+msgid  "Material Profile:"
+msgstr "Profil du fil:"
+
+msgid  "Move/Resize"
+msgstr "Déplacer/modifier"
+
+msgid  "Split"
+msgstr "Diviser"
+
+msgid  "Delete"
+msgstr "Effacer"
+
+msgid  "Set X"
+msgstr "Configurer x"
+
+msgid  "X value:"
+msgstr "Valeur de x:"
+
+msgid  "Set Y"
+msgstr ""Configurer y"
+
+msgid  "Y value:"
+msgstr "Valeur de y:"
+
+msgid  "Custom Materials"
+msgstr "Fils personnalisés"
+
+msgid  "Load CSV..."
+msgstr "Charger un csv..."
+
+msgid  "Save CSV..."
+msgstr "Sauver en csv..."
+
+msgid  "Label..."
+msgstr "Label..."
+
+msgid  "Special"
+msgstr "Spécial"
+
+msgid  "Reduce Number of Points..."
+msgstr "Réduire le nombre de points..."
+
+msgid  "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "Coefficient de température de la résistance (approximatif)..."
+
+msgid  "Preheat Power:"
+msgstr "Puissance de préchauffe:"
+
+msgid  "Preheat Punch:"
+msgstr "Niveau de préchauffe:"
+
+msgid  "Soft"
+msgstr "Soft"
+
+msgid  "Hard"
+msgstr "Hard"
+
+msgid  "Preheat Time Limit:"
+msgstr "Durée limite de préchauffe:"
+
+msgid  "Atomizer Analyzer"
+msgstr "Analyseur d'atomiseur"
+
+msgid  "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "{0} est en mesure d'analyser la stabilité de la résistance de votre atomiseur."
+
+#. Theme tab
+msgid "Theme"
+msgstr "Thème"
+
+msgid  "Load Theme..."
+msgstr "Charger le thème..."
+
+msgid  "Save Theme..."
+msgstr "Sauver le thème..."
+
+msgid  "Default Theme"
+msgstr "Thème par défaut"
+
+msgid  "Custom Screens"
+msgstr "Ecrans personnalisés"
+
+msgid  "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "Les écrans font {0} pixels de large et {1} pixels de haut."
+
+msgid  "Capture..."
+msgstr "Capturer..."
+
+msgid  "Load..."
+msgstr "Charger..."
+
+msgid  "Save..."
+msgstr "Sauver..."
+
+msgid  "Default"
+msgstr "Par défaut"
+
+msgid  "Welcome (Primary):"
+msgstr "Bienvenue (1ier):"
+
+msgid  "Welcome (Secondary):"
+msgstr "Bienvenue (2ième):"
+
+msgid  "Normal Mode:"
+msgstr "Mode normal:"
+
+msgid  "Stealth Mode:"
+msgstr "Mode écran éteint:"
+
+msgid  "New Coil Yes/No:"
+msgstr "Nouveau coil oui/non:"
+
+msgid  "Hold To Lock Ohms:"
+msgstr "Maintenir pour bloquer les ohms:"
+
+msgid  "Hold To Unlock Ohms:"
+msgstr "Maintenir pour débloquer les ohms:"
+
+msgid  "Power Locked Hold Up Down:"
+msgstr "Puissance verrouillée maintenir haut bas:"
+
+msgid  "Locked Click 5X:"
+msgstr "Verrouillé cliquez 5X:"
+
+msgid  "Hold To Change Temp:"
+msgstr "Maintenir pour changer la temp:"
+
+msgid  "Kanthal Max Power:"
+msgstr "Kanthal puissance max:"
+
+msgid  "Show Message"
+msgstr "Montrer message"
+
+msgid  "Don't Show"
+msgstr "Ne pas montrer"
+
+msgid  "Temperature Protected:"
+msgstr "Temperature protegée:"
+
+msgid  "Show Temperature"
+msgstr "Montrer température"
+
+msgid  "Too Hot:"
+msgstr "Trop chaud:"
+
+msgid  "Shorted:"
+msgstr "Court-circuit:"
+
+msgid  "Check Atomizer:"
+msgstr "Vérifiez votre ato:"
+
+msgid  "Ohms Too Low:"
+msgstr "Ohms trop bas:"
+
+msgid  "Ohms Too High:"
+msgstr "Ohms trop hauts:"
+
+msgid  "Check Battery:"
+msgstr "Vérifiez la batterie:"
+
+msgid  "Weak Battery:"
+msgstr "Batterie faible:"
+
+msgid  "Imbalanced Battery:"
+msgstr "Batterie déséquilibrée:"
+
+#. Screen tab
+msgid  "Screen"
+msgstr "Ecran"
+
+msgid  "Display"
+msgstr "Affichage"
+
+msgid  "Orientation:"
+msgstr "Orientation:"
+
+msgid  "Left"
+msgstr "Gauche"
+
+msgid  "Right"
+msgstr "Droite"
+
+msgid  "Battery Meter:"
+msgstr "Indicateur de batterie:"
+
+msgid  "On Default Screens"
+msgstr "Sur les écrans par défauts"
+
+msgid  "On Main Screen Only"
+msgstr "Seulement sur l'écran principal"
+
+msgid  "On All Screens"
+msgstr "Sur tous les écrans"
+
+msgid  "Error Flashes:"
+msgstr "Messages d'erreurs:"
+
+msgid  "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0} s erreur, {1:0.0} s statut"
+
+msgid  "Show error only."
+msgstr "Montrer seulement l'erreur."
+
+msgid  "Fields"
+msgstr "Champs"
+
+msgid  "Default Field {0}:"
+msgstr "Champ par défaut {0}:"
+
+msgid  "Ohms"
+msgstr "Ohms"
+
+msgid  "Ohms (Standard)"
+msgstr "Ohms (standard)"
+
+msgid  "Voltage"
+msgstr "Tension"
+
+msgid  "Voltage (Standard)"
+msgstr "Tension (standard)"
+
+msgid  "Temperature"
+msgstr "Température"
+
+msgid  "Temperature (Standard)"
+msgstr "Température (standard)"
+
+msgid  "Battery Charge %"
+msgstr "Charge de la batterie %"
+
+msgid  "Battery Charge Wh"
+msgstr "Charge de la batterie wh"
+
+msgid  "USB Power"
+msgstr "Puissance USB"
+
+msgid  "USB Current"
+msgstr "Ampérage USB"
+
+msgid  "USB Current (Standard)"
+msgstr "Ampérage USB (standard)"
+
+msgid  "USB Voltage"
+msgstr "Tension USB"
+
+msgid  "Battery Pack"
+msgstr "Ensemble batterie"
+
+msgid  "Battery Cell {0}"
+msgstr "Cellule batterie n° {0}"
+
+msgid  "Current"
+msgstr "Ampérage"
+
+msgid  "Board Temperature"
+msgstr "Température chipset"
+
+msgid  "Room Temperature"
+msgstr "Température de la pièce"
+
+msgid  "Puff Count"
+msgstr "Compteur de puffs"
+
+msgid  "Last Energy"
+msgstr "Dernière énergie"
+
+msgid  "Last Power"
+msgstr "Dernière puissance"
+
+msgid  "Last Temperature"
+msgstr "Dernière température"
+
+msgid  "Last Time"
+msgstr "Dernière durée"
+
+msgid  "Charging Field {0}:"
+msgstr "Champ pendant chargement {0}:"
+
+msgid  "Brightness"
+msgstr "Luminosité"
+
+msgid  "Firing Brightness:"
+msgstr "Luminosité pendant fire:"
+
+msgid  "Fade to..."
+msgstr "Augmenter jusqu'à..."
+
+msgid  "Set to..."
+msgstr "Fixer à..."
+
+msgid  "Temporarily set to..."
+msgstr "Fixer temporairement à..."
+
+msgid  "Do not change."
+msgstr "Ne pas changer."
+
+msgid  "Screen active after puff."
+msgstr "Ecran actif après une puff."
+
+msgid  "Screen off after puff."
+msgstr "Ecran inactif après une puff."
+
+msgid  "No effect on idle state."
+msgstr "Aucun effet en repos."
+
+msgid  "Active Brightness:"
+msgstr "Luminosité active:"
+
+msgid  "Active Time:"
+msgstr "durée d'activation:"
+
+msgid  "Idle Brightness:"
+msgstr "Luminosité au repos:"
+
+msgid  "Idle Time:"
+msgstr "Durée de repos:"
+
+msgid  "Charging Brightness:"
+msgstr "Luminosité pendant chargement:"
+
+msgid  "Fade-in Time:"
+msgstr "Durée du fade-in:"
+
+msgid  "Fade-out Time:"
+msgstr "Durée du fade-out:"
+
+#. Mod tab
+msgid  "Mod"
+msgstr "Mod"
+
+msgid  "Battery"
+msgstr "Batterie"
+
+msgid  "Type:"
+msgstr "Type:"
+
+msgid  "Lithium Polymer"
+msgstr "Lithium polymère (LiPo)"
+
+msgid  "LiFePO4"
+msgstr "lifepo4"
+
+msgid  "Power Supply"
+msgstr "Alimentation"
+
+msgid  "Capacity:"
+msgstr "Capacitée:"
+
+msgid  "{0}-cell"
+msgstr "{0}-cellules"
+
+msgid  "Watt-Hour Calculator"
+msgstr "Calculateur de Watt/Heure"
+
+msgid  "Cell Soft Cutoff:"
+msgstr "Tension de coupure:"
+
+msgid  "Charging Mode:"
+msgstr "Mode de chargement:"
+
+msgid  "Maximize Puffs"
+msgstr "Maximiser les puffs"
+
+msgid  "Maximize Recharges"
+msgstr "Maximiser les recharges"
+
+msgid  "Discharge Profile:"
+msgstr "Profil de décharge:"
+
+msgid  "Battery Analyzer"
+msgstr "Analyseur de batterie"
+
+msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "{0} peut analizer la capacité de votre batterie et son profil de décharge."
+
+msgid  "Electrical"
+msgstr "Electrique"
+
+msgid  "Kanthal Power Limit:"
+msgstr "Puissance limite en Kanthal:"
+
+msgid  "Mod Resistance:"
+msgstr "Résistance du mod:"
+
+msgid  "Ohm Lock Range: ±"
+msgstr "Plage de verrouillage ohms: ±"
+
+msgid  "Mechanical"
+msgstr "Mécanique"
+
+msgid  "Up/Down Buttons:"
+msgstr "Bouttons haut/bas:"
+
+msgid  "Normal"
+msgstr "Normal"
+
+msgid  "Swapped"
+msgstr "Inversés"
+
+msgid  "Thermal"
+msgstr "Thermique"
+
+msgid  "Case Analyzer"
+msgstr "Analyseur thermique"
+
+msgid  "{0} can be used to analyze your case's thermal properties."
+msgstr "{0} peut analyser les propriétés thermiques lors du chargement."
+
+#. Research tab
+msgid  "Research"
+msgstr "Recherche"
+
+msgid  "Data Acquisition"
+msgstr "Acquisition de données"
+
+msgid  "Serial Output Format:"
+msgstr "Format de sortie :"
+
+msgid  "Plain Text Serial"
+msgstr "Texte"
+
+msgid  "CSV (Excel)"
+msgstr "Csv (excel)"
+
+msgid  "Experimental Setup"
+msgstr "Configuration expérimentale"
+
+msgid  "Coil Resistance:"
+msgstr "Résistance du coil:"
+
+msgid  "Automatic"
+msgstr "Automatique"
+
+msgid  "Locked"
+msgstr "Verrouillé"
+
+msgid  "Temperature Limit:"
+msgstr "Limite de température:"
+
+msgid  "Configurable"
+msgstr "Configurable"
+
+msgid  "Puff Limit:"
+msgstr "Limite de puffs:"
+
+msgid  "Disabled"
+msgstr "Désactivé"
+
+msgid  "Enabled"
+msgstr "Activé"
+
+msgid  "Energy Limit:"
+msgstr "Limite d'énergie:"
+
+msgid  "Time Limit:"
+msgstr "Limite de durée:"
+
+msgid  "Apply Research Seal"
+msgstr "Appliquer un mot de passe pour les paramètres de recherche"
+
+msgid  "Break Research Seal"
+msgstr "Détruire le mot de passe"
+
+msgid  "Check Research Seal"
+msgstr "Vérifier le mot de passe"
+
+msgid  "Reset Statistics"
+msgstr "Réinitialiser les stats"
+
+#. Device Monitor
+msgid  "Device Monitor"
+msgstr "Monitoring du mod"
+
+msgid  "Live View"
+msgstr "Vue temps réel"
+
+msgid  "USB Power:"
+msgstr "Puissance USB:"
+
+msgid  "USB Current:"
+msgstr "Ampérage USB:"
+
+msgid  "USB Voltage:"
+msgstr "Tension USB:"
+
+msgid  "Charge:"
+msgstr "Charge:"
+
+msgid  "Pack:"
+msgstr "Ensemble:"
+
+msgid  "Cell {0}:"
+msgstr "Cellule {0}:"
+
+msgid  "Current Puff"
+msgstr "Puff courante"
+
+msgid  "Power:"
+msgstr "Puissance:"
+
+msgid  "Power Set:"
+msgstr "Puissance paramétrée:"
+
+msgid  "Temperature:"
+msgstr "Température:"
+
+msgid  "Temperature Set:"
+msgstr "Température paramétrée:"
+
+msgid  "Current:"
+msgstr "Ampérage:"
+
+msgid  "Voltage:"
+msgstr "Tension:"
+
+msgid  "Cold Ohms:"
+msgstr "Ohms à froid:"
+
+msgid  "Live Ohms:"
+msgstr "Ohms en live:"
+
+msgid  "Room Temp:"
+msgstr "Température ambiante:"
+
+msgid  "Board Temp:"
+msgstr "Température du chipset:"
+
+msgid  "Statistics"
+msgstr "Statistiques"
+
+msgid  "Since Reset"
+msgstr "Depuis le dernier reset"
+
+msgid  "Total"
+msgstr "Total"
+
+msgid  "Last Puff"
+msgstr "Dernière puff"
+
+msgid  "Mean"
+msgstr "signif."
+
+msgid  "Std. Dev."
+msgstr "std. dev."
+
+msgid  "Puffs:"
+msgstr "Puffs:"
+
+msgid  "Temp-Protected:"
+msgstr "Protection température:"
+
+msgid  "Energy:"
+msgstr "Energie:"
+
+msgid  "Power:"
+msgstr "Puissance:"
+
+msgid  "Temperature:"
+msgstr "Température:"
+
+msgid  "Time:"
+msgstr "Durée:"
+
+msgid  "&Record..."
+msgstr "&Enregistrement..."
+
+msgid  "Graph &Options"
+msgstr "Options du graphe"
+
+msgid  "&Clear Graph"
+msgstr "&Réinitialiser le graphe"
+
+msgid  "&Save Graph..."
+msgstr "&Sauvegarder le graphe..."
+
+msgid  "Set &Time Scale..."
+msgstr "Configurer l'échelle de temps..."
+
+msgid  "Puf&f..."
+msgstr "Puf&f..."
+
+msgid        "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0]    "{0} SECONDE"
+msgstr[1]    "{0} SECONDES"
+
+msgid  "&Custom..."
+msgstr "&Personnalisé..."
+
+msgid  "Puff"
+msgstr "Puff"
+
+msgid  "Duration (seconds):"
+msgstr "Durée (secondes):"
+
+msgid  "Set &Power..."
+msgstr "Configurer la &puissance..."
+
+msgid  "Set Power"
+msgstr "Configurer la puissance"
+
+msgid  "Power (W):"
+msgstr "Puissance (w):"
+
+msgid  "Set &Temperature..."
+msgstr "Configurer la &température..."
+
+msgid  "Set Temperature"
+msgstr "Configurer la température"
+
+msgid  "Units:"
+msgstr "Unités:"
+
+msgid  "&Disable Temperature Protection"
+msgstr "&Désactiver la protectin de temp."
+
+msgid  "&Research"
+msgstr "&Recherche"
+
+msgid  "Enter Temperature &Monitoring Mode..."
+msgstr "Entrer le mode de &monitoring..."
+
+msgid  "&Diagnostics"
+msgstr "&Diagnostiques"
+
+msgid  "Set &Profile..."
+msgstr "Configurer le &profil..."
+
+msgid  "Set Profile"
+msgstr "Configurer le profil"
+
+msgid  "Set &Charge Estimate..."
+msgstr "Configurer la &charge estimée..."
+
+msgid  "&Set USB Current Limit..."
+msgstr "&Configurer la limite d'ampérage USB..."
+
+msgid  "&Reset USB Current Limit"
+msgstr "&Réinitialiser la limite d'ampérage USB"
+
+msgid  "&Advanced"
+msgstr "&Avancé"
+
+msgid  "Perform USB &Recovery Charging..."
+msgstr "Effectuer un chargement de récupération USB..."
+
+msgid  "Reset &Statistics"
+msgstr "Réinit. les &statistiques"
+
+msgid  "Resets: {0}"
+msgstr "Réinitialisations: {0}"
+
+msgid  "Version: {0}"
+msgstr "Version: {0}"
+
+#. added in 2015-07-29
+#. Device Monitor
+msgid  "Mode: {0}"
+msgstr "Mode: {0}"
+
+msgid  "Stealth"
+msgstr "stealth"
+
+msgid  "Power Locked"
+msgstr "Puissance verrouillée"
+
+msgid  "Buttons: {0}"
+msgstr "Boutons: {0}"
+
+msgid  "None"
+msgstr "Aucun"
+
+msgid  "Fire"
+msgstr "Fire"
+
+msgid  "Profile: {0}"
+msgstr "Profil: {0}"
+
+#. added in 2015-08-07
+msgid  "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid  "Celsius"
+msgstr "Celsius"
+
+#. added in 2015-08-07
+#. Get Information
+msgid  "Board programmed"
+msgstr "Chipset programmé"
+
+msgid  "Mod configured"
+msgstr "Mod configuré"
+
+#. added in 2015-08-07
+#. curve editing
+msgid  "Label Curve"
+msgstr "Label de courbe"
+
+msgid  "New Label:"
+msgstr "Nouveau label:"
+
+msgid  "Reduce Number of Points"
+msgstr "Réduire le nbr de points"
+
+msgid  "Remaining Point Count:"
+msgstr "Nbr de points restants:"
+
+msgid  "Reduction Method:"
+msgstr "Méthode de réduction:"
+
+msgid  "Temperature Coefficient of Resistance"
+msgstr "Coefficient de température de la résistance"
+
+msgid  "Electrical Resistivity"
+msgstr "Résistivité électrique"
+
+msgid  "Temperature (°F)"
+msgstr "Température (°f)"
+
+msgid  "Cell Voltage (V)"
+msgstr "Voltage de ceelule (v)"
+
+msgid  "Battery Charge (%)"
+msgstr "Niveau de charge (%)"
+
+#. added in 2015-08-07
+#. Device Monitor
+msgid  "Set Time Scale"
+msgstr "Définir l'échelle de temps"
+
+msgid  "Time Scale (seconds):"
+msgstr "Echelle de temps (secondes):"
+
+msgid  "Profile:"
+msgstr "Profil:"
+
+msgid  "Set Charge Estimate"
+msgstr "Charge estimée"
+
+msgid  "Charge (Wh):"
+msgstr "Charge (wh):"
+
+msgid  "Set USB Current Limit"
+msgstr "Configurer la limite d'ampérage USB"
+
+msgid  "Current (A):"
+msgstr "Ampérage (a):"
+
+msgid  "Temperature Monitoring Mode"
+msgstr "Mode de monitoring de temp."
+
+msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
+msgstr "Dans le mode de monitoring de température, la temp. sera affichée.\nelle ne sera pas limitée."
+
+msgid  "Continue?"
+msgstr "Continuer?"
+
+#. added in 2015-08-07
+#. Theme tab
+msgid  "Capturing Screen"
+msgstr "Ecran de capture"
+
+#. added in 2015-08-07
+#. Atomizer Analyzer
+msgid  "Raw Ohms:"
+msgstr "Ohms bruts:"
+
+msgid  "Nominal Ohms:"
+msgstr "Ohms nominaux:"
+
+msgid  "Cold Ohms:"
+msgstr "Ohms à froid:"
+
+msgid  "Room Temp:"
+msgstr "Température ambiante:"
+
+#. added in 2015-08-07
+#. Battery Analyzer
+msgid  "&Start"
+msgstr "&Commencer"
+
+msgid  "&Stop"
+msgstr "&Arrêter"
+
+msgid  "&Accept"
+msgstr "&Accepter"
+
+#. added in 2015-08-07
+#. Watt-Hour Calculator
+msgid  "Battery Pack Voltage"
+msgstr "Tension totale des batteries"
+
+msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
+msgstr "Connaissez vous le voltage total de votre batterie ?\nC'est généralement inscrit dessus."
+
+msgid  "Calculate Watt-Hours"
+msgstr "Calculter les W/h"
+
+msgid  "Battery Cell Capacity (mAh):"
+msgstr "Capacité de la cellule (mah):"
+
+msgid  "Number of Battery Cells:"
+msgstr "Nombre de cellules:"
+
+msgid  "Nominal Cell Voltage:"
+msgstr "Tension nominale de la cellule:"
+
+msgid  "Nominal Pack Voltage:"
+msgstr "Tension nominale de l'ensemble des cellules:"
+
+msgid  "Calculation Result"
+msgstr "Résultat du calcul"
+
+msgid  "Your battery has a capacity of {0} watt-hours."
+msgstr "Votre batterie a une capacité de {0} w/h."
+
+msgid  "Use this value?"
+msgstr "Utiliser cette valeur ?"
+
+#. added in 2015-08-07
+#. Research tab
+msgid  "Return To Researcher:"
+msgstr "Revenir à l'outil de recherche:"
+
+msgid  "Enter Research Seal"
+msgstr "Entrer un mot de passe"
+
+msgid  "Research seal is intact."
+msgstr "Mot de passe ok."
+
+msgid  "Research seal does not match."
+msgstr "Mot de passe erroné."
+
+msgid  "Reached the rate limit. Try again later."
+msgstr "Taux limite atteint. Veuillez ré-essayer"
+
+msgid  "Success"
+msgstr "Succes"
+
+msgid  "Research seal applied."
+msgstr "Mot de passe appliqué."
+
+msgid  "Research seal broken."
+msgstr "Mot de passe supprimé."
+
+msgid  "Statistics reset."
+msgstr "Réinitialisation des stats."
+
+msgid  "Error"
+msgstr "Erreur"
+
+msgid  "A researcher has already applied a seal to this device."
+msgstr "Un mot de passe de profil test a déjà été appliqué sur ce chipset."
+
+msgid  "This device has not been sealed for research."
+msgstr "Ce chipset n'a pas encore de mot de passe de profil de test."
+
+#. added in 2015-08-07
+#. Tools->Show Serial Number
+msgid  "Serial Number"
+msgstr "Numéro de série"
+
+msgid  "Copy to Clipboard?"
+msgstr "Copier dans le presse-papier ?"
+
+msgid  "Copied."
+msgstr "Copié."
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid  "New firmware is available!"
+msgstr "Nouveau firmware disponible !"
+
+msgid  "Click here to update your device to {0}."
+msgstr "cliquez ici pour mettre à jour le chipset à {0}."
+
+msgid  "Please Wait"
+msgstr "Veuillez patienter"
+
+msgid  "Updating Core Firmware"
+msgstr "Mise à jour du Core firmware en cours"
+
+msgid  "Updating Firmware"
+msgstr "Mise à jour du firmware en cours"
+
+msgid  "New Firmware"
+msgstr "Nouveau firmware"
+
+msgid  "New firmware is going to be uploaded."
+msgstr "Le nouveau firmware va être uploadé."
+
+msgid  "Before clicking OK, please make sure that the device is idle."
+msgstr "Avant de cliquer sur OK, assurez vous que le chipset soit en veille."
+
+msgid  "Firmware update complete."
+msgstr "Mise à jour du firmware terminée."
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid  "Production Utility"
+msgstr "Utilitaire de production"
+
+msgid  "&Save..."
+msgstr "&Sauver..."
+
+msgid  "Browse..."
+msgstr "Parcourir..."
+
+msgid  "Model Name:"
+msgstr "Nom de modèle:"
+
+msgid  "Firmware File:"
+msgstr "Fichier de firmware:"
+
+msgid  "Settings File:"
+msgstr "Fichier de configuration:"
+
+msgid  "&Program && Test"
+msgstr "&programmer && tester"
+
+#. added in 2015-08-19
+#. messages
+msgid  "Invalid Value"
+msgstr "Mauvaise valeur"
+
+msgid  "Value must be a number."
+msgstr "La valeur doit être un nombre."
+
+#. Connect
+msgid  "Unable to open a connection.\nAnother program may be using the device."
+msgstr "Connexion impossible.\nUn autre programme est peut être déjà connecté au chipset."
+
+#. Mod tab
+msgid "Case Cooling Time Constant:"
+msgstr "Constante de temps de refroidissement:"
+
+msgid  "Case Heating Time Constant:"
+msgstr "Constante de temps de chauffe:"
+
+msgid  "Case USB Charge Temperature Rise:"
+msgstr "Température de charge usb atteinte:"
+
+msgid  "Minimum Ambient Temperature:"
+msgstr "Température ambiante minimum:"
+
+msgid  "Maximum Ambient Temperature:"
+msgstr "Température ambiante maximum:"
+
+#. Battery Analyzer
+msgid  "What power would you like to conduct the test at?"
+msgstr "A quelle puissance voulez vous faire le test ?"
+
+#. Case Analyzer
+msgid  "What is the room temperature (°F)?"
+msgstr "Quelle est la teméprature de la pièce (°f)?"
+
+#. Production Utility
+msgid  "Login Required"
+msgstr "Connexion requise"
+
+msgid  "You must be logged in to use the production utility."
+msgstr "Vous devez être connecté pour utiliser l'utilitaire de production."
+
+msgid  "Select the latest firmware to have it loaded onto the device."
+msgstr "Sélectionnez le dernier firmware pour le charger dans le chipset."
+
+msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
+msgstr "Sélectionnez les paramètres par défaut de votre mod. Il peut être rechargé en cliquant sur -Restaurer par défaut-"
+
+msgid  "Functional Tests"
+msgstr "Tests fonctionnels"
+
+msgid  "Fire Test"
+msgstr "Test de fire"
+
+msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
+msgstr "Assurez vous que le mod peut lire les ohms correctement. Mettez une coil résistif (pas TC)"
+
+msgid  "Fire Time:"
+msgstr "Durée de fire:"
+
+msgid  "Fire Power:"
+msgstr "Puissance de fire:"
+
+msgid  "Expected Cold Resistance:"
+msgstr "Résistance du coil attendue:"
+
+msgid  "Battery Test"
+msgstr "Test de batterie"
+
+msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr "Assurez vous que les cellules de la batterie ont une tension raisonable et peuvent être chargées."
+
+msgid  "Minimum Cell Voltage:"
+msgstr "Tension minimum des cellules:"
+
+msgid  "Maximum Cell Imbalance:"
+msgstr "Déséquilibre maximum des cellules:"
+
+msgid  "Wait for USB Current to Rise Above:"
+msgstr "Attendre l'ampérage USB pour augmenter:"
+
+msgid  "Production"
+msgstr "Production"
+
+msgid  "No actions."
+msgstr "Pas d'actions."
+
+msgid  "Fire test failed."
+msgstr "Test de fire échoué."
+
+msgid  "Battery test failed."
+msgstr "Test de batterie échoué."
+
+msgid  "Production actions succeeded."
+msgstr "Actions de production réussies."
+
+#. added in 2015-08-21
+#. Theme tab
+msgid  "Hide Ohms on Custom"
+msgstr "Cacher les ohms en personnalisé"
+
+msgid  "Show Ohms on Custom"
+msgstr "Montrer les ohms en personnalisé"
+
+msgid  "New Coil"
+msgstr "Nouveau coil"
+
+msgid  "Old Coil"
+msgstr "Ancien coil"
+
+#. added in 2015-10-20
+#. menus
+msgid  "Open Languages Folder"
+msgstr "Dossier Languages"
+
+#. Theme tab
+msgid  "Look and Feel"
+msgstr "Configuration montée/descente Watts"
+
+msgid  "Watts Press Increment:"
+msgstr "Ajouter Watts par:"
+
+msgid  "Watts Hold Increment:"
+msgstr "Enlever Watts par:"

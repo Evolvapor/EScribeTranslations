@@ -227,7 +227,7 @@ msgid  "Restore Defaults"
 msgstr "Restaurer par défaut"
 
 msgid  "Profile {0}"
-msgstr "profil {0}"
+msgstr "Profil {0}"
 
 msgid  "Name:"
 msgstr "Nom:"
@@ -602,7 +602,7 @@ msgid  "Lithium Polymer"
 msgstr "Lithium polymère (LiPo)"
 
 msgid  "LiFePO4"
-msgstr "lifepo4"
+msgstr "LiFePO4"
 
 msgid  "Power Supply"
 msgstr "Alimentation"
@@ -678,13 +678,13 @@ msgid  "Data Acquisition"
 msgstr "Acquisition de données"
 
 msgid  "Serial Output Format:"
-msgstr "Format de sortie :"
+msgstr "Format de sortie:"
 
 msgid  "Plain Text Serial"
 msgstr "Texte"
 
 msgid  "CSV (Excel)"
-msgstr "Csv (excel)"
+msgstr "CSV (Excel)"
 
 msgid  "Experimental Setup"
 msgstr "Configuration expérimentale"
@@ -845,8 +845,8 @@ msgstr "Puf&f..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} SECONDE"
-msgstr[1]    "{0} SECONDES"
+msgstr[0]    "{0} seconde"
+msgstr[1]    "{0} secondes"
 
 msgid  "&Custom..."
 msgstr "&Personnalisé..."
@@ -979,7 +979,7 @@ msgid  "Electrical Resistivity"
 msgstr "Résistivité électrique"
 
 msgid  "Temperature (°F)"
-msgstr "Température (°f)"
+msgstr "Température (°F)"
 
 msgid  "Cell Voltage (V)"
 msgstr "Voltage de ceelule (v)"
@@ -1096,7 +1096,7 @@ msgid  "Research seal does not match."
 msgstr "Mot de passe erroné."
 
 msgid  "Reached the rate limit. Try again later."
-msgstr "Taux limite atteint. Veuillez ré-essayer"
+msgstr "Taux limite atteint. Veuillez ré-essayer."
 
 msgid  "Success"
 msgstr "Succes"
@@ -1202,7 +1202,7 @@ msgid  "Case Heating Time Constant:"
 msgstr "Constante de temps de chauffe:"
 
 msgid  "Case USB Charge Temperature Rise:"
-msgstr "Température de charge usb atteinte:"
+msgstr "Température de charge USB atteinte:"
 
 msgid  "Minimum Ambient Temperature:"
 msgstr "Température ambiante minimum:"
@@ -1216,7 +1216,7 @@ msgstr "A quelle puissance voulez vous faire le test ?"
 
 #. Case Analyzer
 msgid  "What is the room temperature (°F)?"
-msgstr "Quelle est la teméprature de la pièce (°f)?"
+msgstr "Quelle est la teméprature de la pièce (°F)?"
 
 #. Production Utility
 msgid  "Login Required"
@@ -1229,7 +1229,7 @@ msgid  "Select the latest firmware to have it loaded onto the device."
 msgstr "Sélectionnez le dernier firmware pour le charger dans le chipset."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "Sélectionnez les paramètres par défaut de votre mod. Il peut être rechargé en cliquant sur -Restaurer par défaut-"
+msgstr "Sélectionnez les paramètres par défaut de votre mod. Il peut être rechargé en cliquant sur -Restaurer par défaut-."
 
 msgid  "Functional Tests"
 msgstr "Tests fonctionnels"
@@ -1238,7 +1238,7 @@ msgid  "Fire Test"
 msgstr "Test de fire"
 
 msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
-msgstr "Assurez vous que le mod peut lire les ohms correctement. Mettez une coil résistif (pas TC)"
+msgstr "Assurez vous que le mod peut lire les ohms correctement. Mettez une coil résistif (pas TC)."
 
 msgid  "Fire Time:"
 msgstr "Durée de fire:"

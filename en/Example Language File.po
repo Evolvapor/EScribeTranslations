@@ -1332,9 +1332,26 @@ msgstr "are you sure you want to reset your statistics?"
 msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
 msgstr "are you sure you want to restore to manufacturer settings?\nany customizations you have made will be lost."
 
+msgid  "Load Profile..."
+msgstr "Load Profile..."
+
+msgid  "Save Profile..."
+msgstr "Save Profile..."
+
+msgid  "Copy Profile"
+msgstr "Copy Profile"
+
 #. Mod tab
 msgid  "Behavior"
 msgstr "behavior"
 
 msgid  "Manufacturer Settings"
 msgstr "manufacturer settings"
+
+#. click seven times on the logo in Help->About to show these in Tools
+msgid  "Edit Translations"
+msgstr "Edit Translations"
+
+msgid  "Test Translation"
+msgstr "Test Translation"
+

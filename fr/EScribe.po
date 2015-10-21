@@ -37,7 +37,7 @@ msgid  "&Redo"
 msgstr "&Refaire"
 
 msgid  "&Internet"
-msgstr "&internet"
+msgstr "&Internet"
 
 msgid  "&Log in..."
 msgstr "&Se connecter..."
@@ -248,7 +248,7 @@ msgid  "Off"
 msgstr "Off"
 
 msgid  "Ohms Locked"
-msgstr "ohms verrouillés"
+msgstr "Ohms verrouillés"
 
 msgid  "If you connect a temperature-sensing coil..."
 msgstr "Si vous connectez un coil à contrôle de température..."
@@ -290,10 +290,10 @@ msgid  "Custom Materials"
 msgstr "Fils personnalisés"
 
 msgid  "Load CSV..."
-msgstr "Charger un csv..."
+msgstr "Charger un CSV..."
 
 msgid  "Save CSV..."
-msgstr "Sauver en csv..."
+msgstr "Sauver en CSV..."
 
 msgid  "Label..."
 msgstr "Label..."
@@ -493,7 +493,7 @@ msgid  "Battery Charge %"
 msgstr "Charge de la batterie %"
 
 msgid  "Battery Charge Wh"
-msgstr "Charge de la batterie wh"
+msgstr "Charge de la batterie Wh"
 
 msgid  "USB Power"
 msgstr "Puissance USB"
@@ -864,7 +864,7 @@ msgid  "Set Power"
 msgstr "Configurer la puissance"
 
 msgid  "Power (W):"
-msgstr "Puissance (w):"
+msgstr "Puissance (W):"
 
 msgid  "Set &Temperature..."
 msgstr "Configurer la &température..."

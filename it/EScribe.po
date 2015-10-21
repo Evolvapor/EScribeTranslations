@@ -167,7 +167,7 @@ msgid  "Connect"
 msgstr "Connetti"
 
 msgid  "Device:"
-msgstr "dispositivo:"
+msgstr "Dispositivo:"
 
 msgid  "Rename..."
 msgstr "Rinomina..."
@@ -187,10 +187,10 @@ msgid "&Upload Settings to Device"
 msgstr "&Carica impostazioni sul dispositivo"
 
 msgid  "Device &Monitor"
-msgstr "&monitoraggio del dispositivo"
+msgstr "&Monitoraggio del dispositivo"
 
 msgid  "{0} connected on USB."
-msgstr "connessione usb con {0}."
+msgstr "Connessione USB con {0}."
 
 msgid  "Downloading Settings"
 msgstr "Scarica impostazioni"
@@ -290,10 +290,10 @@ msgid  "Custom Materials"
 msgstr "Materiali personalizzati"
 
 msgid  "Load CSV..."
-msgstr "Carica csv..."
+msgstr "Carica CSV..."
 
 msgid  "Save CSV..."
-msgstr "Salva csv..."
+msgstr "Salva CSV..."
 
 msgid  "Label..."
 msgstr "Etichetta..."
@@ -345,7 +345,7 @@ msgid  "Custom Screens"
 msgstr "Schermi personalizzati"
 
 msgid  "Screens are {0} pixels wide and {1} pixels tall."
-msgstr "Gli schermi sono da {0} pixel di larghezza e {1} pixel di altezza.	"
+msgstr "Gli schermi sono da {0} pixel di larghezza e {1} pixel di altezza."
 
 msgid  "Capture..."
 msgstr "Cattura..."
@@ -475,7 +475,7 @@ msgid  "Ohms"
 msgstr "Ohm"
 
 msgid  "Ohms (Standard)"
-msgstr "ohm (standard)"
+msgstr "Ohm (standard)"
 
 msgid  "Voltage"
 msgstr "Voltaggio"
@@ -490,7 +490,7 @@ msgid  "Temperature (Standard)"
 msgstr "Temperatura (standard)"
 
 msgid  "Battery Charge %"
-msgstr "carica della batteria %"
+msgstr "Carica della batteria %"
 
 msgid  "Battery Charge Wh"
 msgstr "Carica della batteria in Wh"
@@ -538,7 +538,7 @@ msgid  "Last Time"
 msgstr "Ultimo tempo"
 
 msgid  "Charging Field {0}:"
-msgstr "campo in ricarica {0}:"
+msgstr "Campo in ricarica {0}:"
 
 msgid  "Brightness"
 msgstr "Luminosità"
@@ -574,10 +574,10 @@ msgid  "Active Time:"
 msgstr "Tempo attivo:"
 
 msgid  "Idle Brightness:"
-msgstr "disattiva luminosità:"
+msgstr "Disattiva luminosità:"
 
 msgid  "Idle Time:"
-msgstr "disattiva tempo:"
+msgstr "Disattiva tempo:"
 
 msgid  "Charging Brightness:"
 msgstr "Luminosità di ricarica:"
@@ -590,7 +590,7 @@ msgstr "Spegnimento dissolvenza:"
 
 #. Mod tab
 msgid  "Mod"
-msgstr "dispositivo"
+msgstr "Dispositivo"
 
 msgid  "Battery"
 msgstr "Batteria"
@@ -641,13 +641,13 @@ msgid  "Electrical"
 msgstr "Elettrico"
 
 msgid  "Kanthal Power Limit:"
-msgstr "limite di potenza Kanthal:"
+msgstr "Limite di potenza Kanthal:"
 
 msgid  "Mod Resistance:"
 msgstr "Resistenza dispositivo:"
 
 msgid  "Ohm Lock Range: ±"
-msgstr "gamma di blocco Ohm: ±"
+msgstr "Gamma di blocco Ohm: ±"
 
 msgid  "Mechanical"
 msgstr "Meccanico"
@@ -684,7 +684,7 @@ msgid  "Plain Text Serial"
 msgstr "Formato testuale"
 
 msgid  "CSV (Excel)"
-msgstr "CSV (excel)"
+msgstr "CSV (Excel)"
 
 msgid  "Experimental Setup"
 msgstr "Setup sperimentale"
@@ -845,8 +845,8 @@ msgstr "Puf&f..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} SECONDO"
-msgstr[1]    "{0} SECONDI"
+msgstr[0]    "{0} secondo"
+msgstr[1]    "{0} secondi"
 
 msgid  "&Custom..."
 msgstr "Personali&zzato..."
@@ -995,7 +995,7 @@ msgstr "&Programmazione && Test"
 #. added in 2015-08-19
 #. messages
 msgid  "Invalid Value"
-msgstr "valore non valido"
+msgstr "Valore non valido"
 
 msgid  "Value must be a number."
 msgstr "Il valore deve essere un numero."

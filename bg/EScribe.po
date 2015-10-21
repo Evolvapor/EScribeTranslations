@@ -22,7 +22,7 @@ msgid "Bulgarian translation by Milen Cholashki https://smoking-maniac.com."
 
 #. standard
 msgid  "OK"
-msgstr "Оk"
+msgstr "ОK"
 
 msgid  "Cancel"
 msgstr "Отмяна"
@@ -864,8 +864,8 @@ msgstr "Дръп&ки..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} СЕКУНДА"
-msgstr[1]    "{0} СЕКУНДИ"
+msgstr[0]    "{0} секунда"
+msgstr[1]    "{0} секунди"
 
 msgid  "&Custom..."
 msgstr "&Потребителски..."

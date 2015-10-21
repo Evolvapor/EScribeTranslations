@@ -883,7 +883,7 @@ msgid  "Set Power"
 msgstr "Настройка мощност"
 
 msgid  "Power (W):"
-msgstr "Мощност (w):"
+msgstr "Мощност (W):"
 
 msgid  "Set &Temperature..."
 msgstr "Настройка &температура..."

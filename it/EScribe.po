@@ -1,4 +1,5 @@
-#. Translate by Maranto (RallyRace)
+msgid  "X-language translation by Y."
+msgstr "Italian translation by Maranto (RallyRace)."
 
 #. standard
 msgid  "OK"
@@ -166,7 +167,7 @@ msgid  "Connect"
 msgstr "Connetti"
 
 msgid  "Device:"
-msgstr "dispositivo:"
+msgstr "Dispositivo:"
 
 msgid  "Rename..."
 msgstr "Rinomina..."
@@ -186,10 +187,10 @@ msgid "&Upload Settings to Device"
 msgstr "&Carica impostazioni sul dispositivo"
 
 msgid  "Device &Monitor"
-msgstr "&monitoraggio del dispositivo"
+msgstr "&Monitoraggio del dispositivo"
 
 msgid  "{0} connected on USB."
-msgstr "connessione usb con {0}."
+msgstr "Connessione USB con {0}."
 
 msgid  "Downloading Settings"
 msgstr "Scarica impostazioni"
@@ -247,7 +248,7 @@ msgid  "Off"
 msgstr "Spento"
 
 msgid  "Ohms Locked"
-msgstr "Blocca ohm"
+msgstr "Blocca Ohm"
 
 msgid  "If you connect a temperature-sensing coil..."
 msgstr "Se si collega una coil per il controllo della temperatura..."
@@ -289,10 +290,10 @@ msgid  "Custom Materials"
 msgstr "Materiali personalizzati"
 
 msgid  "Load CSV..."
-msgstr "Carica csv..."
+msgstr "Carica CSV..."
 
 msgid  "Save CSV..."
-msgstr "Salva csv..."
+msgstr "Salva CSV..."
 
 msgid  "Label..."
 msgstr "Etichetta..."
@@ -344,7 +345,7 @@ msgid  "Custom Screens"
 msgstr "Schermi personalizzati"
 
 msgid  "Screens are {0} pixels wide and {1} pixels tall."
-msgstr "Gli schermi sono da {0} pixel di larghezza e {1} pixel di altezza.	"
+msgstr "Gli schermi sono da {0} pixel di larghezza e {1} pixel di altezza."
 
 msgid  "Capture..."
 msgstr "Cattura..."
@@ -474,7 +475,7 @@ msgid  "Ohms"
 msgstr "Ohm"
 
 msgid  "Ohms (Standard)"
-msgstr "ohm (standard)"
+msgstr "Ohm (standard)"
 
 msgid  "Voltage"
 msgstr "Voltaggio"
@@ -489,7 +490,7 @@ msgid  "Temperature (Standard)"
 msgstr "Temperatura (standard)"
 
 msgid  "Battery Charge %"
-msgstr "carica della batteria %"
+msgstr "Carica della batteria %"
 
 msgid  "Battery Charge Wh"
 msgstr "Carica della batteria in Wh"
@@ -537,7 +538,7 @@ msgid  "Last Time"
 msgstr "Ultimo tempo"
 
 msgid  "Charging Field {0}:"
-msgstr "campo in ricarica {0}:"
+msgstr "Campo in ricarica {0}:"
 
 msgid  "Brightness"
 msgstr "Luminosità"
@@ -573,10 +574,10 @@ msgid  "Active Time:"
 msgstr "Tempo attivo:"
 
 msgid  "Idle Brightness:"
-msgstr "disattiva luminosità:"
+msgstr "Disattiva luminosità:"
 
 msgid  "Idle Time:"
-msgstr "disattiva tempo:"
+msgstr "Disattiva tempo:"
 
 msgid  "Charging Brightness:"
 msgstr "Luminosità di ricarica:"
@@ -589,7 +590,7 @@ msgstr "Spegnimento dissolvenza:"
 
 #. Mod tab
 msgid  "Mod"
-msgstr "dispositivo"
+msgstr "Dispositivo"
 
 msgid  "Battery"
 msgstr "Batteria"
@@ -640,13 +641,13 @@ msgid  "Electrical"
 msgstr "Elettrico"
 
 msgid  "Kanthal Power Limit:"
-msgstr "limite di potenza Kanthal:"
+msgstr "Limite di potenza Kanthal:"
 
 msgid  "Mod Resistance:"
 msgstr "Resistenza dispositivo:"
 
 msgid  "Ohm Lock Range: ±"
-msgstr "gamma di blocco Ohm: ±"
+msgstr "Gamma di blocco Ohm: ±"
 
 msgid  "Mechanical"
 msgstr "Meccanico"
@@ -683,7 +684,7 @@ msgid  "Plain Text Serial"
 msgstr "Formato testuale"
 
 msgid  "CSV (Excel)"
-msgstr "CSV (excel)"
+msgstr "CSV (Excel)"
 
 msgid  "Experimental Setup"
 msgstr "Setup sperimentale"
@@ -844,8 +845,8 @@ msgstr "Puf&f..."
 
 msgid        "{0} second"
 msgid_plural "{0} seconds"
-msgstr[0]    "{0} SECONDO"
-msgstr[1]    "{0} SECONDI"
+msgstr[0]    "{0} secondo"
+msgstr[1]    "{0} secondi"
 
 msgid  "&Custom..."
 msgstr "Personali&zzato..."
@@ -994,7 +995,7 @@ msgstr "&Programmazione && Test"
 #. added in 2015-08-19
 #. messages
 msgid  "Invalid Value"
-msgstr "valore non valido"
+msgstr "Valore non valido"
 
 msgid  "Value must be a number."
 msgstr "Il valore deve essere un numero."
@@ -1035,16 +1036,16 @@ msgid  "You must be logged in to use the production utility."
 msgstr "Devi essere registrato per utilizzare l'utility di produzione."
 
 msgid  "Select the latest firmware to have it loaded onto the device."
-msgstr "selezionare l'ultima versione del firmware caricato sul dispositivo."
+msgstr "Selezionare l'ultima versione del firmware caricato sul dispositivo."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "selezionare il file impostazioni di default del dispositivo. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
+msgstr "Selezionare il file impostazioni di default del dispositivo. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
 
 msgid  "Functional Tests"
 msgstr "Test funzionali"
 
 msgid  "Fire Test"
-msgstr "Tes attivazione"
+msgstr "Test attivazione"
 
 msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
 msgstr "Controllare che il dispositivo si attivi e legga correttamente gli Ohm. Collegare una resistenza o una coil senza controllo temperatura"
@@ -1091,13 +1092,69 @@ msgstr "Azioni di produzione riuscite."
 #. added in 2015-08-21
 #. Theme tab
 msgid  "Hide Ohms on Custom"
-msgstr "Nascondere ohm in personalizzato"
+msgstr "Nascondere Ohm in personalizzato"
 
 msgid  "Show Ohms on Custom"
-msgstr "Visualizzare ohm in personalizzato"
+msgstr "Visualizzare Ohm in personalizzato"
 
 msgid  "New Coil"
 msgstr "Nuova Coil"
 
 msgid  "Old Coil"
-msgstr "Vecchia coil"
+msgstr "Vecchia Coil"
+
+#. added in 2015-09-30
+#. Theme tab
+msgid  "Look and Feel"
+msgstr "Aspetto e Comportamento"
+
+msgid  "Watts Press Increment:"
+msgstr "Incremento Watt alla pressione:"
+
+msgid  "Watts Hold Increment:"
+msgstr "Incremento Watt pressione prolungata:"
+
+#. added in 2015-10-20
+#. Connect errors
+msgid  "Nothing Connected"
+msgstr "Nessuna Connessione"
+
+msgid  "No compatible USB devices are connected."
+msgstr "Nessun dispositivo USB compatibile collegato."
+
+msgid  "To continue, please connect one."
+msgstr "Per continuare, collegarne uno."
+
+msgid  "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
+msgstr "Se è già connesso, si prega di scollegarlo e ricollegarlo. Il cavo potrebbe essere mal collegato."
+
+#. Device Monitor
+msgid  "Are you sure you want to reset your statistics?"
+msgstr "Sei sicuro di voler resettare le statistiche?"
+
+#. General tab
+msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
+msgstr "Sei sicuro di voler ripristinare le impostazioni del produttore?\nTutte le personalizzazioni apportate andranno perse."
+
+msgid  "Load Profile..."
+msgstr "Carica Profilo..."
+
+msgid  "Save Profile..."
+msgstr "Salva Profilo..."
+
+msgid  "Copy Profile"
+msgstr "Copia Profilo"
+
+#. Mod tab
+msgid  "Behavior"
+msgstr "Comportamento"
+
+msgid  "Manufacturer Settings"
+msgstr "Impostazioni del produttore"
+
+#. click seven times on the logo in Help->About to show these in Tools
+msgid  "Edit Translations"
+msgstr "Modifica traduzioni"
+
+msgid  "Test Translation"
+msgstr "Test traduzione"

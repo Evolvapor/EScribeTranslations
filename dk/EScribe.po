@@ -3,9 +3,10 @@
 #. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, zh-Hans\EScribe.po, zh-Hant\EScribe.po, or nb\EScribe.po.
 #. At this point this is only a partial list of translatable text.
 #. The default example just changes everything to lowercase.
+# Please notify me about any error translations i'll do my best to correct them quickly
 
-msgid  "X-language translation by Y."
-msgstr "lowercase translation by example."
+msgid  "X-language translation by ."
+msgstr "Danish translation by DjMadness."
 
 #. standard
 msgid  "OK"
@@ -1244,114 +1245,114 @@ msgid  "Fire Test"
 msgstr "affyr test"
 
 msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
-msgstr "checks that the device can fire and read ohms properly. attach a resistor or non-temperature coil."
+msgstr "Checker om enheden kan affyre og aflæse modstanden ordenligt. Påsæt en modstand eller et ikke temperatur følsom coil"
 
 msgid  "Fire Time:"
-msgstr "fire time:"
+msgstr "affyr tid:"
 
 msgid  "Fire Power:"
-msgstr "fire power:"
+msgstr "affyr effekt:"
 
 msgid  "Expected Cold Resistance:"
-msgstr "expected cold resistance:"
+msgstr "forventet kold modstand:"
 
 msgid  "Battery Test"
-msgstr "battery test"
+msgstr "batteri test"
 
 msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
-msgstr "makes sure the battery cells have reasonable voltages and can be charged."
+msgstr "sørger for at battericellerne har rimelige spændinger og kan oplades."
 
 msgid  "Minimum Cell Voltage:"
-msgstr "minimum cell voltage:"
+msgstr "minimum celle volt:"
 
 msgid  "Maximum Cell Imbalance:"
-msgstr "maximum cell imbalance:"
+msgstr "maximum celle imbalance:"
 
 msgid  "Wait for USB Current to Rise Above:"
-msgstr "wait for USB current to rise above:"
+msgstr "vente på USB strøm til at stige over:"
 
 msgid  "Production"
-msgstr "production"
+msgstr "produktion"
 
 msgid  "No actions."
-msgstr "no actions."
+msgstr "ingen handliner."
 
 msgid  "Fire test failed."
-msgstr "fire test failed."
+msgstr "affyr test fejlede."
 
 msgid  "Battery test failed."
-msgstr "battery test failed."
+msgstr "batteri test fejlede."
 
 msgid  "Production actions succeeded."
-msgstr "production actions succeeded."
+msgstr "produktions handlinger lykkedes."
 
 #. added in 2015-08-21
 #. Theme tab
 msgid  "Hide Ohms on Custom"
-msgstr "hide ohms on custom"
+msgstr "skjul ohm på brugerdifineret"
 
 msgid  "Show Ohms on Custom"
-msgstr "show ohms on custom"
+msgstr "vis ohm på brugerdifineret"
 
 msgid  "New Coil"
-msgstr "new coil"
+msgstr "ny coil"
 
 msgid  "Old Coil"
-msgstr "old coil"
+msgstr "gammel coil"
 
 #. added in 2015-09-30
 #. Theme tab
 msgid  "Look and Feel"
-msgstr "look and feel"
+msgstr "se og føle"
 
 msgid  "Watts Press Increment:"
-msgstr "watts press increment:"
+msgstr "watt tryk increment:"
 
 msgid  "Watts Hold Increment:"
-msgstr "watts hold increment:"
+msgstr "watt holde increment:"
 
 #. added in 2015-10-20
 #. Connect errors
 msgid  "Nothing Connected"
-msgstr "nothing connected"
+msgstr "Intet forbundet"
 
 msgid  "No compatible USB devices are connected."
-msgstr "no compatible USB devices are connected."
+msgstr "ingen kompatible USB-enheder er tilsluttet."
 
 msgid  "To continue, please connect one."
-msgstr "to continue, please connect one."
+msgstr "For at fortsætte, skal du tilslutte en."
 
 msgid  "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
-msgstr "if one already is connected, try unplugging and plugging it back in. the cable may be loose."
+msgstr "hvis en allerede er tilsluttet, skal du prøve at frakoble og tilslutte den igen. kablet kan være løst."
 
 #. Device Monitor
 msgid  "Are you sure you want to reset your statistics?"
-msgstr "are you sure you want to reset your statistics?"
+msgstr "er du sikker på du vil nulstille dine statistikker?"
 
 #. General tab
 msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
-msgstr "are you sure you want to restore to manufacturer settings?\nany customizations you have made will be lost."
+msgstr "Er du sikker på, du vil gendanne producentens indstillinger? \ Nalle tilpasninger, du har foretaget, vil blive tabt."
 
 msgid  "Load Profile..."
-msgstr "Load Profile..."
+msgstr "Indlæs Profil..."
 
 msgid  "Save Profile..."
-msgstr "Save Profile..."
+msgstr "Gem Profil..."
 
 msgid  "Copy Profile"
-msgstr "Copy Profile"
+msgstr "Kopiere Profil"
 
 #. Mod tab
 msgid  "Behavior"
-msgstr "behavior"
+msgstr "Opførsel"
 
 msgid  "Manufacturer Settings"
-msgstr "manufacturer settings"
+msgstr "Producentens indstillinger"
 
 #. click seven times on the logo in Help->About to show these in Tools
 msgid  "Edit Translations"
-msgstr "Edit Translations"
+msgstr "Redigere oversætninger"
 
 msgid  "Test Translation"
-msgstr "Test Translation"
+msgstr "Test oversætning"
 

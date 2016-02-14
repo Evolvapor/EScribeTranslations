@@ -148,7 +148,7 @@ msgid  "Bug Report"
 msgstr "fejl rapport"
 
 msgid  "E-mail Address (optional):"
-    msgstr "e-mail addresse (frivillig):"
+msgstr "e-mail addresse (frivillig):"
 
 msgid  "&Send"
 msgstr "&send"

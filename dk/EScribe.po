@@ -1014,35 +1014,35 @@ msgid  "Set USB Current Limit"
 msgstr "sæt USB belastning grænse"
 
 msgid  "Current (A):"
-msgstr "current (A):"
+msgstr "belastning (A):"
 
 msgid  "Temperature Monitoring Mode"
-msgstr "temperature monitoring mode"
+msgstr "temperatur overvågning"
 
 msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
-msgstr "in temperature monitoring mode, temperature will be displayed.\nit will not be limited in any way."
+msgstr "I tempertur overvågning vil temperatur blive vist.\nDet vil ikke blive begrænset på nogen måde."
 
 msgid  "Continue?"
-msgstr "continue?"
+msgstr "fortsæt?"
 
 #. added in 2015-08-07
 #. Theme tab
 msgid  "Capturing Screen"
-msgstr "capturing screen"
+msgstr "opfange skærm"
 
 #. added in 2015-08-07
 #. Atomizer Analyzer
 msgid  "Raw Ohms:"
-msgstr "raw ohms:"
+msgstr "rå ohm:"
 
 msgid  "Nominal Ohms:"
-msgstr "nominal ohms:"
+msgstr "nominel ohm:"
 
 msgid  "Cold Ohms:"
-msgstr "cold ohms:"
+msgstr "Kold ohm:"
 
 msgid  "Room Temp:"
-msgstr "room temp:"
+msgstr "Rum temp:"
 
 #. added in 2015-08-07
 #. Battery Analyzer
@@ -1053,195 +1053,195 @@ msgid  "&Stop"
 msgstr "&stop"
 
 msgid  "&Accept"
-msgstr "&accept"
+msgstr "&acceptere"
 
 #. added in 2015-08-07
 #. Watt-Hour Calculator
 msgid  "Battery Pack Voltage"
-msgstr "battery pack voltage"
+msgstr "batteri pakke volt"
 
 msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
-msgstr "do you know the total voltage of your battery pack?\nthis is typically printed on it."
+msgstr "Kender du den totale volt på dit batteri pakke ?\nDette er typisk skrevet på."
 
 msgid  "Calculate Watt-Hours"
-msgstr "calculate watt-hours"
+msgstr "Beregne watt-timer"
 
 msgid  "Battery Cell Capacity (mAh):"
-msgstr "battery cell capacity (mah):"
+msgstr "batteri celle kapicitet (mAh):"
 
 msgid  "Number of Battery Cells:"
-msgstr "number of battery cells:"
+msgstr "antal batteri celler:"
 
 msgid  "Nominal Cell Voltage:"
-msgstr "nominal cell voltage:"
+msgstr "nominel celle volt:"
 
 msgid  "Nominal Pack Voltage:"
-msgstr "nominal pack voltage:"
+msgstr "nominel pakke volt:"
 
 msgid  "Calculation Result"
-msgstr "calculation result"
+msgstr "Beregning resultat"
 
 msgid  "Your battery has a capacity of {0} watt-hours."
-msgstr "your battery has a capacity of {0} watt-hours."
+msgstr "Dit batteri har en kapicitet på {0} watt-timer."
 
 msgid  "Use this value?"
-msgstr "use this value?"
+msgstr "Brug dette?"
 
 #. added in 2015-08-07
 #. Research tab
 msgid  "Return To Researcher:"
-msgstr "return to researcher:"
+msgstr "tilbage til forsker:"
 
 msgid  "Enter Research Seal"
-msgstr "enter research seal"
+msgstr "indsæt forsker plombering"
 
 msgid  "Research seal is intact."
-msgstr "research seal is intact."
+msgstr "Plombering intakt"
 
 msgid  "Research seal does not match."
-msgstr "research seal does not match."
+msgstr "plombering passer ikke."
 
 msgid  "Reached the rate limit. Try again later."
-msgstr "reached the rate limit. Try again later."
+msgstr "Grænsen er nået. prøv igen senere"
 
 msgid  "Success"
-msgstr "success"
+msgstr "succes"
 
 msgid  "Research seal applied."
-msgstr "research seal applied."
+msgstr "plombering påsat."
 
 msgid  "Research seal broken."
-msgstr "research seal broken."
+msgstr "plombering brudt."
 
 msgid  "Statistics reset."
-msgstr "statistics reset."
+msgstr "statistikker nulstillet."
 
 msgid  "Error"
-msgstr "error"
+msgstr "Fejl"
 
 msgid  "A researcher has already applied a seal to this device."
-msgstr "a researcher has already applied a seal to this device."
+msgstr "En forsker har allerede påsat plombering på denne enhed."
 
 msgid  "This device has not been sealed for research."
-msgstr "this device has not been sealed for research."
+msgstr "Denne enhed har ikke plombering til forskning."
 
 #. added in 2015-08-07
 #. Tools->Show Serial Number
 msgid  "Serial Number"
-msgstr "serial number"
+msgstr "serie nummer"
 
 msgid  "Copy to Clipboard?"
-msgstr "copy to clipboard?"
+msgstr "Kopier til udklipsholder?"
 
 msgid  "Copied."
-msgstr "copied."
+msgstr "Kopieret."
 
 #. added in 2015-08-07
 #. Tools->Update Firmware
 msgid  "New firmware is available!"
-msgstr "new firmware is available!"
+msgstr "Nyt firmware tilgængelig!"
 
 msgid  "Click here to update your device to {0}."
-msgstr "click here to update your device to {0}."
+msgstr "Klik her for at opdatere dit enhed til {0}."
 
 msgid  "Please Wait"
-msgstr "please wait"
+msgstr "Vent venligst"
 
 msgid  "Updating Core Firmware"
-msgstr "updating core firmware"
+msgstr "opdaterer kerne firmware"
 
 msgid  "Updating Firmware"
-msgstr "updating firmware"
+msgstr "Opdaterer firmware"
 
 msgid  "New Firmware"
-msgstr "new firmware"
+msgstr "nyt firmware"
 
 msgid  "New firmware is going to be uploaded."
-msgstr "new firmware is going to be uploaded."
+msgstr "nyt firmware til at blive uploaded."
 
 msgid  "Before clicking OK, please make sure that the device is idle."
-msgstr "before clicking ok, please make sure that the device is idle."
+msgstr "før du fortsætter, sørg for at enheden ikke er i brug."
 
 msgid  "Firmware update complete."
-msgstr "firmware update complete."
+msgstr "firmware opdatering fuldført."
 
 #. added in 2015-08-07
 #. Tools->Production Utility
 msgid  "Production Utility"
-msgstr "production utility"
+msgstr "Produktion hjælpeprogram"
 
 msgid  "&Save..."
-msgstr "&save..."
+msgstr "&Gem..."
 
 msgid  "Browse..."
-msgstr "browse..."
+msgstr "gennemse..."
 
 msgid  "Model Name:"
-msgstr "model name:"
+msgstr "model navn:"
 
 msgid  "Firmware File:"
-msgstr "firmware file:"
+msgstr "firmware fil:"
 
 msgid  "Settings File:"
-msgstr "settings file:"
+msgstr "Indstilling fil:"
 
 msgid  "&Program && Test"
-msgstr "&program && test"
+msgstr "&programmere && test"
 
 #. added in 2015-08-19
 #. messages
 msgid  "Invalid Value"
-msgstr "invalid value"
+msgstr "ugyldig værdi"
 
 msgid  "Value must be a number."
-msgstr "value must be a number."
+msgstr "Skal være et nummer."
 
 #. Connect
 msgid  "Unable to open a connection.\nAnother program may be using the device."
-msgstr "unable to open a connection.\nanother program may be using the device."
+msgstr "kan ikke åbne en forbindelse.\n et andet program bruger måske enheden."
 
 #. Mod tab
 msgid "Case Cooling Time Constant:"
-msgstr "case cooling time constant:"
+msgstr "chassi kølings tid konstant:"
 
 msgid  "Case Heating Time Constant:"
-msgstr "case heating time constant:"
+msgstr "chassi opvarmings tid konstant:"
 
 msgid  "Case USB Charge Temperature Rise:"
-msgstr "case USB charge temperature rise:"
+msgstr "chassi USB belastning temperatur stigning:"
 
 msgid  "Minimum Ambient Temperature:"
-msgstr "minimum ambient temperature:"
+msgstr "minimum omgivelsestemperatur:"
 
 msgid  "Maximum Ambient Temperature:"
-msgstr "maximum ambient temperature:"
+msgstr "maximum omgivelsestemperatur:"
 
 #. Battery Analyzer
 msgid  "What power would you like to conduct the test at?"
-msgstr "what power would you like to conduct the test at?"
+msgstr "Hvilken effekt vil du udføre testen med?"
 
 #. Case Analyzer
 msgid  "What is the room temperature (Â°F)?"
-msgstr "what is the room temperature (Â°F)?"
+msgstr "Hvad er rum temperaturen (Â°F)?"
 
 #. Production Utility
 msgid  "Login Required"
-msgstr "login required"
+msgstr "login krævet"
 
 msgid  "You must be logged in to use the production utility."
-msgstr "you must be logged in to use the production utility."
+msgstr "Du skal være logget ind for at bruge produktion hjælpeprogrammet"
 
 msgid  "Select the latest firmware to have it loaded onto the device."
-msgstr "select the latest firmware to have it loaded onto the device."
+msgstr "Vælg nyeste firmware for at indlæse det på enheden."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "select your mod's default settings file. it can be reloaded by clicking restore defaults."
+msgstr "Vælg dit mods standard indstillings fil. Det kan genetableres ved at trykke genindstil standarder."
 
 msgid  "Functional Tests"
-msgstr "functional tests"
+msgstr "functionel test"
 
 msgid  "Fire Test"
-msgstr "fire test"
+msgstr "affyr test"
 
 msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
 msgstr "checks that the device can fire and read ohms properly. attach a resistor or non-temperature coil."

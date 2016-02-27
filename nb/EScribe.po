@@ -1292,3 +1292,59 @@ msgstr "Ny spole"
 
 msgid  "Old Coil"
 msgstr "Gammel spole"
+
+#. added in 2015-09-30
+#. Theme tab
+msgid  "Look and Feel"
+msgstr "Utseende og virkemåte"
+
+msgid  "Watts Press Increment:"
+msgstr "Intervall ved trykk på Watt:"
+
+msgid  "Watts Hold Increment:"
+msgstr "Intervall når Watt holdes inne:"
+
+#. added in 2015-10-20
+#. Connect errors
+msgid  "Nothing Connected"
+msgstr "Ingenting tilkoblet"
+
+msgid  "No compatible USB devices are connected."
+msgstr "Ingen kompatible USB-enheter ble funnet."
+
+msgid  "To continue, please connect one."
+msgstr "For å fortsette, vennligst koble en til."
+
+msgid  "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
+msgstr "Hvis en enhet allerede er tilkoblet, prøv å trekke den ut og plugg den inn igjen. Kabelen kan være løs."
+
+#. Device Monitor
+msgid  "Are you sure you want to reset your statistics?"
+msgstr "Er du sikker på at du vil nullstille statistikken din?"
+
+#. General tab
+msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
+msgstr "Er du sikker på at du vil gjenopprette fabrikkinnstillinger?\Alle tilpasninger du har gjort vil gå tapt."
+
+msgid  "Load Profile..."
+msgstr "Last profil..."
+
+msgid  "Save Profile..."
+msgstr "Lagre profil..."
+
+msgid  "Copy Profile"
+msgstr "Kopier profil"
+
+#. Mod tab
+msgid  "Behavior"
+msgstr "Oppførsel"
+
+msgid  "Manufacturer Settings"
+msgstr "Fabrikkinnstillinger"
+
+#. click seven times on the logo in Help->About to show these in Tools
+msgid  "Edit Translations"
+msgstr "Rediger oversettelser"
+
+msgid  "Test Translation"
+msgstr "Test oversettelse"

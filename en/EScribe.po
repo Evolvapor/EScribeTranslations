@@ -12,6 +12,10 @@ msgid   "bg"
 msgstr  "Bulgarian"
 
 msgctxt "English Language Code"
+msgid   "de"
+msgstr  "German"
+
+msgctxt "English Language Code"
 msgid   "en"
 msgstr  "English"
 
@@ -34,6 +38,10 @@ msgstr  "Norwegian"
 msgctxt "English Language Code"
 msgid   "nl"
 msgstr  "Dutch"
+
+msgctxt "English Language Code"
+msgid   "pl"
+msgstr  "Polish"
 
 msgctxt "English Language Code"
 msgid   "ru"

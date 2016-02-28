@@ -170,7 +170,7 @@ msgid  "Connect"
 msgstr "Conectar"
 
 msgid  "Device:"
-msgstr "dispositivo:"
+msgstr "Dispositivo:"
 
 msgid  "Rename..."
 msgstr "Renombra..."
@@ -332,7 +332,7 @@ msgid  "{0} can be used to analyze your atomizer's resistance stability."
 msgstr "Puede utilizar {0} pare analizar la estabilidad de la resistencia en el'atomizador."
 
 #. Theme tab
-msgid "Theme"
+msgid  "Theme"
 msgstr "Tema"
 
 msgid  "Load Theme..."
@@ -1039,10 +1039,10 @@ msgid  "You must be logged in to use the production utility."
 msgstr "Devi essere registrato per utilizzare l'utility di produzione."
 
 msgid  "Select the latest firmware to have it loaded onto the device."
-msgstr "selezionare l'ultima versione del firmware caricato sul dispositivo."
+msgstr "Selezionare l'ultima versione del firmware caricato sul dispositivo."
 
 msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
-msgstr "selezionare il file impostazioni di default del dispositivo. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
+msgstr "Selezionare il file impostazioni di default del dispositivo. Potrai ricaricarlo facendo clic su: Ripristina impostazioni predefinite."
 
 msgid  "Functional Tests"
 msgstr "Test funzionali"

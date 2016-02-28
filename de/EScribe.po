@@ -1,8 +1,5 @@
-﻿msgid  "X-language translation by Y."
+msgid  "X-language translation by Y."
 msgstr "German translation by GERMAN DNA200 CREW."
-
-
-
 
 #. standard
 msgid  "OK"
@@ -106,7 +103,7 @@ msgid  "&Production Utility"
 msgstr "&Produktions Hilfsmittel"
 
 msgid  "Serial &Terminal"
-msgstr "Eingabe&Terminal"
+msgstr "Eingabe &Terminal"
 
 msgid  "Serial Terminal"
 msgstr "Eingabe Terminal"
@@ -171,7 +168,7 @@ msgstr "&Über {0}"
 
 
 msgid  "About {0}"
-msgstr "by GERMAN DNA200 CREW"
+msgstr "Über {0}"
 
 #. Connect dialog
 msgid  "Connect"
@@ -682,7 +679,7 @@ msgid  "Case Analyzer"
 msgstr "Gehäuseanalyse"
 
 msgid  "{0} can be used to analyze your case's thermal properties."
-msgstr "kann genutzt werden um die thermischen Eigenschaften des Gehäuses zu analysieren."
+msgstr "Kann genutzt werden um die thermischen Eigenschaften des Gehäuses zu analysieren."
 
 #. Research tab
 msgid  "Research"
@@ -692,15 +689,15 @@ msgid  "Data Acquisition"
 msgstr "Daten Sammlung"
 
 msgid  "Serial Output Format:"
-msgstr "Seriennummer Ausgabe Format:"
+msgstr "Serielles Ausgabeformat:"
 
 msgid  "Plain Text Serial"
-msgstr "Seriennummer im Klartext"
+msgstr "Serielles Format"
 
 msgid  "CSV (Excel)"
 msgstr "CSV-Tabelle (Excel)"
 
-msgid  "Experimental Setup"
+msgid  "Experimental Setup" 
 msgstr "Experimentelle Einstellung"
 
 msgid  "Coil Resistance:"
@@ -946,7 +943,7 @@ msgid  "Buttons: {0}"
 msgstr "Taster: {0}"
 
 msgid  "None"
-msgstr "keine"
+msgstr "Keine"
 
 msgid  "Fire"
 msgstr "Feuer"
@@ -1396,7 +1393,7 @@ msgid  "Available Materials"
 msgstr "Vorhandene Drähte"
 
 msgid  "Temperature-Dominant"
-msgstr "Große Temperaturanzeige"
+msgstr "Grad in groß anzeigen"
 
 msgid  "Material In Use"
 msgstr  "Draht in Benutzung"
@@ -1405,7 +1402,8 @@ msgid  "Temperature Increment:"
 msgstr "Temperatur Abstufungen:"
 
 msgid  "That material cannot be removed because it is being used by a profile."
-msgstr "Dieser Draht kann nicht verschoben werden weil es in einem Profil genutzt wird
+msgstr "Dieser Draht kann nicht verschoben werden weil es in einem Profil genutzt wird."
+
 #. Materials tab - Drähte auf dem DNA
 #. popup screen - Moving materials between repository and device
 
@@ -1421,3 +1419,27 @@ msgstr "Maximaler Dauer Strom:"
 msgid  "Max Pulse Current:"
 msgstr "Maximaler gepulster Strom:"
 
+msgid  "Language"
+msgstr "Sprache"
+
+#. General tab
+msgid  "Running"
+msgstr  "Im Betrieb"
+
+msgid  "Charging"
+msgstr  "Akku Lademodus"
+
+msgid  "Charging brightness is very low."
+msgstr  "Lademodus hat niedrige Helligkeit."
+
+msgid  "Do not change brightness."
+msgstr "Veränder nicht die Helligkeit."
+
+msgid  "Activate the screen."
+msgstr "Aktiviere den Bildschirm."
+
+msgid  "Turn the screen off."
+msgstr "Schalte Bildschirm aus."
+
+msgid  "Do not change the screen."
+msgstr "Bildschim nicht verändern."

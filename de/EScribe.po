@@ -3,7 +3,7 @@ msgstr "German translation by GERMAN DNA200 CREW."
 
 #. standard
 msgid  "OK"
-msgstr "Ok"
+msgstr "OK"
 
 msgid  "Cancel"
 msgstr "Abbrechen"

@@ -1413,14 +1413,14 @@ msgstr "Der Draht ist schon in EScribe."
 msgid "That material is already on the device."
 msgstr "Der Draht ist schon auf dem DNA." 
 
-msgid  "Max Continuous Current:"
+msgid  "Max Continuous Input Current:"
 msgstr "Maximaler Dauer Strom:"
 
-msgid  "Max Pulse Current:"
+msgid  "Max Pulse Input Current:"
 msgstr "Maximaler gepulster Strom:"
 
-msgid  "Language"
-msgstr "Sprache"
+msgid  "&Language"
+msgstr "Sp&rache"
 
 #. General tab
 msgid  "Running"

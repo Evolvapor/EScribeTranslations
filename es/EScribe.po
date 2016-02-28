@@ -12,8 +12,11 @@ msgstr "Cancela"
 msgid  "&File"
 msgstr "&Fichero"
 
-msgid  "&New (Reset to Evolv Standard)"
-msgstr "&Nuevo (Reinicia al estandar Evolv)"
+msgid  "&New"
+msgstr "&Nuevo"
+
+msgid  "&New (Reset to {0} Standard)"
+msgstr "&Nuevo (Reinicia al estandar {0})"
 
 msgid  "&Open..."
 msgstr "&Abrir..."

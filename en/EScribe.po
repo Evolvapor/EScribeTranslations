@@ -1,2 +1,48 @@
 msgid  "X-language translation by Y."
 msgstr "English version."
+
+msgid  "&Soft Reboot..."
+msgstr "&Soft Reboot (Preserve Settings)..."
+
+msgid  "&Hard Reboot..."
+msgstr "&Hard Reboot (Revert Settings)..."
+
+msgctxt "English Language Code"
+msgid   "bg"
+msgstr  "Bulgarian"
+
+msgctxt "English Language Code"
+msgid   "en"
+msgstr  "English"
+
+msgctxt "English Language Code"
+msgid   "es"
+msgstr  "Spanish"
+
+msgctxt "English Language Code"
+msgid   "fr"
+msgstr  "French"
+
+msgctxt "English Language Code"
+msgid   "it"
+msgstr  "Italian"
+
+msgctxt "English Language Code"
+msgid   "nb"
+msgstr  "Norwegian"
+
+msgctxt "English Language Code"
+msgid   "nl"
+msgstr  "Dutch"
+
+msgctxt "English Language Code"
+msgid   "ru"
+msgstr  "Russian"
+
+msgctxt "English Language Code"
+msgid   "zh-Hans"
+msgstr  "Simplified Chinese"
+
+msgctxt "English Language Code"
+msgid   "zh-Hant"
+msgstr  "Traditional Chinese"

@@ -184,13 +184,13 @@ msgstr "Nuevo nombre:"
 
 #. toolbar
 msgid  "Connect and &Download Settings"
-msgstr "Conecta y &Descarga configuracion"
+msgstr "Conecta y &descarga configuracion"
 
 msgid "&Upload Settings to Device"
 msgstr "&Subir configuracion al dispositivo"
 
 msgid  "Device &Monitor"
-msgstr "&monitorear el dispositivo"
+msgstr "&Monitorear el dispositivo"
 
 msgid  "{0} connected on USB."
 msgstr "conectado el usb {0}."
@@ -593,7 +593,7 @@ msgstr "Spegnimento dissolvenza:"
 
 #. Mod tab
 msgid  "Mod"
-msgstr "dispositivo"
+msgstr "Dispositivo"
 
 msgid  "Battery"
 msgstr "Batteria"
@@ -602,7 +602,7 @@ msgid  "Type:"
 msgstr "Tipo:"
 
 msgid  "Lithium Polymer"
-msgstr "polimeri di litio"
+msgstr "Polímero de Litio"
 
 msgid  "LiFePO4"
 msgstr "LiFePO4"

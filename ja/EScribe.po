@@ -1,0 +1,1511 @@
+#. Copy this over (with your changes) to EScribe.po and restart EScribe for the changes to take effect.
+#. Make sure you keep your original, as new versions of EScribe overwrite en\EScribe.po.
+#. You can also use a language code other than en, for example de\EScribe.po, en-US\EScribe.po, zh-Hans\EScribe.po, zh-Hant\EScribe.po, or nb\EScribe.po.
+#. At this point this is only a partial list of translatable text.
+#. The default example just changes everything to lowercase.
+#. ファイル属性：UTF-8 / CRLF / EScribe 1.0.42対応
+#. Ver.160308 By SATO Keiichi. [eucalyptus.] ecig.eucaly.net
+
+msgid  "X-language translation by Y."
+msgstr "ja-jp translation by eucalyptus. ecig.eucaly.net"
+
+#. standard
+msgid  "OK"
+msgstr "OK"
+
+msgid  "Cancel"
+msgstr "キャンセル"
+
+#. menus
+msgid  "&File"
+msgstr "ファイル"
+
+msgid  "&New (Reset to {0} Standard)"
+msgstr "新規作成 (初期化)"
+
+msgid  "&Open..."
+msgstr "開く..."
+
+msgid  "&Save"
+msgstr "保存"
+
+msgid  "Save &As..."
+msgstr "上書き保存..."
+
+msgid  "E&xit"
+msgstr "終了"
+
+msgid  "&Edit"
+msgstr "編集"
+
+msgid  "&Undo"
+msgstr "やり直し"
+
+msgid  "&Redo"
+msgstr "やり直しのやり直し"
+
+msgid  "&Internet"
+msgstr "インターネット"
+
+msgid  "&Log in..."
+msgstr "ログイン..."
+
+msgid  "E-mail:"
+msgstr "e-mail:"
+
+msgid  "Password:"
+msgstr "password:"
+
+msgid  "My Account"
+msgstr "マイアカウント"
+
+msgid  "Register"
+msgstr "登録"
+
+msgid  "Login"
+msgstr "ログイン"
+
+msgid  "Log &out"
+msgstr "ログアウト"
+
+msgid  "&Options"
+msgstr "オプション"
+
+msgid  "Automatically Check for &Updates"
+msgstr "更新を自動的に確認"
+
+msgid  "Clear Recent Files List"
+msgstr "最近使ったファイルリストを消去"
+
+msgid  "&Connect..."
+msgstr "デバイスへ接続..."
+
+msgid  "Dis&connect"
+msgstr "デバイス切断"
+
+msgid  "&Tools"
+msgstr "ツール"
+
+msgid  "&Calculator"
+msgstr "計算機"
+
+msgid  "Calculator"
+msgstr "計算機"
+
+msgid  "Results"
+msgstr "応答"
+
+msgid  "Equation"
+msgstr "計算式"
+
+msgid  "Calculate"
+msgstr "計算"
+
+msgid  "&Production Utility"
+msgstr "プロダクションユーティリティ"
+
+msgid  "Serial &Terminal"
+msgstr "シリアルターミナル"
+
+msgid  "Serial Terminal"
+msgstr "シリアルターミナル"
+
+msgid  "Data"
+msgstr "データ"
+
+msgid  "Command"
+msgstr "コマンド"
+
+msgid  "System &Information"
+msgstr "システム情報"
+
+msgid  "&Reboot Device"
+msgstr "デバイスの再起動"
+
+msgid  "&Soft Reboot..."
+msgstr "ソフトリブート(設定維持)..."
+
+msgid  "&Hard Reboot..."
+msgstr "ハードリブート(設定初期化)..."
+
+msgid  "Show Serial &Number..."
+msgstr "シリアルナンバー表示..."
+
+msgid  "Update &Firmware..."
+msgstr "ファームウェアアップデート..."
+
+msgid  "&Help"
+msgstr "ヘルプ"
+
+msgid  "&Website"
+msgstr "ウェブサイト"
+
+msgid  "&Help Desk"
+msgstr "ヘルプデスク"
+
+msgid  "Report a &Bug"
+msgstr "不具合の報告"
+
+msgid  "Bug Report"
+msgstr "バグレポート"
+
+msgid  "E-mail Address (optional):"
+msgstr "e-mail アドレス (オプション):"
+
+msgid  "&Send"
+msgstr "送信"
+
+msgid  "Send &Feedback"
+msgstr "フィードバックの送信"
+
+msgid  "Feedback Form"
+msgstr "フィードバックフォーム"
+
+msgid  "U.S. &Patents"
+msgstr "米国特許"
+
+msgid  "&About {0}"
+msgstr "{0} について"
+
+msgid  "About {0}"
+msgstr "{0} について"
+
+#. Connect dialog
+msgid  "Connect"
+msgstr "接続"
+
+msgid  "Device:"
+msgstr "デバイス:"
+
+msgid  "Rename..."
+msgstr "名称変更..."
+
+#. Connect dialog Rename Device
+msgid  "Rename Device"
+msgstr "デバイス名称変更"
+
+msgid  "New Name:"
+msgstr "新規名称:"
+
+#. toolbar
+msgid  "Connect and &Download Settings"
+msgstr "接続＆設定ダウンロード"
+
+msgid "&Upload Settings to Device"
+msgstr "デバイスへ設定を適用"
+
+msgid  "Device &Monitor"
+msgstr "デバイスモニター"
+
+msgid  "{0} connected on USB."
+msgstr "{0} USBで接続中"
+
+msgid  "Downloading Settings"
+msgstr "設定をダウンロードしています"
+
+msgid  "Uploading Settings"
+msgstr "設定をアップロードしています"
+
+msgid  "Verifying Settings"
+msgstr "設定を検証しています"
+
+#. General tab
+msgid  "General"
+msgstr "一般"
+
+msgid  "My DNA"
+msgstr "my DNA"
+
+msgid  "Manufacturer:"
+msgstr "製造業者:"
+
+msgid  "Model:"
+msgstr "モデル:"
+
+msgid  "History:"
+msgstr "履歴:"
+
+msgid  "Get Information"
+msgstr "情報の取得"
+
+msgid  "{0} can get information online about your mod."
+msgstr "オンラインで、この基板の情報を照会、取得します"
+
+msgid  "Restore Defaults"
+msgstr "標準設定を復元"
+
+msgid  "Profile {0}"
+msgstr "プロファイル {0}"
+
+msgid  "Name:"
+msgstr "名称:"
+
+msgid  "Custom Screen:"
+msgstr "カスタムスクリーン:"
+
+msgid  "Settings"
+msgstr "設定"
+
+msgid  "Power:"
+msgstr "電力:"
+
+msgid  "Temperature:"
+msgstr "温度:"
+
+msgid  "Off"
+msgstr "オフ"
+
+msgid  "Ohms Locked"
+msgstr "抵抗値ロック"
+
+msgid  "If you connect a temperature-sensing coil..."
+msgstr "温度管理対応コイル設定"
+
+msgid  "Coil Material:"
+msgstr "コイルの材質:"
+
+msgid  "Nickel 200"
+msgstr "nickel 200"
+
+msgid  "Custom"
+msgstr "独自設定"
+
+msgid  "Material Profile:"
+msgstr "材質プロファイル:"
+
+msgid  "Move/Resize"
+msgstr "移動/サイズ変更"
+
+msgid  "Split"
+msgstr "分割"
+
+msgid  "Delete"
+msgstr "削除"
+
+msgid  "Set X"
+msgstr "Ｘ軸設定"
+
+msgid  "X value:"
+msgstr "Ｘ軸の値:"
+
+msgid  "Set Y"
+msgstr "Ｙ軸設定"
+
+msgid  "Y value:"
+msgstr "Ｙ軸の値:"
+
+msgid  "Custom Materials"
+msgstr "独自素材の定義"
+
+msgid  "Load CSV..."
+msgstr "CSV読込..."
+
+msgid  "Save CSV..."
+msgstr "CSV保存..."
+
+msgid  "Label..."
+msgstr "ラベル..."
+
+msgid  "Special"
+msgstr "スペシャル"
+
+msgid  "Reduce Number of Points..."
+msgstr "ポイントの削除..."
+
+msgid  "Temperature Coefficient of Resistance (Approximation)..."
+msgstr "抵抗の温度係数/TCR (近似値)..."
+
+msgid  "Preheat Power:"
+msgstr "予熱電力:"
+
+msgid  "Preheat Punch:"
+msgstr "予熱強度:"
+
+msgid  "Soft"
+msgstr "弱め"
+
+msgid  "Hard"
+msgstr "強め"
+
+msgid  "Preheat Time Limit:"
+msgstr "予熱時間制限:"
+
+msgid  "Atomizer Analyzer"
+msgstr "アトマイザアナライザ"
+
+msgid  "{0} can be used to analyze your atomizer's resistance stability."
+msgstr "アトマイザ抵抗値の安定性を分析します"
+
+#. Theme tab
+msgid "Theme"
+msgstr "テーマ"
+
+msgid  "Load Theme..."
+msgstr "テーマの読込..."
+
+msgid  "Save Theme..."
+msgstr "テーマの保存..."
+
+msgid  "Default Theme"
+msgstr "標準テーマ"
+
+msgid  "Custom Screens"
+msgstr "カスタムテーマ"
+
+msgid  "Screens are {0} pixels wide and {1} pixels tall."
+msgstr "画像サイズは、横 {0} ピクセル、縦 {1} ピクセルです"
+
+msgid  "Capture..."
+msgstr "キャプチャ..."
+
+msgid  "Load..."
+msgstr "読込..."
+
+msgid  "Save..."
+msgstr "保存..."
+
+msgid  "Default"
+msgstr "デフォルト"
+
+msgid  "Welcome (Primary):"
+msgstr "ようこそ (メイン):"
+
+msgid  "Welcome (Secondary):"
+msgstr "ようこそ (サブ):"
+
+msgid  "Normal Mode:"
+msgstr "ノーマルモード:"
+
+msgid  "Stealth Mode:"
+msgstr "ステルスモード:"
+
+msgid  "New Coil Yes/No:"
+msgstr "新規コイル？ y/n:"
+
+msgid  "Hold To Lock Ohms:"
+msgstr "長押し抵抗値ロック:"
+
+msgid  "Hold To Unlock Ohms:"
+msgstr "長押し抵抗値ロック解除:"
+
+msgid  "Power Locked Hold Up Down:"
+msgstr "上下ボタン長押し電力ロック:"
+
+msgid  "Locked Click 5X:"
+msgstr "操作ロック及び解除:"
+
+msgid  "Hold To Change Temp:"
+msgstr "長押し温度調整:"
+
+msgid  "Kanthal Max Power:"
+msgstr "カンタル出力上限:"
+
+msgid  "Show Message"
+msgstr "表示"
+
+msgid  "Don't Show"
+msgstr "非表示"
+
+msgid  "Temperature Protected:"
+msgstr "温度保護:"
+
+msgid  "Show Temperature"
+msgstr "温度表示"
+
+msgid  "Too Hot:"
+msgstr "基板温度上昇:"
+
+msgid  "Shorted:"
+msgstr "アトマショート:"
+
+msgid  "Check Atomizer:"
+msgstr "アトマ確認:"
+
+msgid  "Ohms Too Low:"
+msgstr "抵抗値下限:"
+
+msgid  "Ohms Too High:"
+msgstr "抵抗値上限:"
+
+msgid  "Check Battery:"
+msgstr "バッテリー確認:"
+
+msgid  "Weak Battery:"
+msgstr "バッテリー残量低下:"
+
+msgid  "Imbalanced Battery:"
+msgstr "バッテリーアンバランス:"
+
+#. Screen tab
+msgid  "Screen"
+msgstr "画面"
+
+msgid  "Display"
+msgstr "表示設定"
+
+msgid  "Orientation:"
+msgstr "画面回転:"
+
+msgid  "Left"
+msgstr "左"
+
+msgid  "Right"
+msgstr "右"
+
+msgid  "Battery Meter:"
+msgstr "バッテリーメータ:"
+
+msgid  "On Default Screens"
+msgstr "標準画面"
+
+msgid  "On Main Screen Only"
+msgstr "メイン画面のみ"
+
+msgid  "On All Screens"
+msgstr "全ての画面"
+
+msgid  "Error Flashes:"
+msgstr "エラー時点滅:"
+
+msgid  "{0:0.0} s error, {1:0.0} s status"
+msgstr "{0:0.0} 秒エラー, {1:0.0} 秒点滅"
+
+msgid  "Show error only."
+msgstr "エラー表示のみ."
+
+msgid  "Fields"
+msgstr "フィールド"
+
+msgid  "Default Field {0}:"
+msgstr "標準フィールド {0}:"
+
+msgid  "Ohms"
+msgstr "抵抗値"
+
+msgid  "Ohms (Standard)"
+msgstr "抵抗値 (標準)"
+
+msgid  "Voltage"
+msgstr "電圧"
+
+msgid  "Voltage (Standard)"
+msgstr "電圧 (標準)"
+
+msgid  "Temperature"
+msgstr "温度"
+
+msgid  "Temperature (Standard)"
+msgstr "温度 (標準)"
+
+msgid  "Battery Charge %"
+msgstr "バッテリー充電量 %"
+
+msgid  "Battery Charge Wh"
+msgstr "バッテリー充電量 Wh"
+
+msgid  "USB Power"
+msgstr "USB 電力"
+
+msgid  "USB Current"
+msgstr "USB 電流"
+
+msgid  "USB Current (Standard)"
+msgstr "USB 電流 (標準)"
+
+msgid  "USB Voltage"
+msgstr "USB 電圧"
+
+msgid  "Battery Pack"
+msgstr "バッテリーパック"
+
+msgid  "Battery Cell {0}"
+msgstr "バッテリーセル {0}"
+
+msgid  "Current"
+msgstr "電流"
+
+msgid  "Board Temperature"
+msgstr "基板温度"
+
+msgid  "Room Temperature"
+msgstr "外気温度"
+
+msgid  "Puff Count"
+msgstr "パフカウント"
+
+msgid  "Last Energy"
+msgstr "前回のエネルギー"
+
+msgid  "Last Power"
+msgstr "前回の電力"
+
+msgid  "Last Temperature"
+msgstr "前回の温度"
+
+msgid  "Last Time"
+msgstr "前回のパフ時間"
+
+msgid  "Charging Field {0}:"
+msgstr "充電時フィールド {0}:"
+
+msgid  "Brightness"
+msgstr "輝度設定"
+
+msgid  "Firing Brightness:"
+msgstr "開始時輝度:"
+
+msgid  "Fade to..."
+msgstr "徐々に変化"
+
+msgid  "Set to..."
+msgstr "即時変化"
+
+msgid  "Temporarily set to..."
+msgstr "一時変化"
+
+msgid  "Do not change."
+msgstr "変化無効"
+
+msgid  "Screen active after puff."
+msgstr "パフ後スクリーン表示."
+
+msgid  "Screen off after puff."
+msgstr "パフ後スクリーン非表示."
+
+msgid  "No effect on idle state."
+msgstr "待機時表示抑制."
+
+msgid  "Active Brightness:"
+msgstr "動作時輝度:"
+
+msgid  "Active Time:"
+msgstr "動作時間:"
+
+msgid  "Idle Brightness:"
+msgstr "待機時輝度:"
+
+msgid  "Idle Time:"
+msgstr "待機時間:"
+
+msgid  "Charging Brightness:"
+msgstr "充電時輝度:"
+
+msgid  "Fade-in Time:"
+msgstr "フェードイン時間:"
+
+msgid  "Fade-out Time:"
+msgstr "フェードアウト時間:"
+
+#. Mod tab
+msgid  "Mod"
+msgstr "ＭＯＤ"
+
+msgid  "Battery"
+msgstr "バッテリー"
+
+msgid  "Type:"
+msgstr "種類:"
+
+msgid  "Lithium Polymer"
+msgstr "リチウムポリマー (Li-Po)"
+
+msgid  "LiFePO4"
+msgstr "リン酸鉄リチウムイオン (LiFePO4)"
+
+msgid  "Power Supply"
+msgstr "電源に接続"
+
+msgid  "Capacity:"
+msgstr "容量:"
+
+msgid  "{0}-cell"
+msgstr "{0}-セル"
+
+msgid  "Watt-Hour Calculator"
+msgstr "容量-時間 計算機"
+
+msgid  "Cell Soft Cutoff:"
+msgstr "セルソフトカットオフ:"
+
+msgid  "Charging Mode:"
+msgstr "充電モード:"
+
+msgid  "Maximize Puffs"
+msgstr "最大充電"
+
+msgid  "Maximize Recharges"
+msgstr "バッテリーいたわり充電"
+
+msgid  "Discharge Profile:"
+msgstr "放電プロファイル:"
+
+msgid  "Battery Analyzer"
+msgstr "バッテリーアナライザ"
+
+msgid  "{0} can be used to analyze your battery's capacity and discharge profile."
+msgstr "バッテリー容量と放電曲線を分析します"
+
+msgid  "Electrical"
+msgstr "電気設定"
+
+msgid  "Kanthal Power Limit:"
+msgstr "カンタル出力上限:"
+
+msgid  "Mod Resistance:"
+msgstr "ＭＯＤ 抵抗値:"
+
+msgid  "Ohm Lock Range: ±"
+msgstr "抵抗値ロック範囲: ±"
+
+msgid  "Mechanical"
+msgstr "メカ設定"
+
+msgid  "Up/Down Buttons:"
+msgstr "上下ボタン:"
+
+msgid  "Normal"
+msgstr "通常"
+
+msgid  "Swapped"
+msgstr "反転"
+
+msgid  "Thermal"
+msgstr "温度設定"
+
+msgid  "Case Analyzer"
+msgstr "ケースアナライザ"
+
+msgid  "{0} can be used to analyze your case's thermal properties."
+msgstr "MODケースの設定を分析します"
+
+#. Research tab
+msgid  "Research"
+msgstr "開発"
+
+msgid  "Data Acquisition"
+msgstr "データ取得設定"
+
+msgid  "Serial Output Format:"
+msgstr "シリアル出力フォーマット:"
+
+msgid  "Plain Text Serial"
+msgstr "プレーンテキスト"
+
+msgid  "CSV (Excel)"
+msgstr "CSV (Excel)"
+
+msgid  "Experimental Setup"
+msgstr "実験的設定"
+
+msgid  "Coil Resistance:"
+msgstr "コイル抵抗値:"
+
+msgid  "Automatic"
+msgstr "自動"
+
+msgid  "Locked"
+msgstr "ロック"
+
+msgid  "Temperature Limit:"
+msgstr "温度リミット:"
+
+msgid  "Configurable"
+msgstr "構成可能"
+
+msgid  "Puff Limit:"
+msgstr "パフリミット:"
+
+msgid  "Disabled"
+msgstr "無効"
+
+msgid  "Enabled"
+msgstr "有効"
+
+msgid  "Energy Limit:"
+msgstr "電力リミット:"
+
+msgid  "Time Limit:"
+msgstr "時間リミット:"
+
+msgid  "Apply Research Seal"
+msgstr "開発シール登録"
+
+msgid  "Break Research Seal"
+msgstr "開発シール破棄"
+
+msgid  "Check Research Seal"
+msgstr "開発シール確認"
+
+msgid  "Reset Statistics"
+msgstr "ステータスのリセット"
+
+#. Device Monitor
+msgid  "Device Monitor"
+msgstr "デバイスモニター"
+
+msgid  "Live View"
+msgstr "ライブビュー"
+
+msgid  "USB Power:"
+msgstr "USB 電力:"
+
+msgid  "USB Current:"
+msgstr "USB 電流:"
+
+msgid  "USB Voltage:"
+msgstr "USB 電圧:"
+
+msgid  "Charge:"
+msgstr "充電:"
+
+msgid  "Pack:"
+msgstr "パック:"
+
+msgid  "Cell {0}:"
+msgstr "セル {0}:"
+
+msgid  "Current Puff"
+msgstr "パフ情報"
+
+msgid  "Power:"
+msgstr "電力:"
+
+msgid  "Power Set:"
+msgstr "電力設定:"
+
+msgid  "Temperature:"
+msgstr "温度:"
+
+msgid  "Temperature Set:"
+msgstr "温度設定:"
+
+msgid  "Current:"
+msgstr "電流:"
+
+msgid  "Voltage:"
+msgstr "電圧:"
+
+msgid  "Cold Ohms:"
+msgstr "冷間抵抗値:"
+
+msgid  "Live Ohms:"
+msgstr "現在の抵抗値:"
+
+msgid  "Room Temp:"
+msgstr "外気温度:"
+
+msgid  "Board Temp:"
+msgstr "基板温度:"
+
+msgid  "Statistics"
+msgstr "統計"
+
+msgid  "Since Reset"
+msgstr "リセット後"
+
+msgid  "Total"
+msgstr "合計"
+
+msgid  "Last Puff"
+msgstr "前回のパフ"
+
+msgid  "Mean"
+msgstr "平均"
+
+msgid  "Std. Dev."
+msgstr "標準偏差(統計)"
+
+msgid  "Puffs:"
+msgstr "パフ:"
+
+msgid  "Temp-Protected:"
+msgstr "温度保護:"
+
+msgid  "Energy:"
+msgstr "容量:"
+
+msgid  "Power:"
+msgstr "電力:"
+
+msgid  "Temperature:"
+msgstr "温度:"
+
+msgid  "Time:"
+msgstr "時間:"
+
+msgid  "&Record..."
+msgstr "記録..."
+
+msgid  "Graph &Options"
+msgstr "グラフオプション"
+
+msgid  "&Clear Graph"
+msgstr "グラフ消去"
+
+msgid  "&Save Graph..."
+msgstr "グラフ保存..."
+
+msgid  "Set &Time Scale..."
+msgstr "時間軸設定..."
+
+msgid  "Puf&f..."
+msgstr "パフ..."
+
+msgid        "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0]    "{0} 秒"
+msgstr[1]    "{0} 秒"
+
+msgid  "&Custom..."
+msgstr "カスタム..."
+
+msgid  "Puff"
+msgstr "パフ"
+
+msgid  "Duration (seconds):"
+msgstr "持続時間 (秒):"
+
+msgid  "Set &Power..."
+msgstr "電力設定..."
+
+msgid  "Set Power"
+msgstr "電力設定"
+
+msgid  "Power (W):"
+msgstr "電力 (W):"
+
+msgid  "Set &Temperature..."
+msgstr "温度設定..."
+
+msgid  "Set Temperature"
+msgstr "温度設定"
+
+msgid  "Units:"
+msgstr "単位:"
+
+msgid  "&Disable Temperature Protection"
+msgstr "温度保護無効"
+
+msgid  "&Research"
+msgstr "開発"
+
+msgid  "Enter Temperature &Monitoring Mode..."
+msgstr "温度確認モード..."
+
+msgid  "&Diagnostics"
+msgstr "診断"
+
+msgid  "Set &Profile..."
+msgstr "プロファイル設定..."
+
+msgid  "Set Profile"
+msgstr "プロファイル設定"
+
+msgid  "Set &Charge Estimate..."
+msgstr "充電推定値設定..."
+
+msgid  "&Set USB Current Limit..."
+msgstr "USB電流上限設定..."
+
+msgid  "&Reset USB Current Limit"
+msgstr "USB電流上限リセット"
+
+msgid  "&Advanced"
+msgstr "高度な設定"
+
+msgid  "Perform USB &Recovery Charging..."
+msgstr "USBリカバリ充電の実行..."
+
+msgid  "Reset &Statistics"
+msgstr "統計情報のリセット"
+
+msgid  "Resets: {0}"
+msgstr "リセット: {0}"
+
+msgid  "Version: {0}"
+msgstr "バージョン: {0}"
+
+#. added in 2015-07-29
+#. Device Monitor
+msgid  "Mode: {0}"
+msgstr "モード: {0}"
+
+msgid  "Stealth"
+msgstr "ステルス"
+
+msgid  "Power Locked"
+msgstr "電力ロック"
+
+msgid  "Buttons: {0}"
+msgstr "ボタン: {0}"
+
+msgid  "None"
+msgstr "無効"
+
+msgid  "Fire"
+msgstr "ファイア"
+
+msgid  "Profile: {0}"
+msgstr "プロファイル: {0}"
+
+#. added in 2015-08-07
+msgid  "Fahrenheit"
+msgstr "華氏 (F)"
+
+msgid  "Celsius"
+msgstr "摂氏 (C)"
+
+#. added in 2015-08-07
+#. Get Information
+msgid  "Board programmed"
+msgstr "基板プログラム"
+
+msgid  "Mod configured"
+msgstr "ＭＯＤ情報"
+
+#. added in 2015-08-07
+#. curve editing
+msgid  "Label Curve"
+msgstr "ラベルカーブ"
+
+msgid  "New Label:"
+msgstr "新規ラベル:"
+
+msgid  "Reduce Number of Points"
+msgstr "ポイントの削除"
+
+msgid  "Remaining Point Count:"
+msgstr "ポイントの残り:"
+
+msgid  "Reduction Method:"
+msgstr "丸め手法:"
+
+msgid  "Temperature Coefficient of Resistance"
+msgstr "抵抗温度係数 (TCR)"
+
+msgid  "Electrical Resistivity"
+msgstr "電気抵抗率"
+
+msgid  "Temperature (属F)"
+msgstr "温度  (F)"
+
+msgid  "Cell Voltage (V)"
+msgstr "セル電圧 (V)"
+
+msgid  "Battery Charge (%)"
+msgstr "バッテリー充電 (%)"
+
+#. added in 2015-08-07
+#. Device Monitor
+msgid  "Set Time Scale"
+msgstr "時間軸設定"
+
+msgid  "Time Scale (seconds):"
+msgstr "時間軸 (秒):"
+
+msgid  "Profile:"
+msgstr "プロファイル:"
+
+msgid  "Set Charge Estimate"
+msgstr "充電推定値設定"
+
+msgid  "Charge (Wh):"
+msgstr "充電 (Wh):"
+
+msgid  "Set USB Current Limit"
+msgstr "USB電流制限設定"
+
+msgid  "Current (A):"
+msgstr "電流 (A):"
+
+msgid  "Temperature Monitoring Mode"
+msgstr "温度モニタモード"
+
+msgid  "In temperature monitoring mode, temperature will be displayed.\nIt will NOT be limited in any way."
+msgstr "温度モニタモードでは、どんな状況でも温度が表示されます"
+
+msgid  "Continue?"
+msgstr "継続？"
+
+#. added in 2015-08-07
+#. Theme tab
+msgid  "Capturing Screen"
+msgstr "スクリーンキャプチャ"
+
+#. added in 2015-08-07
+#. Atomizer Analyzer
+msgid  "Raw Ohms:"
+msgstr "初期抵抗値:"
+
+msgid  "Nominal Ohms:"
+msgstr "演算抵抗値:"
+
+msgid  "Cold Ohms:"
+msgstr "冷間抵抗値:"
+
+msgid  "Room Temp:"
+msgstr "外気温度:"
+
+#. added in 2015-08-07
+#. Battery Analyzer
+msgid  "&Start"
+msgstr "開始"
+
+msgid  "&Stop"
+msgstr "中止"
+
+msgid  "&Accept"
+msgstr "登録"
+
+#. added in 2015-08-07
+#. Watt-Hour Calculator
+msgid  "Battery Pack Voltage"
+msgstr "バッテリーパック電圧"
+
+msgid  "Do you know the total voltage of your battery pack?\nThis is typically printed on it."
+msgstr "バッテリーパックの電圧は把握していますか？\nバッテリーパックの記載を確認するか、製造元にご確認下さい\n把握している：はい / 単セルから計算：いいえ"
+
+msgid  "Calculate Watt-Hours"
+msgstr "計算容量 (Wh)"
+
+msgid  "Battery Cell Capacity (mAh):"
+msgstr "バッテリーセル容量 (mAh):"
+
+msgid  "Number of Battery Cells:"
+msgstr "バッテリーセル個数:"
+
+msgid  "Nominal Cell Voltage:"
+msgstr "公称セル電圧:"
+
+msgid  "Nominal Pack Voltage:"
+msgstr "公称パック電圧:"
+
+msgid  "Calculation Result"
+msgstr "計算結果"
+
+msgid  "Your battery has a capacity of {0} watt-hours."
+msgstr "このバッテリーの容量は {0} Whです."
+
+msgid  "Use this value?"
+msgstr "この値を適用しますか？"
+
+#. added in 2015-08-07
+#. Research tab
+msgid  "Return To Researcher:"
+msgstr "開発者へ返却:"
+
+msgid  "Enter Research Seal"
+msgstr "開発シールを入力して下さい"
+
+msgid  "Research seal is intact."
+msgstr "開発シールは有効です"
+
+msgid  "Research seal does not match."
+msgstr "開発シールが一致しません"
+
+msgid  "Reached the rate limit. Try again later."
+msgstr "制限に到達、時間を置いてお試し下さい"
+
+msgid  "Success"
+msgstr "成功"
+
+msgid  "Research seal applied."
+msgstr "開発シールを適用します"
+
+msgid  "Research seal broken."
+msgstr "開発シールは破損しています"
+
+msgid  "Statistics reset."
+msgstr "統計情報のリセット"
+
+msgid  "Error"
+msgstr "エラー"
+
+msgid  "A researcher has already applied a seal to this device."
+msgstr "このデバイスには既に、開発シールが適用されています"
+
+msgid  "This device has not been sealed for research."
+msgstr "このデバイスには開発シールが適用されていません"
+
+#. added in 2015-08-07
+#. Tools->Show Serial Number
+msgid  "Serial Number"
+msgstr "シリアルナンバー"
+
+msgid  "Copy to Clipboard?"
+msgstr "クリップボードへコピー"
+
+msgid  "Copied."
+msgstr "完了"
+
+#. added in 2015-08-07
+#. Tools->Update Firmware
+msgid  "New firmware is available!"
+msgstr "新しいファームウェアがあります！"
+
+msgid  "Click here to update your device to {0}."
+msgstr "デバイスを更新 {0}"
+
+msgid  "Please Wait"
+msgstr "ちょっと待ってね"
+
+msgid  "Updating Core Firmware"
+msgstr "コアファームウェアアップデート"
+
+msgid  "Updating Firmware"
+msgstr "ファームウェアアップデート"
+
+msgid  "New Firmware"
+msgstr "新規ファームウェア"
+
+msgid  "New firmware is going to be uploaded."
+msgstr "新しいファームウェアを適用しようとしています"
+
+msgid  "Before clicking OK, please make sure that the device is idle."
+msgstr "OKを押す前に、デバイスが待機状態であることを確認して下さい"
+
+msgid  "Firmware update complete."
+msgstr "ファームウェアアップデート完了"
+
+#. added in 2015-08-07
+#. Tools->Production Utility
+msgid  "Production Utility"
+msgstr "プロダクションユーティリティ"
+
+msgid  "&Save..."
+msgstr "保存..."
+
+msgid  "Browse..."
+msgstr "詳細確認..."
+
+msgid  "Model Name:"
+msgstr "モデル名称:"
+
+msgid  "Firmware File:"
+msgstr "ファームウェアファイル:"
+
+msgid  "Settings File:"
+msgstr "設定ファイル:"
+
+msgid  "&Program && Test"
+msgstr "プログラム＆テスト"
+
+#. added in 2015-08-19
+#. messages
+msgid  "Invalid Value"
+msgstr "無効なデータ"
+
+msgid  "Value must be a number."
+msgstr "数字を入力して下さい"
+
+#. Connect
+msgid  "Unable to open a connection.\nAnother program may be using the device."
+msgstr "デバイスに接続出来ませんでした\n他のプログラムがデバイスを使用しています"
+
+#. Mod tab
+msgid "Case Cooling Time Constant:"
+msgstr "ケース温度低下時間:"
+
+msgid  "Case Heating Time Constant:"
+msgstr "ケース温度上昇時間:"
+
+msgid  "Case USB Charge Temperature Rise:"
+msgstr "ケースUSB充電温度係数:"
+
+msgid  "Minimum Ambient Temperature:"
+msgstr "最低外気温:"
+
+msgid  "Maximum Ambient Temperature:"
+msgstr "最高外気温:"
+
+#. Battery Analyzer
+msgid  "What power would you like to conduct the test at?"
+msgstr "テスト用電力設定"
+
+#. Case Analyzer
+msgid  "What is the room temperature (°F)?"
+msgstr "外気温を入力して下さい (華氏/Ｆ)?"
+
+#. Production Utility
+msgid  "Login Required"
+msgstr "ログインが必要です"
+
+msgid  "You must be logged in to use the production utility."
+msgstr "プロダクションユーティリティは、ログインが必須です"
+
+msgid  "Select the latest firmware to have it loaded onto the device."
+msgstr "最新のファームウェアをデバイスに書き込みます"
+
+msgid  "Select your mod's default settings file. It can be reloaded by clicking Restore Defaults."
+msgstr "標準設定ファイルを選択して下さい。これはMODの「標準設定に戻す」に適用されます"
+
+msgid  "Functional Tests"
+msgstr "機能テスト"
+
+msgid  "Fire Test"
+msgstr "ファイアテスト"
+
+msgid  "Checks that the device can fire and read Ohms properly. Attach a resistor or non-temperature coil."
+msgstr "デバイスのファイアと抵抗値読み込みを確認します、温度管理非対応コイルを使用して下さい"
+
+msgid  "Fire Time:"
+msgstr "ファイア時間:"
+
+msgid  "Fire Power:"
+msgstr "ファイア電力:"
+
+msgid  "Expected Cold Resistance:"
+msgstr "想定冷間抵抗値:"
+
+msgid  "Battery Test"
+msgstr "バッテリーテスト"
+
+msgid  "Makes sure the battery cells have reasonable voltages and can be charged."
+msgstr "バッテリーセルの電圧、及び充電を確認します"
+
+msgid  "Minimum Cell Voltage:"
+msgstr "最低セル電圧:"
+
+msgid  "Maximum Cell Imbalance:"
+msgstr "最大セルバランス:"
+
+msgid  "Wait for USB Current to Rise Above:"
+msgstr "USB電流上昇待機:"
+
+msgid  "Production"
+msgstr "プロダクション"
+
+msgid  "No actions."
+msgstr "非動作"
+
+msgid  "Fire test failed."
+msgstr "ファイアテスト失敗"
+
+msgid  "Battery test failed."
+msgstr "バッテリーテスト失敗"
+
+msgid  "Production actions succeeded."
+msgstr "プロダクション確認成功！"
+
+#. added in 2015-08-21
+#. Theme tab
+msgid  "Hide Ohms on Custom"
+msgstr "抵抗値を表示しない"
+
+msgid  "Show Ohms on Custom"
+msgstr "抵抗値を表示する"
+
+msgid  "New Coil"
+msgstr "新コイル"
+
+msgid  "Old Coil"
+msgstr "旧コイル"
+
+#. added in 2015-09-30
+#. Theme tab
+msgid  "Look and Feel"
+msgstr "操作設定"
+
+msgid  "Watts Press Increment:"
+msgstr "電力押下時送り量:"
+
+msgid  "Watts Hold Increment:"
+msgstr "電力長押時送り量:"
+
+#. added in 2015-10-20
+#. Connect errors
+msgid  "Nothing Connected"
+msgstr "未接続"
+
+msgid  "No compatible USB devices are connected."
+msgstr "USBデバイスが見つかりません"
+
+msgid  "To continue, please connect one."
+msgstr "デバイスを接続してから、再度実行して下さい"
+
+msgid  "If one already IS connected, try unplugging and plugging it back in. The cable may be loose."
+msgstr "デバイスを接続している場合、USBケーブルを抜き差ししてみて下さい"
+
+#. Device Monitor
+msgid  "Are you sure you want to reset your statistics?"
+msgstr "統計情報をリセットしますか？"
+
+#. General tab
+msgid  "Are you sure you want to restore to manufacturer settings?\nAny customizations you have made will be lost."
+msgstr "標準設定を復元しますか？\n全ての設定は初期化されます"
+
+msgid  "Load Profile..."
+msgstr "プロファイル読込..."
+
+msgid  "Save Profile..."
+msgstr "プロファイル保存..."
+
+msgid  "Copy Profile"
+msgstr "プロファイルコピー"
+
+#. Mod tab
+msgid  "Behavior"
+msgstr "ＭＯＤ動作設定"
+
+msgid  "Manufacturer Settings"
+msgstr "詳細な設定"
+
+#. click seven times on the logo in Help->About to show these in Tools
+msgid  "Edit Translations"
+msgstr "Edit Translations"
+
+msgid  "Test Translation"
+msgstr "Test Translation"
+
+#. menu - Help - change language
+msgid  "Autodetect"
+msgstr "Autodetect"
+
+#. popup screen - change language
+msgid  "Set Language"
+msgstr "Set Language"
+
+msgid  "Are you sure you want to change the language to {0}?"
+msgstr "Are you sure you want to change the language to {0}?"
+
+msgid  "Please restart {0} for the change to take effect."
+msgstr "Please restart {0} for the change to take effect."
+
+msgid  "The language is now {0}."
+msgstr "The language is now {0}."
+
+msgid  "The language is now autodetected."
+msgstr "The language is now autodetected."
+
+#. General tab
+msgid  "Materials"
+msgstr "材質"
+
+#. Materials tab - Materials on Device
+#. popup screen - Materials on Device "Delete"
+
+msgid  "Materials on Device"
+msgstr "デバイス上の材質"
+
+msgid  "Available Materials"
+msgstr "有効な材質"
+
+msgid  "Temperature-Dominant"
+msgstr "温度調整モード"
+
+msgid  "Material In Use"
+msgstr  "使用材質"
+
+msgid  "Temperature Increment:"
+msgstr "温度送り量:"
+
+msgid  "That material cannot be removed because it is being used by a profile."
+msgstr "プロファイルで使用している為、材質を削除できません"
+
+#. Materials tab
+#. popup screen - Moving materials between repository and device
+
+msgid  "That material is already in the repository."
+msgstr "素材はEScribeに定義済みです"
+
+msgid  "That material is already on the device."
+msgstr "素材はデバイスに定義済みです" 
+
+msgid  "Max Continuous Input Current:"
+msgstr "最大連続電流:"
+
+msgid  "Max Pulse Input Current:"
+msgstr "最大パルス電流:"
+
+msgid  "&Language"
+msgstr "&Language"
+
+msgid  "Running"
+msgstr "動作時"
+
+msgid  "Charging"
+msgstr "充電時"
+
+msgid  "Charging brightness is very low."
+msgstr "充電時スクリーンは暗くなります"
+
+msgid  "Firing:"
+msgstr "動作モード:"
+
+msgid  "Do not change brightness."
+msgstr "輝度固定"
+
+msgid  "Activate the screen."
+msgstr "アクティブ"
+
+msgid  "Turn the screen off."
+msgstr "消灯"
+
+msgid  "Do not change the screen."
+msgstr "変化しない"
+
+#. misc translation commands
+#. 勝手に調べて追加した項目 160308 by eucalyptus.
+
+msgid "Temp Locked Hold Up Down:"
+msgstr "上下ボタン長押し温度ロック:"
+
+msgid "Hold To Change Power:"
+msgstr "長押し電力調整:"
+
+msgid "Hold To Change Material:"
+msgstr "長押し材質調整:"
+
+msgid  "Firning:"
+msgstr "動作選択:"
+
+msgid  "Active:"
+msgstr "動作輝度:"
+
+msgid  "Idle:"
+msgstr "待機輝度:"
+
+msgid  "Charging:"
+msgstr "充電輝度:"
+
+msgid  "Fading"
+msgstr "フェード・時間設定"
+
+msgid  "After Firing:"
+msgstr "パフ後:"
+
+msgid  "Set your PSU voltage to 12V. Do not use this option with batteries."
+msgstr "外部電源は、12Vに設定して下さい、バッテリーには使用しないで下さい"
+
+msgid  "Actions"
+msgstr "アクション"
+
+msgid  "Ohm Lock Range:"
+msgstr "抵抗値固定範囲:"
+
+msgid  "On-Screen Name:"
+msgstr "画面名称"
+
+msgid  "off"
+msgstr "オフ"
+
+msgid "Customized screens are copyrighted by their respective creators."
+msgstr "カスタムスクリーンの権利は、カスタムスクリーンの製作者が保有しています"
+
+msgid  "Profile Name"
+msgstr "プロファイル名称"
+
+msgid  "Profile Name (Standard)"
+msgstr "プロファイル名称 (標準)"
+
+msgid  "Material Name"
+msgstr "材質名称"
+
+msgid  "Temperature (°F)"
+msgstr "温度(F)"
+
+msgid  "Automatically Connect to &Device"
+msgstr "デバイスへ自動的に接続"
+
+msgid  "&New"
+msgstr "新規作成"

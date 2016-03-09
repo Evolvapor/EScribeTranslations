@@ -32,6 +32,10 @@ msgid   "it"
 msgstr  "Italian"
 
 msgctxt "English Language Code"
+msgid   "ja"
+msgstr  "Japanese"
+
+msgctxt "English Language Code"
 msgid   "nb"
 msgstr  "Norwegian"
 

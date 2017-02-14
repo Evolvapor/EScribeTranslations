@@ -195,7 +195,7 @@ msgid "&Upload Settings to Device"
 msgstr "&Veränderte Einstellungen auf den DNA übertragen"
 
 msgid  "Device &Monitor"
-msgstr "Geräte &Überwachung"
+msgstr "Geräte Monitor"
 
 msgid  "{0} connected on USB."
 msgstr "{0} verbunden über USB."
